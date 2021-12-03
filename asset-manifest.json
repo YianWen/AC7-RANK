@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3806d75a.chunk.css",
+    "main.js": "/static/js/main.99505779.chunk.js",
+    "main.js.map": "/static/js/main.99505779.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8d4c8726.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8d4c8726.js.map",
+    "static/js/2.30b08a23.chunk.js": "/static/js/2.30b08a23.chunk.js",
+    "static/js/2.30b08a23.chunk.js.map": "/static/js/2.30b08a23.chunk.js.map",
+    "static/js/3.0ad22d97.chunk.js": "/static/js/3.0ad22d97.chunk.js",
+    "static/js/3.0ad22d97.chunk.js.map": "/static/js/3.0ad22d97.chunk.js.map",
+    "static/js/4.e40bf188.chunk.js": "/static/js/4.e40bf188.chunk.js",
+    "static/js/4.e40bf188.chunk.js.map": "/static/js/4.e40bf188.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3806d75a.chunk.css.map": "/static/css/main.3806d75a.chunk.css.map",
+    "static/js/2.30b08a23.chunk.js.LICENSE.txt": "/static/js/2.30b08a23.chunk.js.LICENSE.txt",
+    "static/js/3.0ad22d97.chunk.js.LICENSE.txt": "/static/js/3.0ad22d97.chunk.js.LICENSE.txt",
+    "static/media/AC2-Hanger.6dd52828.mp3": "/static/media/AC2-Hanger.6dd52828.mp3",
+    "static/media/AC2-Lode Stone.2c6f40a5.mp3": "/static/media/AC2-Lode Stone.2c6f40a5.mp3",
+    "static/media/AC4-Scramble.dab83b58.mp3": "/static/media/AC4-Scramble.dab83b58.mp3",
+    "static/media/AC4-The Hangar.5e43c1fe.mp3": "/static/media/AC4-The Hangar.5e43c1fe.mp3",
+    "static/media/AC5-Hangar 1.14acf584.mp3": "/static/media/AC5-Hangar 1.14acf584.mp3",
+    "static/media/AC5-Tutorial Main.3f5ca6cb.mp3": "/static/media/AC5-Tutorial Main.3f5ca6cb.mp3",
+    "static/media/AC7-444th Air Base Hangar.684c6fbd.mp3": "/static/media/AC7-444th Air Base Hangar.684c6fbd.mp3",
+    "static/media/index.css": "/static/media/ac7-bg-img.c80c1272.png",
+    "static/media/ACZ-Briefing I.8c3c64cb.mp3": "/static/media/ACZ-Briefing I.8c3c64cb.mp3",
+    "static/media/ACZ-Hangar.6f496d41.mp3": "/static/media/ACZ-Hangar.6f496d41.mp3",
+    "static/media/ACZ-Sortie I.83b84d0d.mp3": "/static/media/ACZ-Sortie I.83b84d0d.mp3",
+    "static/media/about-icon.fedacfe8.svg": "/static/media/about-icon.fedacfe8.svg",
+    "static/media/cancel.454edab0.mp3": "/static/media/cancel.454edab0.mp3",
+    "static/media/load_complete.65de8f15.mp3": "/static/media/load_complete.65de8f15.mp3",
+    "static/media/navigate.890aefd2.mp3": "/static/media/navigate.890aefd2.mp3",
+    "static/media/pilot.2b4c3f80.svg": "/static/media/pilot.2b4c3f80.svg",
+    "static/media/select.34cfe8c1.mp3": "/static/media/select.34cfe8c1.mp3",
+    "static/media/settings-gear.c81561cf.svg": "/static/media/settings-gear.c81561cf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d4c8726.js",
+    "static/js/2.30b08a23.chunk.js",
+    "static/css/main.3806d75a.chunk.css",
+    "static/js/main.99505779.chunk.js"
+  ]
+}
