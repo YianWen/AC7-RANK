@@ -1,0 +1,21 @@
+{
+    "id":6,
+    "name": "Arthur Morais",
+    "callsign":"Bliq",
+    "unit":"Akagi",
+    "mainPlane":"F-22A",
+    "mainSpW":"6AAM",
+    "picture":"/images/bliq.webp",
+    "country":{
+        "name":"Brazil",
+        "code":"BR"
+    },
+    "topPc":11,
+    "topPs":"--",
+    "topXb":9,
+    "statistics":{
+        "boost":78, "drift":82, "concistency":86, "bkf":74, "strategy":70, "agressivity":88,
+        "mslAcc":80, "mslCurving":80, "mslLooping":84, 
+        "mgAcc":90, "mgRate":95
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":21,
+    "name": "Esen",
+    "callsign":"Badger",
+    "unit":"Venom Squadron",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/esen.jpg",
+    "country":{
+        "name":"Singapore",
+        "code":"SG"
+    },
+    "topPc":16,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":77, "drift":68, "concistency":84, "bkf":21, "strategy":71, "agressivity":79,
+        "mslAcc":85, "mslCurving":60, "mslLooping":40,
+        "mgAcc":76, "mgRate":44
+    }
+}

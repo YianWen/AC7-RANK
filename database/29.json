@@ -1,0 +1,21 @@
+{
+    "id":29,
+    "name": "Federal Hamster",
+    "callsign":"Razgriz One",
+    "unit":"--",
+    "mainPlane":"Su-57",
+    "mainSpW":"PLSL",
+    "picture":"/images/raz.jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":17,
+    "topPs":21,
+    "topXb":"--",
+    "statistics":{
+        "boost":90, "drift":88, "concistency":88, "bkf":0, "strategy":61, 
+        "mslAcc":88, "mslCurving":92, "mslLooping":40,
+        "mgAcc":92, "mgRate":100
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":19,
+    "name": "Sullvant",
+    "callsign":"Soul",
+    "unit":"Stargazer Squadron",
+    "mainPlane":"Su-30SM",
+    "mainSpW":"6AAM",
+    "picture":"/images/sull.webp",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":6,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":82, "drift":99, "concistency":94, "bkf":99, "strategy":76, "agressivity":89,
+        "mslAcc":90, "mslCurving":50, "mslLooping":98,
+        "mgAcc":93, "mgRate":100
+    }
+}

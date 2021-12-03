@@ -1,0 +1,21 @@
+{
+    "id":5,
+    "name": "John Smith",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"F-15 S/MTD",
+    "mainSpW":"HPAA",
+    "picture":"/images/john-mtd.png",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":14,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":78, "drift":89, "concistency":82, "bkf":89, "strategy":80, "agressivity":81,
+        "mslAcc":70, "mslCurving":70, "mslLooping":80, 
+        "mgAcc":70, "mgRate":60
+    }
+}

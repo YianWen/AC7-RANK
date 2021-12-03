@@ -1,0 +1,21 @@
+{
+    "id":16,
+    "name": "NemesisValhalla",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/nemesis.webp",
+    "country":{
+        "name":"Hong-Kong",
+        "code":"HK"
+    },
+    "topPc":12,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":80, "drift":70, "concistency":84, "bkf":58, "strategy":74, "agressivity":83,
+        "mslAcc":86, "mslCurving":68, "mslLooping":40,
+        "mgAcc":71, "mgRate":74
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":17,
+    "name": "Giquo",
+    "callsign":"Jazzman",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/jazzman.png",
+    "country":{
+        "name":"Colombia",
+        "code":"CO"
+    },
+    "topPc":18,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":80, "drift":68, "concistency":73, "bkf":67, "strategy":73, "agressivity":60,
+        "mslAcc":75, "mslCurving":72, "mslLooping":70,
+        "mgAcc":75, "mgRate":80
+    }
+}

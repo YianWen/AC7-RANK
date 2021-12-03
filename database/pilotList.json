@@ -116,6 +116,10 @@
 			"id": 29,
 			"name": "Federal Hamster",
 			"platforms": ["PC", "PSN"]
+		},{
+			"id": 30,
+			"name": "Mobius",
+			"platforms": ["PSN"]
 		}
 	]
 }

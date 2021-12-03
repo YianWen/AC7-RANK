@@ -1,0 +1,21 @@
+{
+    "id":27,
+    "name": "Russian Shark",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"MiG-35D",
+    "mainSpW":"6AAM",
+    "picture":"/images/rusShark.png",
+    "country":{
+        "name":"Russia",
+        "code":"RU"
+    },
+    "topPc":20,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":68, "drift":88, "concistency":68, "bkf":90, "strategy":66, "agressivity":64,
+        "mslAcc":64, "mslCurving":40, "mslLooping":78,
+        "mgAcc":56, "mgRate":60
+    }
+}

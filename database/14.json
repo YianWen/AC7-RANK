@@ -1,0 +1,21 @@
+{
+    "id":14,
+    "name": "Fluffy Marsmallows",
+    "callsign":"Wolf",
+    "unit":"28th Tactical Fighter Squadron Zeus",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/fluffy.webp",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":19,
+    "topPs":11,
+    "topXb":11,
+    "statistics":{
+        "boost":75, "drift":60, "concistency":70, "bkf":0, "strategy":98, "agressivity":70,
+        "mslAcc":80, "mslCurving":30, "mslLooping":82,
+        "mgAcc":65, "mgRate":32
+    }
+}

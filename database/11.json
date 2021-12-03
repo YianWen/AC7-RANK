@@ -1,0 +1,21 @@
+{
+    "id":11,
+    "name": "Darkskryll",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-30SM",
+    "mainSpW":"6AAM",
+    "picture":"/images/dark.png",
+    "country":{
+        "name":"Brazil",
+        "code":"BR"
+    },
+    "topPc":1,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":99, "drift":98, "concistency":100, "bkf":100, "strategy":90, 
+        "mslAcc":100, "mslCurving":96, "mslLooping":100,
+        "mgAcc":97, "mgRate":96
+    }
+}

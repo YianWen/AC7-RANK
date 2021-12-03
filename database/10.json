@@ -1,0 +1,21 @@
+{
+    "id":10,
+    "name": "Celestseal",
+    "callsign":"Stardust",
+    "unit":"Stargazer Squadron",
+    "mainPlane":"Su-30SM",
+    "mainSpW":"6AAM",
+    "picture":"/images/celestseal.webp",
+    "country":{
+        "name":"Scottland",
+        "code":"GB"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":58, "drift":58, "concistency":52, "bkf":62, "strategy":55, "agressivity":66,
+        "mslAcc":92, "mslCurving":99, "mslLooping":60,
+        "mgAcc":25, "mgRate":100
+    }
+}

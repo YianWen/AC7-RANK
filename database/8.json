@@ -1,0 +1,21 @@
+{
+    "id":8,
+    "name": "Alejandro",
+    "callsign":"Megalith",
+    "unit":"Tactical Squadron Zain",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/mega.jpg",
+    "country":{
+        "name":"Peru",
+        "code":"PE"
+    },
+    "topPc":22,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":90, "drift":70, "concistency":60, "bkf":60, "strategy":66, "agressivity":69,
+        "mslAcc":40, "mslCurving":50, "mslLooping":45,
+        "mgAcc":30, "mgRate":10
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":12,
+    "name": "Joaquin",
+    "callsign":"Spitfire",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/spit.jpg",
+    "country":{
+        "name":"Mexico",
+        "code":"MX"
+    },
+    "topPc":7,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":95, "drift":80, "concistency":98, "bkf":30, "strategy":78, "agressivity":98,
+        "mslAcc":95, "mslCurving":88, "mslLooping":30,
+        "mgAcc":88, "mgRate":44
+    }
+}

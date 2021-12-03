@@ -1,0 +1,21 @@
+{
+    "id":27,
+    "name": "Mobius",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"F-22A",
+    "mainSpW":"6AAM",
+    "picture":"/images/rusShark.png",
+    "country":{
+        "name":"United States",
+        "code":"RU"
+    },
+    "topPc":20,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":88, "drift":92, "concistency":68, "bkf":90, "strategy":66, "agressivity":64,
+        "mslAcc":64, "mslCurving":40, "mslLooping":78,
+        "mgAcc":56, "mgRate":60
+    }
+}

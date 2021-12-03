@@ -1,0 +1,21 @@
+{
+    "id":22,
+    "name": "Riran",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-30SM",
+    "mainSpW":"6AAM",
+    "picture":"/images/30sm.webp",
+    "country":{
+        "name":"China",
+        "code":"CN"
+    },
+    "topPc":21,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":63, "drift":88, "concistency":79, "bkf":84, "strategy":58, "agressivity":64,
+        "mslAcc":68, "mslCurving":50, "mslLooping":80,
+        "mgAcc":40, "mgRate":68
+    }
+}

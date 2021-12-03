@@ -1,0 +1,21 @@
+{
+    "id":15,
+    "name": "Woodie",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/woodie.jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":5,
+    "topPs":9,
+    "topXb":"--",
+    "statistics":{
+        "boost":94, "drift":98, "concistency":92, "bkf":78, "strategy":82, "agressivity":88,
+        "mslAcc":92, "mslCurving":60, "mslLooping":40,
+        "mgAcc":76, "mgRate":68
+    }
+}

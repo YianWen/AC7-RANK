@@ -1,0 +1,21 @@
+{
+    "id":18,
+    "name": "Nathaniel",
+    "callsign":"Kot",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/nathan.webp",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":15,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":90, "drift":72, "concistency":88, "bkf":80, "strategy":78, "agressivity":88,
+        "mslAcc":98, "mslCurving":100, "mslLooping":60,
+        "mgAcc":68, "mgRate":20
+    }
+}

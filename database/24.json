@@ -1,0 +1,21 @@
+{
+    "id":24,
+    "name": "Pride Purrah",
+    "callsign":"Nakahara",
+    "unit":"--",
+    "mainPlane":"ADF-11 Raven",
+    "mainSpW":"QAAM",
+    "picture":"/images/naka.png",
+    "country":{
+        "name":"Germany",
+        "code":"DE"
+    },
+    "topPc":28,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":50, "drift":38, "concistency":55, "bkf":30, "strategy":38, "agressivity":48,
+        "mslAcc":45, "mslCurving":10, "mslLooping":20,
+        "mgAcc":28, "mgRate":21
+    }
+}

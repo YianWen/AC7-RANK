@@ -1,0 +1,21 @@
+{
+    "id":9,
+    "name": "Ali ACF",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/ali.webp",
+    "country":{
+        "name":"Kuwait",
+        "code":"KW"
+    },
+    "topPc":3,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":99, "drift":91, "concistency":98, "bkf":90, "strategy":84, "agressivity":98,
+        "mslAcc":98, "mslCurving":98, "mslLooping":80,
+        "mgAcc":86, "mgRate":70
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":26,
+    "name": "Starrii",
+    "callsign":"A.I.",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"TLS",
+    "picture":"/images/starri.webp",
+    "country":{
+        "name":"United Sates",
+        "code":"US"
+    },
+    "topPc":10,
+    "topPs":"--",
+    "topXb":"21",
+    "statistics":{
+        "boost":82, "drift":88, "concistency":88, "bkf":90, "strategy":72, "agressivity":74,
+        "mslAcc":80, "mslCurving":87, "mslLooping":89,
+        "mgAcc":90, "mgRate":70
+    }
+}

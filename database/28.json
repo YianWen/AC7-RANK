@@ -1,0 +1,21 @@
+{
+    "id":28,
+    "name": "Mihaly",
+    "callsign":"Mister X",
+    "unit":"--",
+    "mainPlane":"Su-30SM",
+    "mainSpW":"6AAM",
+    "picture":"/images/30sm.webp",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":13,
+    "topPs":"--",
+    "topXb":"11",
+    "statistics":{
+        "boost":72, "drift":82, "concistency":86, "bkf":10, "strategy":76, "agressivity":87,
+        "mslAcc":82, "mslCurving":60, "mslLooping":30,
+        "mgAcc":88, "mgRate":86
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":20,
+    "name": "Ash",
+    "callsign":"--",
+    "unit":"Stargazer Squadron",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/ash.jpeg",
+    "country":{
+        "name":"Scottland",
+        "code":"GB"
+    },
+    "topPc":27,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":58, "drift":55, "concistency":48, "bkf":40, "strategy":44, "agressivity":54,
+        "mslAcc":52, "mslCurving":48, "mslLooping":30,
+        "mgAcc":30, "mgRate":30
+    }
+}

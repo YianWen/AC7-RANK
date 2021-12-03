@@ -1,0 +1,21 @@
+{
+    "id":7,
+    "name": "Chunye",
+    "callsign":"Xanax",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/chunye.png",
+    "country":{
+        "name":"China",
+        "code":"CN"
+    },
+    "topPc":2,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":97, "drift":95, "concistency":98, "bkf":20, "strategy":84, "agressivity":93,
+        "mslAcc":96, "mslCurving":80, "mslLooping":80,
+        "mgAcc":100, "mgRate":100
+    }
+}

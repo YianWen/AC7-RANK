@@ -1,0 +1,21 @@
+{
+    "id":23,
+    "name": "ICEYAM",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/woodie.jpg",
+    "country":{
+        "name":"China",
+        "code":"CN"
+    },
+    "topPc":25,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":60, "drift":60, "concistency":58, "bkf":40, "strategy":60, "agressivity":48,
+        "mslAcc":70, "mslCurving":50, "mslLooping":40,
+        "mgAcc":32, "mgRate":40
+    }
+}
