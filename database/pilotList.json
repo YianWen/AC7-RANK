@@ -1,0 +1,121 @@
+{
+	"pilots": [
+		{
+			"id": 1,
+			"name": "Aimer Ketsu",
+			"platforms": ["PC"]
+		},{
+			"id": 2,
+			"name": "Demon",
+			"platforms": ["XBOX"]
+		},{
+			"id": 3,
+			"name": "Talisman",
+			"platforms": ["PC", "PSN", "XBOX"]
+		},{
+			"id": 4,
+			"name": "Motorized Peach",
+			"platforms": ["PC"]
+		},{
+			"id": 5,
+			"name": "John Smith",
+			"platforms": ["PC"]
+		},{
+			"id": 6,
+			"name": "Bliq",
+			"platforms": ["PC", "XBOX"]
+		},{
+			"id": 7,
+			"name": "Chunye",
+			"platforms": ["PC"]
+		},{
+			"id": 8,
+			"name": "Megalith",
+			"platforms": ["PC"]
+		},{
+			"id": 9,
+			"name": "Ali ACF",
+			"platforms": ["PC"]
+		},{
+			"id": 10,
+			"name": "Celestseal",
+			"platforms": ["PC"]
+		},{
+			"id": 11,
+			"name": "Darkskryll",
+			"platforms": ["PC"]
+		},{
+			"id": 12,
+			"name": "Spitfire",
+			"platforms": ["PC"]
+		},{
+			"id": 13,
+			"name": "Raptor",
+			"platforms": ["PC", "PSN"]
+		},{
+			"id": 14,
+			"name": "Fluffy",
+			"platforms": ["PC", "PSN", "XBOX"]
+		},{
+			"id": 15,
+			"name": "Woodie",
+			"platforms": ["PC", "PSN"]
+		},{
+			"id": 16,
+			"name": "NemesisValhalla",
+			"platforms": ["PC"]
+		},{
+			"id": 17,
+			"name": "Giquo",
+			"platforms": ["PC"]
+		},{
+			"id": 18,
+			"name": "Nathan",
+			"platforms": ["PC", "PSN"]
+		},{
+			"id": 19,
+			"name": "Sullvant",
+			"platforms": ["PC"]
+		},{
+			"id": 20,
+			"name": "Ash",
+			"platforms": ["PC"]
+		},{
+			"id": 21,
+			"name": "Esen",
+			"platforms": ["PC", "PSN"]
+		},{
+			"id": 22,
+			"name": "Riran",
+			"platforms": ["PC"]
+		},{
+			"id": 23,
+			"name": "ICEYAM",
+			"platforms": ["PC"]
+		},{
+			"id": 24,
+			"name": "Nakahara",
+			"platforms": ["PC"]
+		},{
+			"id": 25,
+			"name": "Borgar",
+			"platforms": ["PC"]
+		},{
+			"id": 26,
+			"name": "Starrii",
+			"platforms": ["PC", "XBOX"]
+		},{
+			"id": 27,
+			"name": "Russian Shark",
+			"platforms": ["PC"]
+		},{
+			"id": 28,
+			"name": "Mister X",
+			"platforms": ["PC", "XBOX"]
+		},{
+			"id": 29,
+			"name": "Federal Hamster",
+			"platforms": ["PC", "PSN"]
+		}
+	]
+}

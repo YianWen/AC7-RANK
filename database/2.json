@@ -1,0 +1,21 @@
+{
+    "id":2,
+    "name": "--",
+    "callsign":"Demon",
+    "unit":"28th Tactical Fighter Squadron Zeus",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/demon.png",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":"--",
+    "topPs":"--",
+    "topXb":1,
+    "statistics":{
+        "boost":95, "drift":90, "concistency":96, "bkf":0, "strategy":100, "agressivity":90,
+        "mslAcc":90, "mslCurving":40, "mslLooping":30, 
+        "mgAcc":70, "mgRate":40
+    }
+}

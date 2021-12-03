@@ -1,0 +1,21 @@
+{
+    "id":4,
+    "name": "Motorized Peach",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/peach.jpg",
+    "country":{
+        "name":"Peru",
+        "code":"PE"
+    },
+    "topPc":26,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":58, "drift":58, "concistency":55, "bkf":15, "strategy":60, "agressivity":72,
+        "mslAcc":60, "mslCurving":50, "mslLooping":30, 
+        "mgAcc":30, "mgRate":10
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":1,
+    "name": "Aimer Ketsu",
+    "mainPlane":"ASF-X Shinden",
+    "callsign":"ケツ",
+    "unit":"--",
+    "mainSpW":"6AAM",
+    "picture":"/images/ketsu-asf-x.webp",
+    "country":{
+        "name":"Japan",
+        "code":"JP"
+    },
+    "topPc":9,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":84, "drift":96, "concistency":88, "bkf":98, "strategy":78, "agressivity":70,
+        "mslAcc":90, "mslCurving":70, "mslLooping":100, 
+        "mgAcc":60, "mgRate":30
+    }
+}
