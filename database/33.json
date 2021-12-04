@@ -3,7 +3,7 @@
     "name": "Hunter",
     "callsign":"Hunter",
     "unit":"28th Tactical Fighter Squadron Zeus",
-    "mainPlane":"Su-35",
+    "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
     "picture":"/images/35s.webp",
     "country":{

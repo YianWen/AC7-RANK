@@ -3,9 +3,9 @@
     "name": "Odin",
     "callsign":"Seraph 1",
     "unit":"Seraph Squadron",
-    "mainPlane":"Su-35",
+    "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
-    "picture":"/images/celestseal.webp",
+    "picture":"/images/su-35s (1).png",
     "country":{
         "name":"Sweden",
         "code":"SE"

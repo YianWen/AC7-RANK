@@ -3,9 +3,9 @@
     "name": "Heisenblack",
     "callsign":"Aesir 1",
     "unit":"Aesir Squadron",
-    "mainPlane":"SU35",
+    "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
-    "picture":"/images/celestseal.webp",
+    "picture":"/images/su-35s (4).png",
     "country":{
         "name":"United States",
         "code":"US"

@@ -3,9 +3,9 @@
     "name": "--",
     "callsign":"Raven",
     "unit":"Nordennavic Royal Air Force Titan",
-    "mainPlane":"SU-35",
+    "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
-    "picture":"/images/35s.webp",
+    "picture":"/images/su-35s (3).png",
     "country":{
         "name":"United States",
         "code":"US"
