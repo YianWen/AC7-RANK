@@ -1,21 +1,21 @@
 {
     "id":24,
-    "name": "Pride Purrah",
-    "callsign":"Nakahara",
+    "name": "Caselas",
+    "callsign":"--",
     "unit":"--",
-    "mainPlane":"ADF-11 Raven",
-    "mainSpW":"QAAM",
-    "picture":"/images/naka.png",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/celestseal.webp",
     "country":{
-        "name":"Germany",
-        "code":"DE"
+        "name":"Switzeland",
+        "code":"CH"
     },
     "topPc":28,
     "topPs":"--",
     "topXb":"--",
     "statistics":{
-        "boost":50, "drift":38, "consistency":55, "bkf":30, "strategy":38, "agressivity":48,
-        "mslAcc":45, "mslCurving":10, "mslLooping":20,
-        "mgAcc":28, "mgRate":21
+        "boost":72, "drift":72, "consistency":69, "bkf":0, "strategy":71,
+        "mslAcc":71, "mslCurving":50, "mslLooping":50,
+        "mgAcc":33, "mgRate":21
     }
 }
