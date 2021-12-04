@@ -2,19 +2,19 @@
     "id":29,
     "name": "Federal Hamster",
     "callsign":"Razgriz One",
-    "unit":"--",
+    "unit":"Nordennavic Royal Air Force Titan",
     "mainPlane":"Su-57",
     "mainSpW":"PLSL",
     "picture":"/images/raz.jpg",
     "country":{
-        "name":"United States",
-        "code":"US"
+        "name":"Hong Kong",
+        "code":"HK"
     },
     "topPc":17,
     "topPs":21,
     "topXb":"--",
     "statistics":{
-        "boost":90, "drift":88, "concistency":88, "bkf":0, "strategy":61, 
+        "boost":90, "drift":88, "consistency":88, "bkf":0, "strategy":61, 
         "mslAcc":88, "mslCurving":92, "mslLooping":40,
         "mgAcc":92, "mgRate":100 
     }

@@ -1,7 +1,7 @@
 {
     "id":42,
     "name": "vbcfbhu (LEGACY PROFILE)",
-    "callsign":"uwu 1",
+    "callsign":"Iris",
     "unit":"uwu squadron",
     "mainPlane":"Su-37",
     "mainSpW":"6AAM",
@@ -14,7 +14,7 @@
     "topPs":"--",
     "topXb":1,
     "statistics":{
-        "boost":100, "drift":100, "concistency":100, "bkf":90, "strategy":97, 
+        "boost":100, "drift":100, "consistency":100, "bkf":90, "strategy":97, 
         "mslAcc":100, "mslCurving":94, "mslLooping":95, 
         "mgAcc":97, "mgRate":90
     }

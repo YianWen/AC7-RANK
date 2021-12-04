@@ -1,7 +1,7 @@
 {
     "id":27,
     "name": "Russian Shark",
-    "callsign":"--",
+    "callsign":"Akula",
     "unit":"--",
     "mainPlane":"MiG-35D",
     "mainSpW":"6AAM",
@@ -14,8 +14,8 @@
     "topPs":"--",
     "topXb":"--",
     "statistics":{
-        "boost":88, "drift":92, "concistency":68, "bkf":94, "strategy":70, "agressivity":64,
-        "mslAcc":94, "mslCurving":75, "mslLooping":50,
+        "boost":88, "drift":92, "consistency":68, "bkf":94, "strategy":70, "agressivity":64,
+        "mslAcc":94, "mslCurving":75, "mslLooping":73,
         "mgAcc":82, "mgRate":70
     }
 }

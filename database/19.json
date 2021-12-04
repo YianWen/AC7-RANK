@@ -2,10 +2,10 @@
     "id":19,
     "name": "Sullvant",
     "callsign":"Soul",
-    "unit":"Stargazer Squadron",
-    "mainPlane":"Su-30SM",
+    "unit":"Squad 17",
+    "mainPlane":"ADF-01 Falken",
     "mainSpW":"6AAM",
-    "picture":"/images/sull.webp",
+    "picture":"/images/sull.png",
     "country":{
         "name":"United States",
         "code":"US"
@@ -14,8 +14,8 @@
     "topPs":"--",
     "topXb":"--",
     "statistics":{
-        "boost":82, "drift":99, "concistency":94, "bkf":99, "strategy":76, "agressivity":89,
-        "mslAcc":90, "mslCurving":50, "mslLooping":98,
+        "boost":82, "drift":99, "consistency":94, "bkf":99, "strategy":76, "agressivity":89,
+        "mslAcc":90, "mslCurving":70, "mslLooping":98,
         "mgAcc":93, "mgRate":100
     }
 }
