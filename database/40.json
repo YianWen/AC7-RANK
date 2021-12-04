@@ -1,0 +1,21 @@
+{
+    "id":40,
+    "name": "Weasel Crusador",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"XFA-27",
+    "mainSpW":"MSTM",
+    "picture":"/images/xfa.jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":55, "drift":70, "concistency":85, "bkf":0, "strategy":96, 
+        "mslAcc":85, "mslCurving":40, "mslLooping":90,
+        "mgAcc":70, "mgRate":60
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "id":38,
+    "name": "Kage",
+    "callsign":"Kage",
+    "unit":"28th Tactical Fighter Squadron Zeus",
+    "mainPlane":"ADF-01 Falken",
+    "mainSpW":"HVAA",
+    "picture":"/images/falken.webp",
+    "country":{
+        "name":"Singapore",
+        "code":"SG"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":70, "drift":75, "concistency":85, "bkf":0, "strategy":97, 
+        "mslAcc":84, "mslCurving":65, "mslLooping":96,
+        "mgAcc":40, "mgRate":30
+    }
+}

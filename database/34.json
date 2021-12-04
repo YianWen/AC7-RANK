@@ -1,0 +1,21 @@
+{
+    "id":34,
+    "name": "Odin",
+    "callsign":"Seraph 1",
+    "unit":"Seraph Squadron",
+    "mainPlane":"Su-35",
+    "mainSpW":"6AAM",
+    "picture":"/images/celestseal.webp",
+    "country":{
+        "name":"Sweden",
+        "code":"SE"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":84, "drift":80, "concistency":40, "bkf":0, "strategy":62, 
+        "mslAcc":82, "mslCurving":80, "mslLooping":0,
+        "mgAcc":80, "mgRate":70
+    }
+}

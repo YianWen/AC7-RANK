@@ -1,0 +1,21 @@
+{
+    "id":32,
+    "name": "Groffman",
+    "callsign":"Varcolac 1",
+    "unit":"Varcolac Squadron",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/peach.jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":84, "drift":82, "concistency":85, "bkf":0, "strategy":65, 
+        "mslAcc":96, "mslCurving":70, "mslLooping":30,
+        "mgAcc":85, "mgRate":100
+    }
+}

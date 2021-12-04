@@ -1,0 +1,21 @@
+{
+    "id":35,
+    "name": "Lich",
+    "callsign":"Ofnir 1",
+    "unit":"Ofnir Squadron",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/su-37-1.png",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":75, "drift":86, "concistency":50, "bkf":40, "strategy":59, 
+        "mslAcc":77, "mslCurving":85, "mslLooping":0,
+        "mgAcc":84, "mgRate":90
+    }
+}

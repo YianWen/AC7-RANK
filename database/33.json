@@ -1,0 +1,21 @@
+{
+    "id":33,
+    "name": "Hunter",
+    "callsign":"Hunter",
+    "unit":"28th Tactical Fighter Squadron Zeus",
+    "mainPlane":"Su-35",
+    "mainSpW":"6AAM",
+    "picture":"/images/35s.webp",
+    "country":{
+        "name":"Israel",
+        "code":"IL"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":60, "drift":75, "concistency":98, "bkf":0, "strategy":90, 
+        "mslAcc":82, "mslCurving":55, "mslLooping":75,
+        "mgAcc":75, "mgRate":50
+    }
+}

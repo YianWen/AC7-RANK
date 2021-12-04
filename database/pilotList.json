@@ -120,6 +120,58 @@
 			"id": 30,
 			"name": "Mobius",
 			"platforms": ["PSN"]
+		},{
+			"id": 31,
+			"name": "Apex Raptor",
+			"platforms": ["XBOX"]
+		},{
+			"id": 32,
+			"name": "Groffman",
+			"platforms": ["XBOX"]
+		},{
+			"id": 33,
+			"name": "Hunter",
+			"platforms": ["XBOX"]
+		},{
+			"id": 34,
+			"name": "Odin",
+			"platforms": ["XBOX"]
+		},{
+			"id": 35,
+			"name": "Lich",
+			"platforms": ["XBOX"]
+		},{
+			"id": 36,
+			"name": "Viper",
+			"platforms": ["XBOX"]
+		},{
+			"id": 37,
+			"name": "Yatt3",
+			"platforms": ["PC"]
+		},{
+			"id": 38,
+			"name": "Kage",
+			"platforms": ["XBOX"]
+		},{
+			"id": 39,
+			"name": "Raven",
+			"platforms": ["PSN"]
+		},{
+			"id": 40,
+			"name": "Weasel Crusador",
+			"platforms": ["XBOX"]
+		},{
+			"id": 41,
+			"name": "Aesir Kronos",
+			"platforms": ["PSN"]
+		},{
+			"id": 43,
+			"name": "Heisenblack",
+			"platforms": ["PSN"]
+		},{
+			"id": 42,
+			"name": "vbcfbhu",
+			"platforms": ["PC"]
 		}
 	]
 }

@@ -1,0 +1,21 @@
+{
+    "id":37,
+    "name": "Yatt3",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"6AAM",
+    "picture":"/images/su-37-3.png.png",
+    "country":{
+        "name":"Japan",
+        "code":"JP"
+    },
+    "topPc":"--",
+    "topPs":"--",
+    "topXb":1,
+    "statistics":{
+        "boost":99, "drift":95, "concistency":85, "bkf":80, "strategy":92, 
+        "mslAcc":94, "mslCurving":92, "mslLooping":65, 
+        "mgAcc":90, "mgRate":60
+    }
+}
