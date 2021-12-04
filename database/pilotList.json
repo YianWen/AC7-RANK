@@ -172,6 +172,14 @@
 			"id": 42,
 			"name": "vbcfbhu",
 			"platforms": ["PC"]
+		},{
+			"id": 44,
+			"name": "Kono",
+			"platforms": ["PC", "PSN", "XBOX"]
+		},{
+			"id": 45,
+			"name": "Akula 1",
+			"platforms": ["PC"]
 		}
 	]
 }
