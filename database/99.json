@@ -1,0 +1,21 @@
+{
+    "id":99,
+    "name": "TestPlayer",
+    "callsign":"Test",
+    "unit":"Test",
+    "mainPlane":"Test",
+    "mainSpW":"Test",
+    "picture":"/images/test-image.jpg",
+    "country":{
+        "name":"Test",
+        "code":"Test"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":100, "drift":100, "consistency":100, "bkf":100, "strategy":100, "agressivity":100,
+        "mslAcc":100, "mslCurving":100, "mslLooping":100,
+        "mgAcc":100, "mgRate":100
+    }
+}
