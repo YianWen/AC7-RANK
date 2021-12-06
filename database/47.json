@@ -1,0 +1,21 @@
+{
+    "id":47,
+    "name": "Sofii",
+    "callsign":"Starscream",
+    "unit":"--",
+    "mainPlane":"--",
+    "mainSpW":"--",
+    "picture":"NNN",
+    "country":{
+        "name":"Argentina",
+        "code":"AR"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":74, "drift":72, "concistency":80, "bkf":0, "strategy":77, 
+        "mslAcc":77, "mslCurving":60, "mslLooping":0, 
+        "mgAcc":60, "mgRate":40 
+    }
+}

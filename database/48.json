@@ -1,0 +1,21 @@
+{
+    "id":48,
+    "name": "Sorasenkai",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/35s.webp",
+    "country":{
+        "name":"Japan",
+        "code":"JP"
+    },
+    "topPc":4,
+    "topPs":6,
+    "topXb":2,
+    "statistics":{
+        "boost":88, "drift":89, "concistency":80, "bkf":10, "strategy":65, 
+        "mslAcc":90, "mslCurving":90, "mslLooping":20, 
+        "mgAcc":60, "mgRate":60
+    }
+}

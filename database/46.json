@@ -1,21 +1,21 @@
 {
     "id":46,
-    "name": "アンドレイ・マルコフ",
-    "callsign":"アクーラ 1",
-    "unit":"Russian Air Force Squadron AKULA",
-    "mainPlane":"Su-35s",
-    "mainSpW":"6AAM",
-    "picture":"/images/akula1.jpg",
+    "name": "Shamiko_Peach",
+    "callsign":"SACS 3",
+    "unit":"Erusean Submarine Alicorn Carrier Squadron SACS",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/peach.jpg",
     "country":{
-        "name":"Japan",
-        "code":"JP"
+        "name":"China",
+        "code":"CN"
     },
     "topPc":24,
     "topPs":"--",
     "topXb":"--",
     "statistics":{
-        "boost":99, "drift":91, "consistency":98, "bkf":90, "strategy":93, "agressivity":98,
-        "mslAcc":98, "mslCurving":98, "mslLooping":80,
-        "mgAcc":86, "mgRate":70
+        "boost":95, "drift":92, "concistency":85, "bkf":60, "strategy":88, 
+        "mslAcc":92, "mslCurving":90, "mslLooping":60, 
+        "mgAcc":75, "mgRate":60
     }
 }

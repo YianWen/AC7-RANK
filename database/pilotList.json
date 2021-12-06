@@ -182,8 +182,20 @@
 			"platforms": ["PC"]
 		},{
 			"id": 46,
-			"name": "New name",
-			"platforms": ["PC", "PSN", "XBOX"]
+			"name": "Shamiko Peach",
+			"platforms": ["PC"]
+		},{
+			"id": 47,
+			"name": "Sofii",
+			"platforms": ["PC"]
+		},{
+			"id": 48,
+			"name": "Sorasenkai",
+			"platforms": ["PC", "PSN"]
+		},{
+			"id": 49,
+			"name": "Kata",
+			"platforms": ["PC", "PSN"]
 		}
 	]
 }
