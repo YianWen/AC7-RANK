@@ -1,21 +1,28 @@
 {
-    "id":17,
-    "name": "Giquo",
-    "callsign":"Jazzman",
-    "unit":"--",
-    "mainPlane":"Su-35s",
-    "mainSpW":"6AAM",
-    "picture":"/images/jazzman.png",
-    "country":{
-        "name":"Colombia",
-        "code":"CO"
-    },
-    "topPc":18,
-    "topPs":"--",
-    "topXb":"--",
-    "statistics":{
-        "boost":86, "drift":70, "consistency":72, "bkf":68, "strategy":73,
-        "mslAcc":76, "mslCurving":80, "mslLooping":72,
-        "mgAcc":75, "mgRate":80
-    }
+	"id": 17,
+	"name": "Giquo",
+	"callsign": "Jazzman",
+	"unit": "--",
+	"mainPlane": "Su-35s",
+	"mainSpW": "6AAM",
+	"picture": "/images/jazzman.png",
+	"country": {
+		"name": "Colombia",
+		"code": "CO"
+	},
+	"topPc": 18,
+	"topPs": "--",
+	"topXb": "--",
+	"statistics": {
+		"boost": 86,
+		"drift": 70,
+		"consistency": 72,
+		"bkf": 68,
+		"strategy": 73,
+		"mslAcc": 76,
+		"mslCurving": 80,
+		"mslLooping": 72,
+		"mgAcc": 73,
+		"mgRate": 80
+	}
 }
