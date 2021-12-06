@@ -180,10 +180,6 @@
 			"id": 45,
 			"name": "Akula 1",
 			"platforms": ["PC"]
-		},{
-			"id": 46,
-			"name": "New name",
-			"platforms": ["PC", "PSN", "XBOX"]
 		}
 	]
 }
