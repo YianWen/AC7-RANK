@@ -1,0 +1,21 @@
+{
+    "id":53,
+    "name": "疾跑收枪戳",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/su-35s (1).png",
+    "country":{
+        "name":"China", 
+        "code":"CN"
+    },
+    "topPc":4,
+    "topPs":6,
+    "topXb":2,
+    "statistics":{
+        "boost":95, "drift":90, "consistency":95, "bkf":0, "strategy":86, 
+        "mslAcc":93, "mslCurving":88, "mslLooping":20, 
+        "mgAcc":92, "mgRate":90
+    }
+}

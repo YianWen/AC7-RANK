@@ -196,6 +196,38 @@
 			"id": 49,
 			"name": "Kata",
 			"platforms": ["PC", "PSN"]
+		},{
+			"id": 50,
+			"name": "Nassan",
+			"platforms": ["PSN"]
+		},{
+			"id": 51,
+			"name": "Kamata",
+			"platforms": ["PSN"]
+		},{
+			"id": 52,
+			"name": "Nyanpire",
+			"platforms": ["PSN"]
+		},{
+			"id": 53,
+			"name": "疾跑收枪戳",
+			"platforms": ["PC"]
+		},{
+			"id": 54,
+			"name": "MKnab13",
+			"platforms": ["XBOX"]
+		},{
+			"id": 55,
+			"name": "MyPurpleLove",
+			"platforms": ["XBOX"]
+		},{
+			"id": 56,
+			"name": "Annihilator Ryza",
+			"platforms": ["PSN"]
+		},{
+			"id": 57,
+			"name": "Vogul",
+			"platforms": ["XBOX"]
 		}
 	]
 }

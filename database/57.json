@@ -1,0 +1,21 @@
+{
+    "id":57,
+    "name": "Vogul",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"F-22A",
+    "mainSpW":"6AAM",
+    "picture":"/images/bliq.webp",
+    "country":{
+        "name":"NN", 
+        "code":"NN"
+    },
+    "topPc":4,
+    "topPs":6,
+    "topXb":2,
+    "statistics":{
+        "boost":86, "drift":60, "consistency":40, "bkf":0, "strategy":50, 
+        "mslAcc":70, "mslCurving":55, "mslLooping":0,
+        "mgAcc":60, "mgRate":50
+    }
+}

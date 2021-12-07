@@ -1,0 +1,21 @@
+{
+    "id":51,
+    "name": "Kamata",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/su-35s (1).png",
+    "country":{
+        "name":"Japan",
+        "code":"JP"
+    },
+    "topPc":4,
+    "topPs":6,
+    "topXb":2,
+    "statistics":{
+        "boost":97, "drift":95, "consistency":75, "bkf":0, "strategy":60, 
+        "mslAcc":93, "mslCurving":90, "mslLooping":20, 
+        "mgAcc":50, "mgRate":20
+    }
+}
