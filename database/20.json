@@ -1,13 +1,13 @@
 {
     "id":20,
     "name": "Ash",
-    "callsign":"--",
+    "callsign":"Spariff",
     "unit":"Stargazer Squadron",
     "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
     "picture":"/images/ash.jpeg",
     "country":{
-        "name":"Scottland",
+        "name":"Scotland",
         "code":"GB"
     },
     "topPc":27,
