@@ -1,11 +1,11 @@
 {
     "id":47,
-    "name": "Sofii",
-    "callsign":"Starscream",
-    "unit":"--",
-    "mainPlane":"--",
-    "mainSpW":"--",
-    "picture":"NNN",
+    "name": "Starscream-chan",
+    "callsign":"Sofii",
+    "unit":"Cosmic Squadron",
+    "mainPlane":"F-22A",
+    "mainSpW":"8AAM",
+    "picture":"/images/sofii.jpg",
     "country":{
         "name":"Argentina",
         "code":"AR"
@@ -16,6 +16,6 @@
     "statistics":{
         "boost":74, "drift":72, "consistency":80, "bkf":0, "strategy":77, 
         "mslAcc":77, "mslCurving":60, "mslLooping":0, 
-        "mgAcc":60, "mgRate":40 
+        "mgAcc":20, "mgRate":100
     }
 }
