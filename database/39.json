@@ -3,9 +3,9 @@
     "name": "--",
     "callsign":"Raven",
     "unit":"Nordennavic Royal Air Force Titan",
-    "mainPlane":"Su-35s",
-    "mainSpW":"6AAM",
-    "picture":"/images/su-35s (3).png",
+    "mainPlane":"F-15 S/MTD",
+    "mainSpW":"HCAA",
+    "picture":"/images/raven.jpg",
     "country":{
         "name":"United States",
         "code":"US"
