@@ -1,0 +1,21 @@
+{
+    "id":58,
+    "name": "Asuka Hibiki",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-37",
+    "mainSpW":"HPAA",
+    "picture":"/images/asuka.png",
+    "country":{
+        "name":"China",
+        "code":"CN"
+    },
+    "topPc":24,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":89, "drift":91, "consistency":76, "bkf":65, "strategy":88, 
+        "mslAcc":93, "mslCurving":90, "mslLooping":66,
+        "mgAcc":45, "mgRate":34
+    }
+}
