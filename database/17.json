@@ -13,16 +13,9 @@
 	"topPc": 18,
 	"topPs": "--",
 	"topXb": "--",
-	"statistics": {
-		"boost": 86,
-		"drift": 70,
-		"consistency": 72,
-		"bkf": 68,
-		"strategy": 73,
-		"mslAcc": 76,
-		"mslCurving": 80,
-		"mslLooping": 72,
-		"mgAcc": 73,
-		"mgRate": 80
+	"statistics":{
+		"boost":86, "drift":88, "consistency":86, "bkf":68, "strategy":77, 
+		"mslAcc":80, "mslCurving":90, "mslLooping":87,
+		"mgAcc":79, "mgRate":80
 	}
 }

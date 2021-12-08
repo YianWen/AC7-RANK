@@ -5,7 +5,7 @@
     "unit":"Nordennavic Royal Air Force Titan",
     "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
-    "picture":"/images/tali.png",
+    "picture":"/images/talisman-su35.png",
     "country":{
         "name":"Dominican Republic",
         "code":"DO"
@@ -15,7 +15,7 @@
     "topXb":2,
     "statistics":{
         "boost":93, "drift":95, "consistency":95, "bkf":0, "strategy":85,
-        "mslAcc":92, "mslCurving":95, "mslLooping":30, 
+        "mslAcc":98, "mslCurving":95, "mslLooping":30, 
         "mgAcc":97, "mgRate":95
     }
 }

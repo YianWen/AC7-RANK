@@ -5,7 +5,7 @@
     "unit":"Nordennavic Royal Air Force Titan",
     "mainPlane":"F-22A",
     "mainSpW":"QAAM",
-    "picture":"/images/bliq.webp",
+    "picture":"/images/mobius-f22.jpeg",
     "country":{
         "name":"United States",
         "code":"US"
@@ -14,8 +14,8 @@
     "topPs":"--",
     "topXb":"--",
     "statistics":{
-        "boost":88, "drift":92,  "bkf":0, "strategy":70, "consistency":95,
-        "mslAcc":94, "mslCurving":75, "mslLooping":60,
-        "mgAcc":85, "mgRate":65 
+        "boost":88, "drift":95,  "bkf":30, "strategy":80, "consistency":91,
+        "mslAcc":97, "mslCurving":80, "mslLooping":40,
+        "mgAcc":82, "mgRate":55 
     }
 }
