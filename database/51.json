@@ -3,9 +3,9 @@
     "name": "Kamata",
     "callsign":"--",
     "unit":"--",
-    "mainPlane":"Su-35s",
+    "mainPlane":"Su-37",
     "mainSpW":"6AAM",
-    "picture":"/images/su-35s (1).png",
+    "picture":"/images/su-37 (3).png",
     "country":{
         "name":"Japan",
         "code":"JP"
