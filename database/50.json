@@ -3,9 +3,9 @@
     "name": "Nassan",
     "callsign":"--",
     "unit":"--",
-    "mainPlane":"Su-35s",
-    "mainSpW":"6AAM",
-    "picture":"/images/su-35s (1).png",
+    "mainPlane":"Su-47",
+    "mainSpW":"SAAM",
+    "picture":"/images/su-47.webp",
     "country":{
         "name":"Japan",
         "code":"JP"
