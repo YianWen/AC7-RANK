@@ -1,8 +1,8 @@
 {
     "id":48,
     "name": "Sorasenkai",
-    "callsign":"--",
-    "unit":"--",
+    "callsign":"Starblade 1",
+    "unit":"Starblade Squadron",
     "mainPlane":"Su-35s",
     "mainSpW":"6AAM",
     "picture":"/images/35s.webp",
