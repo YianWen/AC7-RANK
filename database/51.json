@@ -4,7 +4,7 @@
     "callsign":"--",
     "unit":"--",
     "mainPlane":"Su-37",
-    "mainSpW":"6AAM",
+    "mainSpW":"HPAA",
     "picture":"/images/su-37 (3).jpg",
     "country":{
         "name":"Japan",
@@ -14,8 +14,8 @@
     "topPs":6,
     "topXb":2,
     "statistics":{
-        "boost":97, "drift":95, "consistency":75, "bkf":0, "strategy":60, 
-        "mslAcc":93, "mslCurving":90, "mslLooping":20, 
-        "mgAcc":50, "mgRate":20
+        "boost":95, "drift":95, "consistency":80, "bkf":10, "strategy":78, 
+        "mslAcc":92, "mslCurving":90, "mslLooping":20, 
+        "mgAcc":80, "mgRate":40 
     }
 }
