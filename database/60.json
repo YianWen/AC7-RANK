@@ -1,6 +1,6 @@
 {
-    "id":51,
-    "name": "Kamata",
+    "id":60,
+    "name": "Beltz",
     "callsign":"--",
     "unit":"--",
     "mainPlane":"Su-37",
@@ -14,8 +14,8 @@
     "topPs":6,
     "topXb":2,
     "statistics":{
-        "boost":95, "drift":95, "consistency":80, "bkf":10, "strategy":78, 
-        "mslAcc":92, "mslCurving":90, "mslLooping":20, 
-        "mgAcc":80, "mgRate":40 
+        "boost":97, "drift":99, "consistency":90, "bkf":0, "strategy":75, 
+        "mslAcc":97, "mslCurving":90, "mslLooping":30, 
+        "mgAcc":60, "mgRate":30
     }
 }

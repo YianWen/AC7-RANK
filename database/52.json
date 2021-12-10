@@ -1,5 +1,5 @@
 {
-    "id":51,
+    "id":52,
     "name": "Nyanpire",
     "callsign":"--",
     "unit":"--",
@@ -14,8 +14,8 @@
     "topPs":6,
     "topXb":2,
     "statistics":{
-        "boost":95, "drift":94, "consistency":69, "bkf":0, "strategy":50, 
-        "mslAcc":93, "mslCurving":80, "mslLooping":20, 
-        "mgAcc":50, "mgRate":20
+        "boost":96, "drift":98, "consistency":75, "bkf":10, "strategy":65, 
+        "mslAcc":95, "mslCurving":90, "mslLooping":80, 
+        "mgAcc":80, "mgRate":40 
     }
 }
