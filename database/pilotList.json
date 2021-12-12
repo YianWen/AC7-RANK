@@ -155,7 +155,7 @@
 		},{
 			"id": 39,
 			"name": "Raven",
-			"platforms": ["PSN"]
+			"platforms": ["PC", "PSN"]
 		},{
 			"id": 40,
 			"name": "Weasel Crusador",
