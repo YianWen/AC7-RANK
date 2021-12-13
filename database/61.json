@@ -8,13 +8,13 @@
 	"picture": "/images/sun.jpg",
 	"country": {
 		"name": "England",
-		"code": "UK"
+		"code":"GB"
 	},
 	"topPc": 18,
 	"topPs": "--",
 	"topXb": "--",
 	"statistics":{
-		"boost":85, "drift":84, "consistency":75, "bkf":78, "strategy":70, 
+		"boost":85, "drift":84, "consistency":75, "bkf":80, "strategy":70, 
 		"mslAcc":70, "mslCurving":70, "mslLooping":40,
 		"mgAcc":58, "mgRate":50
 	}
