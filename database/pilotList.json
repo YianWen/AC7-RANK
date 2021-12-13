@@ -236,6 +236,10 @@
 			"id": 60,
 			"name": "Beltz",
 			"platforms": ["PSN"]
+		},{
+			"id": 61,
+			"name": "Sun",
+			"platforms": ["PC"]
 		}
 	]
 }
