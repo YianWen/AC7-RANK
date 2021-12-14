@@ -3,9 +3,9 @@
     "name": "Woodie",
     "callsign":"--",
     "unit":"--",
-    "mainPlane":"Su-35s",
-    "mainSpW":"6AAM",
-    "picture":"/images/woodie.jpg",
+    "mainPlane":"Su-57",
+    "mainSpW":"PLSL",
+    "picture":"/images/su-57 plsl.jpg",
     "country":{
         "name":"United States",
         "code":"US"
