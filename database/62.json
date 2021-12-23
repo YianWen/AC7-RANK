@@ -1,0 +1,21 @@
+{
+    "id":62,
+    "name": "Fofo (LEGACY PROFILE)",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/35s.webp",
+    "country":{
+        "name":"Canada",
+        "code":"CA"
+    },
+    "topPc":12,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":96, "drift":90, "consistency":80, "bkf":50, "strategy":80, 
+        "mslAcc":92, "mslCurving":95, "mslLooping":40,
+        "mgAcc":92, "mgRate":87 
+    }
+}
