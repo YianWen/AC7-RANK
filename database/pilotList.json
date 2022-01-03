@@ -244,6 +244,10 @@
 			"id": 62,
 			"name": "Fofo",
 			"platforms": ["PC"]
+		},{
+			"id": 63,
+			"name": "InfinityUSEA",
+			"platforms": ["PC"]
 		}
 	]
 }

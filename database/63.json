@@ -1,0 +1,21 @@
+{
+    "id":63,
+    "name": "InfinityUSEA",
+    "callsign":"Infinity",
+    "unit":"Infinity Squadron",
+    "mainPlane":"F-35C",
+    "mainSpW":"HPAA",
+    "picture":"/images/infinity.jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":12,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":55, "drift":70, "consistency":60, "bkf":70, "strategy":55, 
+        "mslAcc":50, "mslCurving":40, "mslLooping":60,
+        "mgAcc":10, "mgRate":5
+    }
+}
