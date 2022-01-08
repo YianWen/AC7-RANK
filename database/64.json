@@ -1,0 +1,21 @@
+{
+    "id":64,
+    "name": "Sherry",
+    "callsign":"--",
+    "unit":"--",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/35s.webp",
+    "country":{
+        "name":"China",
+        "code":"CN"
+    },
+    "topPc":12,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":92, "drift":93, "consistency":75, "bkf":10, "strategy":80, 
+        "mslAcc":93, "mslCurving":85, "mslLooping":40, 
+        "mgAcc":93, "mgRate":92
+    }
+}
