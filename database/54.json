@@ -1,11 +1,11 @@
 {
     "id":54,
-    "name": "MKnab13",
-    "callsign":"--",
+    "name": "A Friendly Ghost",
+    "callsign":"Ghost",
     "unit":"--",
-    "mainPlane":"Su-35s",
-    "mainSpW":"6AAM",
-    "picture":"/images/su-35s (1).jpg",
+    "mainPlane":"F-15 S/MTD",
+    "mainSpW":"HPAA",
+    "picture":"/images/f-15 smtd",
     "country":{
         "name":"United States", 
         "code":"US"
