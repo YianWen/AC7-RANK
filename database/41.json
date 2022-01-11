@@ -1,8 +1,8 @@
 {
     "id":41,
-    "name": "Aesir Kronos",
-    "callsign":"Kronos",
-    "unit":"Aesir squadron",
+    "name": "Aesir Iniquity",
+    "callsign":"Iniquity",
+    "unit":"Aesir Squadron",
     "mainPlane":"Su-57",
     "mainSpW":"6AAM",
     "picture":"/images/su-57-black.jpg",
