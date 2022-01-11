@@ -3,12 +3,12 @@
     "name": "Aesir Iniquity",
     "callsign":"Iniquity",
     "unit":"Aesir Squadron",
-    "mainPlane":"Su-57",
-    "mainSpW":"6AAM",
-    "picture":"/images/su-57-black.jpg",
+    "mainPlane":"ADF-01 Falken",
+    "mainSpW":"EML",
+    "picture":"/images/falken.webp",
     "country":{
-        "name":"United States",
-        "code":"US"
+        "name":"Guatemala",
+        "code":"GT"
     },
     "topPc":24,
     "topPs":"--",
