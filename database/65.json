@@ -1,0 +1,21 @@
+{
+    "id":65,
+    "name": "Helios",
+    "callsign":"--",
+    "unit":"Nordennavic Royal Air Force Titan",
+    "mainPlane":"Su-35s",
+    "mainSpW":"QAAM",
+    "picture":"/images/su-35s (4).jpeg",
+    "country":{
+        "name":"United Kingdom",
+        "code":"UK"
+    },
+    "topPc":20,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":76, "drift":98, "consistency":82, "bkf":50, "strategy":80, 
+        "mslAcc":72, "mslCurving":96, "mslLooping":60, 
+        "mgAcc":70, "mgRate":65
+    }
+}
