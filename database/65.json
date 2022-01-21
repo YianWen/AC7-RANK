@@ -5,10 +5,10 @@
     "unit":"Nordennavic Royal Air Force Titan",
     "mainPlane":"Su-35s",
     "mainSpW":"QAAM",
-    "picture":"/images/su-35s (4).jpeg",
+    "picture":"/images/su-35s (4).jpg",
     "country":{
         "name":"United Kingdom",
-        "code":"UK"
+        "code":"GB"
     },
     "topPc":20,
     "topPs":"--",
