@@ -1,0 +1,74 @@
+
+# Changelog
+All notable changes to this project will be documented in this file.
+
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+
+## [Unreleased]
+- Example Videos of every stat used for the pilots 
+- Cheater list page
+- Country filter and country counter
+- Include "Peripherals" as part of the player profile data
+- CRUD (Create, Read, Update, Delete) Players from INSIDE the web site
+- actual database of players using an actual database (MongoDB, AWS, Cassandra, MySQL, any)
+- API REST server to consume the data
+- check how to allow to enter from the /pilots page without getting error 404
+
+
+## [0.4.2] - 2022-02-02
+### Added
+- Changelog page
+- Rank badge
+
+### Removed 
+- Average value aside the pilot rank
+- Information about the average values 
+
+
+## [0.4.1] - 2022-01-20
+### Added
+- Font Settings, to change between AC7, AC6 and AC4 fonts
+- More music.
+- Previous and Next song keys.
+- Normalization algorithm for all the stats.
+
+
+## [0.3.1] - 2021-12-08
+### Added
+- This CHANGELOG file.
+- More music.
+- Information about what does every statistic mean.
+- grunder favicon and logos.
+
+### Changed
+- Music volume from 0.5 to 0.3.
+- app short name, name and icons in manifest.json.
+
+### Fixed
+- Mobile responsivenes for all pages.
+
+
+## [0.2.0] - 2021-12-03
+### Added
+- Consuming "data base" from json files to release it on github pages.
+- background music player.
+- animated background.
+- Helper key bindings shown in Home Page.
+
+
+## [0.1.0] - 2021-12-02
+### Added
+- About page.
+- Start page in fullscreen automatically.
+- Sound effects on menu items.
+- Charts for the statistics.
+
+### Changed
+- Ranking algorythm using differents coefficients depending the stat.
+
+
+## [0.0.1] - 2021-12-01
+### Added
+- Home Page.
+- Pilots Page with player data and list of players.
