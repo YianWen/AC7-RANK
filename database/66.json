@@ -5,7 +5,7 @@
     "unit":"--",
     "mainPlane":"Su-30SM",
     "mainSpW":"6AAM",
-    "picture":"/images/30sm.jpg",
+    "picture":"/images/30sm.webp",
     "country":{
         "name":"China",
         "code":"CN"
