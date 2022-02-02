@@ -16,6 +16,6 @@
     "statistics":{
         "boost":80, "drift":80, "consistency":60, "bkf":0, "strategy":77, 
         "mslAcc":84, "mslCurving":70, "mslLooping":35, 
-        "mgAcc":85, "mgRate":80
+        "mgAcc":85, "mgRate":100
     }
 }
