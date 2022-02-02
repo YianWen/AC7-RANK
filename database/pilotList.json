@@ -125,10 +125,6 @@
 			"name": "Groffman",
 			"platforms": ["XBOX"]
 		},{
-			"id": 33,
-			"name": "Hunter",
-			"platforms": ["XBOX"]
-		},{
 			"id": 34,
 			"name": "Odin",
 			"platforms": ["XBOX"]
@@ -144,10 +140,6 @@
 			"id": 37,
 			"name": "Yatt3",
 			"platforms": ["PC"]
-		},{
-			"id": 38,
-			"name": "Kage",
-			"platforms": ["XBOX"]
 		},{
 			"id": 39,
 			"name": "Raven",
