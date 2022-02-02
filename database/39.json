@@ -14,8 +14,8 @@
     "topPs":"--",
     "topXb":"--",
     "statistics":{
-        "boost":90, "drift":82,  "bkf":20, "strategy":94, "consistency": 96,
-        "mslAcc":90, "mslCurving":80, "mslLooping":90,
+        "boost":95, "drift":88,  "bkf":20, "strategy":94, "consistency": 96,
+        "mslAcc":94, "mslCurving":82, "mslLooping":90,
         "mgAcc":95, "mgRate":90
     }
 }
