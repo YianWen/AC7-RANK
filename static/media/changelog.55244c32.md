@@ -19,6 +19,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.4.3] - 2022-02-03
 ### Added
 - "Now Playing" component
+- Judges Council section in the About Page
+
+### Changed
+- Return label in the Breadcumb of every page, now is called "Click to Return"
+- Word "Ranking" for "Pilot Database"
 
 ## [0.4.2] - 2022-02-02
 ### Added
