@@ -244,6 +244,14 @@
 			"id": 66,
 			"name": "尖啸死神",
 			"platforms": ["PC"]
+		},{
+			"id": 67,
+			"name": "Snake",
+			"platforms": ["PSN"]
+		},{
+			"id": 68,
+			"name": "Gotti V2",
+			"platforms": ["PSN"]
 		}
 	]
 }

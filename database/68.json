@@ -1,0 +1,21 @@
+{
+    "id":68,
+    "name": "Gotti V2",
+    "callsign":"--",
+    "unit":"Venom Squadron",
+    "mainPlane":"X-02s",
+    "mainSpW":"EML",
+    "picture":"/images/x02s.jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":20,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":88, "drift":88, "consistency":73, "bkf":45, "strategy":83, 
+        "mslAcc":79, "mslCurving":88, "mslLooping":50,
+        "mgAcc":91, "mgRate":100
+    }
+}
