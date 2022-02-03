@@ -6,6 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [Unreleased]
+- Control music player from "Now Playing" component
 - Example Videos of every stat used for the pilots 
 - Cheater list page
 - Country filter and country counter
@@ -15,6 +16,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API REST server to consume the data
 - check how to allow to enter from the /pilots page without getting error 404
 
+## [0.4.3] - 2022-02-03
+### Added
+- "Now Playing" component
 
 ## [0.4.2] - 2022-02-02
 ### Added
