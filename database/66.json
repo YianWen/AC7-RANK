@@ -1,0 +1,21 @@
+{
+    "id":66,
+    "name": "汉斯-乌尔希里.鲁德尔",
+    "callsign":"尖啸死神",
+    "unit":"--",
+    "mainPlane":"Su-30SM",
+    "mainSpW":"6AAM",
+    "picture":"/images/30sm.webp",
+    "country":{
+        "name":"China",
+        "code":"CN"
+    },
+    "topPc":20,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":88, "drift":75, "consistency":69, "bkf":40, "strategy":74, 
+        "mslAcc":86, "mslCurving":76, "mslLooping":40, 
+        "mgAcc":30, "mgRate":100
+    }
+}

@@ -5,10 +5,6 @@
 			"name": "Aimer Ketsu",
 			"platforms": ["PC"]
 		},{
-			"id": 2,
-			"name": "Demon",
-			"platforms": ["XBOX"]
-		},{
 			"id": 3,
 			"name": "Talisman",
 			"platforms": ["PC", "PSN", "XBOX"]
@@ -129,10 +125,6 @@
 			"name": "Groffman",
 			"platforms": ["XBOX"]
 		},{
-			"id": 33,
-			"name": "Hunter",
-			"platforms": ["XBOX"]
-		},{
 			"id": 34,
 			"name": "Odin",
 			"platforms": ["XBOX"]
@@ -148,10 +140,6 @@
 			"id": 37,
 			"name": "Yatt3",
 			"platforms": ["PC"]
-		},{
-			"id": 38,
-			"name": "Kage",
-			"platforms": ["XBOX"]
 		},{
 			"id": 39,
 			"name": "Raven",
@@ -252,6 +240,18 @@
 			"id": 65,
 			"name": "Helios",
 			"platforms": ["PC", "PSN"]
+		},{
+			"id": 66,
+			"name": "尖啸死神",
+			"platforms": ["PC"]
+		},{
+			"id": 67,
+			"name": "Snake",
+			"platforms": ["PSN"]
+		},{
+			"id": 68,
+			"name": "Gotti V2",
+			"platforms": ["PSN"]
 		}
 	]
 }

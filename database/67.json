@@ -1,0 +1,21 @@
+{
+    "id":67,
+    "name": "Snake",
+    "callsign":"--",
+    "unit":"Venom Squadron",
+    "mainPlane":"Su-35s",
+    "mainSpW":"6AAM",
+    "picture":"/images/su-35s (5).jpg",
+    "country":{
+        "name":"United States",
+        "code":"US"
+    },
+    "topPc":20,
+    "topPs":"--",
+    "topXb":"--",
+    "statistics":{
+        "boost":90, "drift":90, "consistency":70, "bkf":70, "strategy":85, 
+        "mslAcc":87, "mslCurving":86, "mslLooping":50,
+        "mgAcc":89, "mgRate":89 
+    }
+}
