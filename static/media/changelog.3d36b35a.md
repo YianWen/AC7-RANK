@@ -18,7 +18,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.4.3] - 2022-02-04
 ### Added
-- Neue Pixel Sans to resemble Ace Combat 5 / Zero font
+- Neue Pixel Sans to resemble Ace Combat 5 font
+- Envy Code R to resemble Ace Combat Zero font
 
 ### Changed
 - light up the unfocus letters in ACZ theme
