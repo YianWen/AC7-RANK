@@ -16,6 +16,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API REST server to consume the data
 - check how to allow to enter from the /pilots page without getting error 404
 
+## [0.4.3] - 2022-02-04
+### Added
+- Neue Pixel Sans to resemble Ace Combat 5 / Zero font
+
+### Changed
+- light up the unfocus letters in ACZ theme
+- ACZ theme less bloody
+
+### Fixed
+- Click 2 times in a theme changed everything to a broken Ace Combat 7 theme
+
 ## [0.4.3] - 2022-02-03
 ### Added
 - "Now Playing" component
