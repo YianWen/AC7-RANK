@@ -20,6 +20,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - "Now Playing" component
 - Judges Council section in the About Page
+- Themes based on Ace Combat Games
 
 ### Changed
 - Return label in the Breadcumb of every page, now is called "Click to Return"
