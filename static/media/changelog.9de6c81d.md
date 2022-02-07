@@ -16,6 +16,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API REST server to consume the data
 - check how to allow to enter from the /pilots page without getting error 404
 
+## [0.5.1] - 2022-02-07
+### Added
+- Country filter in Pilots List
+- Sorting patterns (Name, Rank) in Pilots List
+- Platforms icons in Pilot Data
+
+### Fixed
+- Platform typo in settings
+
 ## [0.4.3] - 2022-02-04
 ### Added
 - Neue Pixel Sans to resemble Ace Combat 5 font
