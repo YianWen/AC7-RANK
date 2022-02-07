@@ -18,9 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.5.1] - 2022-02-07
 ### Added
-- Country filter in Pilots List
-- Sorting patterns (Name, Rank) in Pilots List
-- Platforms icons in Pilot Data
+- Country filter in Pilots List.
+- Sorting patterns (Name, Rank) in Pilots List.
+- Legacy pilots filter.
+- Platforms icons in Pilot Data.
 
 ### Fixed
 - Platform typo in settings
