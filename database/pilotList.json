@@ -43,7 +43,7 @@
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":3,
 			"name": "Talisman",
@@ -725,7 +725,7 @@
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":34,
 			"name": "Odin",
@@ -835,7 +835,7 @@
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":39,
 			"name": "Raven",
