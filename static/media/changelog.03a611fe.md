@@ -16,10 +16,33 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API REST server to consume the data
 - check how to allow to enter from the /pilots page without getting error 404
 
+## [0.5.1] - 2022-02-07
+### Added
+- Country filter in Pilots List.
+- Sorting patterns (Name, Rank) in Pilots List.
+- Legacy pilots filter.
+- Platforms icons in Pilot Data.
+
+### Fixed
+- Platform typo in settings
+
+## [0.4.3] - 2022-02-04
+### Added
+- Neue Pixel Sans to resemble Ace Combat 5 font
+- Envy Code R to resemble Ace Combat Zero font
+
+### Changed
+- light up the unfocus letters in ACZ theme
+- ACZ theme less bloody
+
+### Fixed
+- Click 2 times in a theme changed everything to a broken Ace Combat 7 theme
+
 ## [0.4.3] - 2022-02-03
 ### Added
 - "Now Playing" component
 - Judges Council section in the About Page
+- Themes based on Ace Combat Games
 
 ### Changed
 - Return label in the Breadcumb of every page, now is called "Click to Return"

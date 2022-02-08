@@ -1,257 +1,1501 @@
 {
 	"pilots": [
 		{
-			"id": 1,
+			"id":1,
 			"name": "Aimer Ketsu",
-			"platforms": ["PC"]
+			"mainPlane":"ASF-X Shinden",
+			"callsign":"ケツ",
+			"unit":"--",
+			"mainSpW":"6AAM",
+			"picture":"/images/ketsu-asf-x.webp",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":92, "drift":97, "consistency":75, "bkf":100, "strategy":86, 
+				"mslAcc":85, "mslCurving":95, "mslLooping":100, 
+				"mgAcc":60, "mgRate":30
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 3,
+			"id":2,
+			"name": "Demon",
+			"callsign":"--",
+			"unit":"28th Tactical Fighter Squadron Zeus",
+			"mainPlane":"Su-57",
+			"mainSpW":"PLSL",
+			"picture":"/images/su-57-black.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":95, "drift":96, "consistency":97, "bkf":40, "strategy":100, 
+				"mslAcc":95, "mslCurving":88, "mslLooping":75, 
+				"mgAcc":86, "mgRate":90
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":3,
 			"name": "Talisman",
-			"platforms": ["PC", "PSN", "XBOX"]
+			"callsign":"Spirit",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/tali.jpg",
+			"country":{
+				"name":"Dominican Republic",
+				"code":"DO"
+			},
+			"platforms": ["PC", "PSN", "XBOX"],
+			"statistics":{
+				"boost":98, "drift":97, "consistency":95, "bkf":10, "strategy":85,
+				"mslAcc":98, "mslCurving":95, "mslLooping":50, 
+				"mgAcc":96, "mgRate":95
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":false,
+			"hidden":false
 		},{
-			"id": 4,
+			"id":4,
 			"name": "Motorized Peach",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/peach.jpg",
+			"country":{
+				"name":"Peru",
+				"code":"PE"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":58, "drift":58, "consistency":55, "bkf":15, "strategy":60, "agressivity":72,
+				"mslAcc":60, "mslCurving":50, "mslLooping":30, 
+				"mgAcc":30, "mgRate":10
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 5,
+			"id":5,
 			"name": "John Smith",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"F-15 S/MTD",
+			"mainSpW":"HPAA",
+			"picture":"/images/john-mtd.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":91, "drift":92, "consistency":80, "bkf":88, "strategy":92,
+				"mslAcc":85, "mslCurving":80, "mslLooping":92,
+				"mgAcc":80, "mgRate":70
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":false,
+			"hidden":false
 		},{
-			"id": 6,
+			"id":6,
 			"name": "Bliq",
-			"platforms": ["PC", "XBOX"]
+			"callsign":"--",
+			"unit":"Akagi",
+			"mainPlane":"F-22A",
+			"mainSpW":"6AAM",
+			"picture":"/images/bliq.webp",
+			"country":{
+				"name":"Brazil",
+				"code":"BR"
+			},
+			"platforms": ["PC", "XBOX"],
+			"statistics":{
+				"boost":82, "drift":97, "consistency":74, "bkf":70, "strategy":90, 
+				"mslAcc":90, "mslCurving":90, "mslLooping":55, 
+				"mgAcc":98, "mgRate":95 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 7,
+			"id":7,
 			"name": "Chunye",
-			"platforms": ["PC"]
+			"callsign":"Xanax",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/chunye.jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":100, "drift":95, "consistency":98, "bkf":100, "strategy":93, "agressivity":93,
+				"mslAcc":96, "mslCurving":80, "mslLooping":80,
+				"mgAcc":100, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 8,
+			"id":8,
 			"name": "Megalith",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"Tactical Squadron Zodiac",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/mega.jpg",
+			"country":{
+				"name":"Peru",
+				"code":"PE"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":85, "drift":92, "consistency":60, "bkf":60, "strategy":66, 
+				"mslAcc":82, "mslCurving":80, "mslLooping":45,
+				"mgAcc":30, "mgRate":10
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 9,
+			"id":9,
 			"name": "Ali ACF",
-			"platforms": ["PC"]
+			"callsign":"Shiesty",
+			"unit":"Alect Squadron",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/ali.webp",
+			"country":{
+				"name":"Kuwait",
+				"code":"KW"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":99, "drift":96, "consistency":98, "bkf":90, "strategy":80, 
+				"mslAcc":98, "mslCurving":98, "mslLooping":80,
+				"mgAcc":97, "mgRate":97
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 10,
+			"id":10,
 			"name": "Celestseal",
-			"platforms": ["PC"]
+			"callsign":"Stardust",
+			"unit":"Stargazer Squadron",
+			"mainPlane":"Su-30SM",
+			"mainSpW":"6AAM",
+			"picture":"/images/sull.webp",
+			"country":{
+				"name":"Scotland",
+				"code":"GB"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":75, "drift":92, "consistency":70, "bkf":62, "strategy":77, 
+				"mslAcc":84, "mslCurving":96, "mslLooping":60,
+				"mgAcc":25, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 11,
+			"id":11,
 			"name": "Darkskryll",
-			"platforms": ["PC"]
+			"callsign":"Floppa",
+			"unit":"--",
+			"mainPlane":"Su-30SM",
+			"mainSpW":"6AAM",
+			"picture":"/images/dark.jpg",
+			"country":{
+				"name":"Brazil",
+				"code":"BR"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":99, "drift":98, "consistency":100, "bkf":100, "strategy":90, 
+				"mslAcc":100, "mslCurving":99, "mslLooping":100,
+				"mgAcc":97, "mgRate":96
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 12,
+			"id":12,
 			"name": "Spitfire",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/spit.jpg",
+			"country":{
+				"name":"Mexico",
+				"code":"MX"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":95, "drift":80, "consistency":82, "bkf":30, "strategy":75, 
+				"mslAcc":98, "mslCurving":96, "mslLooping":30,
+				"mgAcc":88, "mgRate":44
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 13,
-			"name": "Raptor",
-			"platforms": ["PC", "PSN"]
+			"id":13,
+			"name": "Flying Boi",
+			"callsign":"Raptor",
+			"unit":"Venom Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/ven-raptor.jpg",
+			"country":{
+				"name":"India",
+				"code":"IN"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":96, "drift":96, "consistency":97, "bkf":98, "strategy":88, 
+				"mslAcc":95, "mslCurving":97, "mslLooping":84,
+				"mgAcc":96, "mgRate":88
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 14,
-			"name": "Fluffy",
-			"platforms": ["PC", "PSN", "XBOX"]
+			"id":14,
+			"name": "Fluffy Marsmallows",
+			"callsign":"Wolf",
+			"unit":"28th Tactical Fighter Squadron Zeus",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/fluffy.webp",
+			"country":{
+				"name":"Micronesia",
+				"code":"FM"
+			},
+			"platforms": ["PC", "PSN", "XBOX"],
+			"statistics":{
+				"boost":94, "drift":94, "consistency":0, "bkf":40, "strategy":100, 
+				"mslAcc":88, "mslCurving":86, "mslLooping":94,
+				"mgAcc":80, "mgRate":70
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 15,
+			"id":15,
 			"name": "Woodie",
-			"platforms": ["PC", "PSN"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-57",
+			"mainSpW":"PLSL",
+			"picture":"/images/su-57 plsl.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":94, "drift":90, "consistency":75, "bkf":70, "strategy":70,
+				"mslAcc":95, "mslCurving":60, "mslLooping":40,
+				"mgAcc":82, "mgRate":70
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 16,
+			"id":16,
 			"name": "NemesisValhalla",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/nemesis.webp",
+			"country":{
+				"name":"Hong-Kong",
+				"code":"HK"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":93, "drift":88, "consistency":84, "bkf":58, "strategy":80, "agressivity":83,
+				"mslAcc":86, "mslCurving":68, "mslLooping":40,
+				"mgAcc":87, "mgRate":90
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
 			"id": 17,
-			"name": "Giquo",
-			"platforms": ["PC"]
+			"name": "Giquo「ジクオ」",
+			"callsign": "Jazzman",
+			"unit": "--",
+			"mainPlane": "Su-35s",
+			"mainSpW": "6AAM",
+			"picture": "/images/jazzman.jpg",
+			"country": {
+				"name": "Colombia",
+				"code": "CO"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":98, "drift":92, "consistency":70, "bkf":66, "strategy":70, 
+				"mslAcc":80, "mslCurving":85, "mslLooping":88,
+				"mgAcc":66, "mgRate":80
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 18,
+			"id":18,
 			"name": "NathanX42",
-			"platforms": ["PC", "PSN"]
+			"callsign":"Kot",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/nathan.webp",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":90, "drift":72, "consistency":77, "bkf":60, "strategy":75, 
+				"mslAcc":98, "mslCurving":99, "mslLooping":60,
+				"mgAcc":75, "mgRate":90
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 19,
+			"id":19,
 			"name": "Sullvant",
-			"platforms": ["PC"]
+			"callsign":"Soul",
+			"unit":"Squad 17",
+			"mainPlane":"ADF-01 Falken",
+			"mainSpW":"6AAM",
+			"picture":"/images/sull.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":93, "drift":99, "consistency":80, "bkf":99, "strategy":60, 
+				"mslAcc":95, "mslCurving":93, "mslLooping":98,
+				"mgAcc":97, "mgRate":100 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 20,
+			"id":20,
 			"name": "Ash",
-			"platforms": ["PC"]
+			"callsign":"Spariff",
+			"unit":"Stargazer Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/ash.jpeg",
+			"country":{
+				"name":"Scotland",
+				"code":"GB"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":58, "drift":55, "consistency":48, "bkf":40, "strategy":44, "agressivity":54,
+				"mslAcc":52, "mslCurving":48, "mslLooping":30,
+				"mgAcc":30, "mgRate":30
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 21,
+			"id":21,
 			"name": "Esen",
-			"platforms": ["PC", "PSN"]
+			"callsign":"Badger",
+			"unit":"Venom Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/esen.jpg",
+			"country":{
+				"name":"Singapore",
+				"code":"SG"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":85, "drift":82, "consistency":80, "bkf":50, "strategy":82, 
+				"mslAcc":87, "mslCurving":90, "mslLooping":40,
+				"mgAcc":80, "mgRate":50
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 22,
+			"id":22,
 			"name": "Riran",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-30SM",
+			"mainSpW":"6AAM",
+			"picture":"/images/30sm.webp",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":63, "drift":88, "consistency":79, "bkf":84, "strategy":58, "agressivity":64,
+				"mslAcc":68, "mslCurving":50, "mslLooping":80,
+				"mgAcc":40, "mgRate":68
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 23,
+			"id":23,
 			"name": "ICEYAM",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/woodie.jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":86, "drift":67, "consistency":84, "bkf":67, "strategy":64, "agressivity":48,
+				"mslAcc":82, "mslCurving":72, "mslLooping":41,
+				"mgAcc":62, "mgRate":63
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 24,
+			"id":24,
 			"name": "Caselas",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/celestseal.webp",
+			"country":{
+				"name":"Switzerland",
+				"code":"CH"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":72, "drift":88, "consistency":80, "bkf":0, "strategy":89,
+				"mslAcc":89, "mslCurving":60, "mslLooping":50,
+				"mgAcc":49, "mgRate":21
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 25,
+			"id":25,
 			"name": "Borgar",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/woodie.jpg",
+			"country":{
+				"name":"Vietnam",
+				"code":"VN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":76, "drift":65, "consistency":62, "bkf":40, "strategy":60,
+				"mslAcc":70, "mslCurving":50, "mslLooping":40,
+				"mgAcc":32, "mgRate":40
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 26,
+			"id":26,
 			"name": "Starrii",
-			"platforms": ["PC", "XBOX"]
+			"callsign":"A.I.",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"TLS",
+			"picture":"/images/starri.webp",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC", "XBOX"],
+			"statistics":{
+				"boost":82, "drift":88, "consistency":77, "bkf":98, "strategy":84,
+				"mslAcc":88, "mslCurving":87, "mslLooping":89,
+				"mgAcc":90, "mgRate":70
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 27,
+			"id":27,
 			"name": "Russian Shark",
-			"platforms": ["PC"]
+			"callsign":"Akula",
+			"unit":"Zhaba Squadron",
+			"mainPlane":"MiG-35D",
+			"mainSpW":"6AAM",
+			"picture":"/images/rusShark.jpg",
+			"country":{
+				"name":"Russia",
+				"code":"RU"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":88, "drift":92, "consistency":80, "bkf":94, "strategy":80,
+				"mslAcc":94, "mslCurving":75, "mslLooping":73,
+				"mgAcc":82, "mgRate":70
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 28,
-			"name": "Mister X",
-			"platforms": ["PC", "XBOX"]
+			"id":28,
+			"name": "Mihaly",
+			"callsign":"Mister X",
+			"unit":"--",
+			"mainPlane":"Su-30SM",
+			"mainSpW":"6AAM",
+			"picture":"/images/30sm.webp",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC", "XBOX"],
+			"statistics":{
+				"boost":88, "drift":82, "consistency":70, "bkf":0, "strategy":40, 
+				"mslAcc":75, "mslCurving":60, "mslLooping":0,
+				"mgAcc":92, "mgRate":90
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 29,
-			"name": "Razgriz One",
-			"platforms": ["PC", "PSN"]
+			"id":29,
+			"name": "Federal Hamster",
+			"callsign":"Razgriz One",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-57",
+			"mainSpW":"PLSL",
+			"picture":"/images/razgriz-one.webp",
+			"country":{
+				"name":"Hong Kong",
+				"code":"HK"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":85, "drift":97, "consistency":88, "bkf":77, "strategy":90, 
+				"mslAcc":84, "mslCurving":97, "mslLooping":70,
+				"mgAcc":98, "mgRate":100 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 30,
+			"id":30,
 			"name": "BritishMango",
-			"platforms": ["PC", "PSN"]
+			"callsign":"Mobius",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"F-22A",
+			"mainSpW":"QAAM",
+			"picture":"/images/mobius-f22.jpeg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":97, "drift":98, "consistency":96, "bkf":60, "strategy":82, 
+				"mslAcc":98, "mslCurving":96, "mslLooping":60, 
+				"mgAcc":97, "mgRate":92
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 31,
-			"name": "Apex Raptor",
-			"platforms": ["XBOX"]
+			"id":31,
+			"name": "The Apex Raptor",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37 (3).jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":77, "drift":94, "consistency":50, "bkf":0, "strategy":90, 
+				"mslAcc":85, "mslCurving":90, "mslLooping":40,
+				"mgAcc":90, "mgRate":80
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 32,
+			"id":32,
 			"name": "Groffman",
-			"platforms": ["XBOX"]
+			"callsign":"Varcolac 1",
+			"unit":"Varcolac Squadron",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/varcolac.webp",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":90, "drift":82, "consistency":79, "bkf":0, "strategy":77, 
+				"mslAcc":96, "mslCurving":70, "mslLooping":0,
+				"mgAcc":89, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 34,
+			"id":33,
+			"name": "Hunter",
+			"callsign":"Hunter",
+			"unit":"28th Tactical Fighter Squadron Zeus",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/35s.webp",
+			"country":{
+				"name":"Israel",
+				"code":"IL"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":60, "drift":75, "consistency":98, "bkf":10, "strategy":90, 
+				"mslAcc":82, "mslCurving":55, "mslLooping":75,
+				"mgAcc":75, "mgRate":50
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":34,
 			"name": "Odin",
-			"platforms": ["XBOX"]
+			"callsign":"Seraph 1",
+			"unit":"Seraph Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (1).jpg",
+			"country":{
+				"name":"Sweden",
+				"code":"SE"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":88, "drift":89, "consistency":40, "bkf":0, "strategy":70, 
+				"mslAcc":80, "mslCurving":90, "mslLooping":0,
+				"mgAcc":85, "mgRate":65
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 35,
+			"id":35,
 			"name": "Lich",
-			"platforms": ["XBOX"]
+			"callsign":"Ofnir 1",
+			"unit":"Ofnir Squadron",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/ofnir.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":80, "drift":92, "consistency":50, "bkf":30, "strategy":59, 
+				"mslAcc":91, "mslCurving":82, "mslLooping":0,
+				"mgAcc":90, "mgRate":88
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 36,
+			"id":36,
 			"name": "Viper",
-			"platforms": ["XBOX"]
+			"callsign":"Schnee 1",
+			"unit":"Schnee Squadron",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37 (1).jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":70, "drift":80, "consistency":60, "bkf":0, "strategy":25, 
+				"mslAcc":60, "mslCurving":40, "mslLooping":0,
+				"mgAcc":75, "mgRate":60
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 37,
+			"id":37,
 			"name": "Yatt3",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-37 (2).jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":99, "drift":95, "consistency":85, "bkf":80, "strategy":92, 
+				"mslAcc":94, "mslCurving":92, "mslLooping":65, 
+				"mgAcc":90, "mgRate":60
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 39,
+			"id":38,
+			"name": "Kage",
+			"callsign":"Kage",
+			"unit":"28th Tactical Fighter Squadron Zeus",
+			"mainPlane":"ADF-01 Falken",
+			"mainSpW":"HVAA",
+			"picture":"/images/falken.webp",
+			"country":{
+				"name":"Singapore",
+				"code":"SG"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":70, "drift":75, "consistency":85, "bkf":10, "strategy":97, 
+				"mslAcc":84, "mslCurving":65, "mslLooping":96,
+				"mgAcc":40, "mgRate":30
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":39,
 			"name": "Raven",
-			"platforms": ["PC", "PSN"]
+			"callsign":"--",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"F-15 S/MTD",
+			"mainSpW":"HCAA",
+			"picture":"/images/raven.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":95, "drift":88,  "bkf":20, "strategy":94, "consistency": 96,
+				"mslAcc":94, "mslCurving":82, "mslLooping":90,
+				"mgAcc":95, "mgRate":90
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 40,
+			"id":40,
 			"name": "Weasel Crusador",
-			"platforms": ["XBOX"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"XFA-27",
+			"mainSpW":"MSTM",
+			"picture":"/images/xfa.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":55, "drift":70, "consistency":85, "bkf":0, "strategy":96, 
+				"mslAcc":85, "mslCurving":40, "mslLooping":90,
+				"mgAcc":70, "mgRate":60
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 41,
+			"id":41,
 			"name": "Aesir Iniquity",
-			"platforms": ["PSN"]
+			"callsign":"Iniquity",
+			"unit":"Aesir Squadron",
+			"mainPlane":"ADF-01 Falken",
+			"mainSpW":"EML",
+			"picture":"/images/falken.webp",
+			"country":{
+				"name":"Guatemala",
+				"code":"GT"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":75, "drift":75, "consistency":90, "bkf":0, "strategy":70, 
+				"mslAcc":80, "mslCurving":75, "mslLooping":80,
+				"mgAcc":70, "mgRate":80
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 42,
+			"id":42,
 			"name": "vbcfbhu",
-			"platforms": ["PC"]
+			"callsign":"Iris",
+			"unit":"uwu squadron",
+			"mainPlane":"Su-37",
+			"mainSpW":"6AAM",
+			"picture":"/images/vb.jpg",
+			"country":{
+				"name":"Taiwan",
+				"code":"TW"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":100, "drift":100, "consistency":97, "bkf":90, "strategy":100, 
+				"mslAcc":100, "mslCurving":94, "mslLooping":95, 
+				"mgAcc":97, "mgRate":90
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":false,
+			"hidden":false
 		},{
-			"id": 44,
-			"name": "Kono",
-			"platforms": ["PC", "PSN", "XBOX"]
+			"id":43,
+			"name": "Heisenblack",
+			"callsign":"Aesir 1",
+			"unit":"Aesir Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":80, "drift":70, "consistency":60, "bkf":0, "strategy":72, 
+				"mslAcc":75, "mslCurving":70, "mslLooping":60,
+				"mgAcc":60, "mgRate":75
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":true
 		},{
-			"id": 45,
-			"name": "Akula 1",
-			"platforms": ["PC"]
+			"id":44,
+			"name": "Kazutoki Kono",
+			"callsign":"Oka Nieba",
+			"unit":"BANDAI NAMCO ENTERTAINMENT",
+			"mainPlane":"X-02 Strike Wyvern",
+			"mainSpW":"V2",
+			"picture":"/images/dog.jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PC", "PSN", "XBOX"],
+			"statistics":{
+				"boost":100, "drift":100, "consistency":100, "bkf":100, "strategy":100, 
+				"mslAcc":100, "mslCurving":100, "mslLooping":100,
+				"mgAcc":100, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":false,
+			"hidden":false
 		},{
-			"id": 46,
-			"name": "Shamiko Peach",
-			"platforms": ["PC"]
+			"id":45,
+			"name": "アンドレイ・マルコフ",
+			"callsign":"アクーラ 1",
+			"unit":"Russian Air Force Squadron AKULA",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/akula1.jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":85, "drift":75, "consistency":98, "bkf":70, "strategy":75, 
+				"mslAcc":90, "mslCurving":94, "mslLooping":70, 
+				"mgAcc":80, "mgRate":60 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 47,
-			"name": "Starscream",
-			"platforms": ["PC"]
+			"id":46,
+			"name": "Shamiko_Peach",
+			"callsign":"SACS 3",
+			"unit":"Erusean Submarine Alicorn Carrier Squadron SACS",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/shamiko.jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":93, "drift":91, "consistency":85, "bkf":73, "strategy":88, 
+				"mslAcc":92, "mslCurving":90, "mslLooping":60, 
+				"mgAcc":80, "mgRate":75
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 48,
+			"id":47,
+			"name": "Starscream-chan",
+			"callsign":"Sofii",
+			"unit":"Cosmic Squadron",
+			"mainPlane":"F-22A",
+			"mainSpW":"8AAM",
+			"picture":"/images/sofii.jpg",
+			"country":{
+				"name":"Argentina",
+				"code":"AR"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":74, "drift":72, "consistency":70, "bkf":0, "strategy":70, 
+				"mslAcc":77, "mslCurving":60, "mslLooping":0, 
+				"mgAcc":30, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":48,
 			"name": "Sorasenkai",
-			"platforms": ["PC", "PSN"]
+			"callsign":"Starblade 1",
+			"unit":"Starblade Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/sora.jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":95, "drift":85, "consistency":80, "bkf":35, "strategy":77, 
+				"mslAcc":96, "mslCurving":95, "mslLooping":70, 
+				"mgAcc":70, "mgRate":40
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 50,
+			"id":49,
+			"name": "Kata",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (1).jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":97, "drift":89, "consistency":89, "bkf":0, "strategy":60, 
+				"mslAcc":97, "mslCurving":90, "mslLooping":20, 
+				"mgAcc":40, "mgRate":35
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":50,
 			"name": "Nassan",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-47",
+			"mainSpW":"SAAM",
+			"picture":"/images/su-47.webp",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":95, "drift":94, "consistency":89, "bkf":10, "strategy":78, 
+				"mslAcc":95, "mslCurving":90, "mslLooping":80, 
+				"mgAcc":80, "mgRate":40 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 51,
+			"id":51,
 			"name": "Kamata",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37 (3).jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":95, "drift":95, "consistency":80, "bkf":10, "strategy":78, 
+				"mslAcc":92, "mslCurving":90, "mslLooping":20, 
+				"mgAcc":80, "mgRate":40 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 52,
+			"id":52,
 			"name": "Nyanpire",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (1).jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":94, "drift":92, "consistency":75, "bkf":10, "strategy":65, 
+				"mslAcc":95, "mslCurving":90, "mslLooping":80, 
+				"mgAcc":80, "mgRate":40 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 53,
+			"id":53,
 			"name": "疾跑收枪戳",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/macross.jpg",
+			"country":{
+				"name":"China", 
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":95, "drift":95, "consistency":86, "bkf":83, "strategy":83, 
+				"mslAcc":94, "mslCurving":90, "mslLooping":60,
+				"mgAcc":95, "mgRate":92
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 54,
+			"id":54,
 			"name": "A Friendly Ghost",
-			"platforms": ["PC"]
+			"callsign":"Ghost",
+			"unit":"--",
+			"mainPlane":"F-15 S/MTD",
+			"mainSpW":"HPAA",
+			"picture":"/images/f-15 smtd.jpg",
+			"country":{
+				"name":"United States", 
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":80, "drift":80, "consistency":60, "bkf":0, "strategy":77, 
+				"mslAcc":84, "mslCurving":70, "mslLooping":35, 
+				"mgAcc":85, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 55,
+			"id":55,
 			"name": "MyPurpleLove",
-			"platforms": ["XBOX"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-37 (1).jpg",
+			"country":{
+				"name":"United States", 
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":86, "drift":60, "consistency":40, "bkf":0, "strategy":50, 
+				"mslAcc":70, "mslCurving":55, "mslLooping":0,
+				"mgAcc":60, "mgRate":50
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 56,
+			"id":56,
 			"name": "Annihilator Ryza",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"Japan", 
+				"code":"JP"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":98, "drift":88, "consistency":86, "bkf":0, "strategy":92, 
+				"mslAcc":97, "mslCurving":88, "mslLooping":50, 
+				"mgAcc":80, "mgRate":20
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 57,
+			"id":57,
 			"name": "Vogel",
-			"platforms": ["XBOX"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"F-22A",
+			"mainSpW":"6AAM",
+			"picture":"/images/bliq.webp",
+			"country":{
+				"name":"NN", 
+				"code":"NN"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":86, "drift":60, "consistency":40, "bkf":0, "strategy":50, 
+				"mslAcc":70, "mslCurving":55, "mslLooping":0,
+				"mgAcc":60, "mgRate":50
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 58,
+			"id":58,
 			"name": "Asuka Hibiki",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/asuka.jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":89, "drift":91, "consistency":76, "bkf":65, "strategy":88, 
+				"mslAcc":93, "mslCurving":90, "mslLooping":66,
+				"mgAcc":45, "mgRate":34
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 59,
+			"id":59,
 			"name": "Hikaru Kasuga",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-47",
+			"mainSpW":"QAAM",
+			"picture":"/images/hikaru.jpg",
+			"country":{
+				"name":"Brazil",
+				"code":"BR"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":86, "drift":94, "consistency":70, "bkf":10, "strategy":72, 
+				"mslAcc":90, "mslCurving":80, "mslLooping":60,
+				"mgAcc":91, "mgRate":88
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 60,
+			"id":60,
 			"name": "Beltz",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37 (3).jpg",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":97, "drift":99, "consistency":90, "bkf":0, "strategy":75, 
+				"mslAcc":97, "mslCurving":90, "mslLooping":30, 
+				"mgAcc":60, "mgRate":30
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
 			"id": 61,
 			"name": "Sun",
-			"platforms": ["PC"]
+			"callsign": "Sun Microsystems",
+			"unit": "--",
+			"mainPlane": "Su-35s",
+			"mainSpW": "6AAM",
+			"picture": "/images/sun.jpg",
+			"country": {
+				"name": "England",
+				"code":"GB"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":85, "drift":84, "consistency":75, "bkf":80, "strategy":70, 
+				"mslAcc":70, "mslCurving":70, "mslLooping":40,
+				"mgAcc":58, "mgRate":50
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 62,
+			"id":62,
 			"name": "Fofo",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/35s.webp",
+			"country":{
+				"name":"Canada",
+				"code":"CA"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":96, "drift":90, "consistency":80, "bkf":50, "strategy":80, 
+				"mslAcc":92, "mslCurving":95, "mslLooping":40,
+				"mgAcc":92, "mgRate":87 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":false,
+			"hidden":false
 		},{
-			"id": 63,
+			"id":63,
 			"name": "InfinityUSEA",
-			"platforms": ["PC"]
+			"callsign":"Infinity",
+			"unit":"Infinity Squadron",
+			"mainPlane":"F-35C",
+			"mainSpW":"HPAA",
+			"picture":"/images/infinity.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":65, "drift":70, "consistency":62, "bkf":70, "strategy":60, 
+				"mslAcc":60, "mslCurving":40, "mslLooping":60,
+				"mgAcc":50, "mgRate":40
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 64,
+			"id":64,
 			"name": "Sherry",
-			"platforms": ["PC"]
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/35s.webp",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":92, "drift":93, "consistency":75, "bkf":10, "strategy":80, 
+				"mslAcc":93, "mslCurving":85, "mslLooping":40, 
+				"mgAcc":93, "mgRate":92
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 65,
+			"id":65,
 			"name": "Helios",
-			"platforms": ["PC", "PSN"]
+			"callsign":"--",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-35s",
+			"mainSpW":"QAAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"United Kingdom",
+				"code":"GB"
+			},
+			"platforms": ["PC", "PSN"],
+			"statistics":{
+				"boost":76, "drift":98, "consistency":82, "bkf":50, "strategy":80, 
+				"mslAcc":72, "mslCurving":96, "mslLooping":60, 
+				"mgAcc":70, "mgRate":65
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 66,
-			"name": "尖啸死神",
-			"platforms": ["PC"]
+			"id":66,
+			"name": "汉斯-乌尔希里.鲁德尔",
+			"callsign":"尖啸死神",
+			"unit":"--",
+			"mainPlane":"Su-30SM",
+			"mainSpW":"6AAM",
+			"picture":"/images/30sm.webp",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":88, "drift":75, "consistency":69, "bkf":40, "strategy":74, 
+				"mslAcc":86, "mslCurving":76, "mslLooping":40, 
+				"mgAcc":30, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 67,
+			"id":67,
 			"name": "Snake",
-			"platforms": ["PSN"]
+			"callsign":"--",
+			"unit":"Venom Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (5).jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":90, "drift":90, "consistency":70, "bkf":70, "strategy":85, 
+				"mslAcc":87, "mslCurving":86, "mslLooping":50,
+				"mgAcc":89, "mgRate":89 
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		},{
-			"id": 68,
-			"name": "Gotti V2",
-			"platforms": ["PSN"]
+			"id":68,
+			"name": "Gotti",
+			"callsign":"--",
+			"unit":"Venom Squadron",
+			"mainPlane":"X-02s",
+			"mainSpW":"EML",
+			"picture":"/images/x02s.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":88, "drift":88, "consistency":73, "bkf":45, "strategy":83, 
+				"mslAcc":79, "mslCurving":88, "mslLooping":50,
+				"mgAcc":91, "mgRate":100
+			},
+			"lastUpdate":"2022/02/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		}
 	]
 }
