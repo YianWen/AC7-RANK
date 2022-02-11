@@ -14,11 +14,11 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":92, "drift":97, "consistency":75, "bkf":100, "strategy":86, 
+				"boost":92, "drift":97, "consistency":75, "bkf":100, "strategy":95, 
 				"mslAcc":85, "mslCurving":95, "mslLooping":100, 
-				"mgAcc":60, "mgRate":30
+				"mgAcc":80, "mgRate":20
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/02/11",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -36,11 +36,11 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":95, "drift":95, "consistency":97, "bkf":50, "strategy":100, 
-				"mslAcc":95, "mslCurving":96, "mslLooping":75, 
+				"boost":97, "drift":92, "consistency":88, "bkf":50, "strategy":100, 
+				"mslAcc":97, "mslCurving":96, "mslLooping":75, 
 				"mgAcc":86, "mgRate":90
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/02/11",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
