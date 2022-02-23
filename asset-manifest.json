@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.5acbc0d5.chunk.css",
-    "main.js": "/static/js/main.63d861aa.chunk.js",
-    "main.js.map": "/static/js/main.63d861aa.chunk.js.map",
+    "main.js": "/static/js/main.adc1c3dc.chunk.js",
+    "main.js.map": "/static/js/main.adc1c3dc.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.388b6d85.js",
     "runtime-main.js.map": "/static/js/runtime-main.388b6d85.js.map",
-    "static/js/2.699260d1.chunk.js": "/static/js/2.699260d1.chunk.js",
-    "static/js/2.699260d1.chunk.js.map": "/static/js/2.699260d1.chunk.js.map",
+    "static/js/2.ad3927ee.chunk.js": "/static/js/2.ad3927ee.chunk.js",
+    "static/js/2.ad3927ee.chunk.js.map": "/static/js/2.ad3927ee.chunk.js.map",
     "static/js/3.550e7846.chunk.js": "/static/js/3.550e7846.chunk.js",
     "static/js/3.550e7846.chunk.js.map": "/static/js/3.550e7846.chunk.js.map",
     "static/js/4.27908c51.chunk.js": "/static/js/4.27908c51.chunk.js",
     "static/js/4.27908c51.chunk.js.map": "/static/js/4.27908c51.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.5acbc0d5.chunk.css.map": "/static/css/main.5acbc0d5.chunk.css.map",
-    "static/js/2.699260d1.chunk.js.LICENSE.txt": "/static/js/2.699260d1.chunk.js.LICENSE.txt",
+    "static/js/2.ad3927ee.chunk.js.LICENSE.txt": "/static/js/2.ad3927ee.chunk.js.LICENSE.txt",
     "static/js/3.550e7846.chunk.js.LICENSE.txt": "/static/js/3.550e7846.chunk.js.LICENSE.txt",
     "static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg": "/static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg",
     "static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg": "/static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg",
@@ -76,8 +76,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.388b6d85.js",
-    "static/js/2.699260d1.chunk.js",
+    "static/js/2.ad3927ee.chunk.js",
     "static/css/main.5acbc0d5.chunk.css",
-    "static/js/main.63d861aa.chunk.js"
+    "static/js/main.adc1c3dc.chunk.js"
   ]
 }
