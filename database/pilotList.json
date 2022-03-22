@@ -1496,6 +1496,29 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":69,
+			"name": "Oxytocin",
+			"callsign":"オキシトシン",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"CFA-44",
+			"mainSpW":"ADMM",
+			"picture":"/images/cfa.jpg",
+			"country":{
+				"name":"United States",
+				"code":"US"
+			},
+			"platforms": ["PSN","PC"],
+			"statistics":{
+				"boost":84, "drift":87, "consistency":75, "bkf":59, "strategy":84,
+                "mslAcc":81, "mslCurving":82, "mslLooping":59,
+                "mgAcc":77, "mgRate":77
+			},
+			"lastUpdate":"2022/03/22",
+			"rankAverage":-1,
+			"active":false,
+			"hidden":false
 		}
+
 	]
 }
