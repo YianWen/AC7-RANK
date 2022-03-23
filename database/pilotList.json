@@ -586,9 +586,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":88, "drift":92, "consistency":80, "bkf":94, "strategy":80,
-				"mslAcc":94, "mslCurving":75, "mslLooping":73,
-				"mgAcc":82, "mgRate":70
+				"boost":93, "drift":92, "consistency":84, "bkf":94, "strategy":80,
+				"mslAcc":94, "mslCurving":90, "mslLooping":85,
+				"mgAcc":90, "mgRate":80
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
@@ -907,7 +907,7 @@
 			"name": "vbcfbhu",
 			"callsign":"Iris",
 			"unit":"uwu squadron",
-			"mainPlane":"Su-37",
+			"mainPlane":"A-10",
 			"mainSpW":"6AAM",
 			"picture":"/images/vb.jpg",
 			"country":{
