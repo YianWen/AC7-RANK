@@ -1136,11 +1136,11 @@
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":94, "drift":92, "consistency":75, "bkf":10, "strategy":65, 
+				"boost":94, "drift":92, "consistency":75, "bkf":10, "strategy":85, 
 				"mslAcc":95, "mslCurving":90, "mslLooping":80, 
 				"mgAcc":80, "mgRate":40 
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/03/27",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
