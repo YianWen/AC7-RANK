@@ -1539,7 +1539,7 @@
 			"lastUpdate":"2022/04/07",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":71,
 			"name": "BB Arcadia",
@@ -1566,7 +1566,7 @@
 			"id":72,
 			"name": "Chwistie",
 			"callsign":"Blaze",
-			"unit":"Nordennavic Royal Air Force Titan",
+			"unit":"--",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
 			"picture":"/images/Chwistie.jpg",
@@ -1576,8 +1576,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":91, "drift":76, "consistency":73, "bkf":69, "strategy":75, 
-				"mslAcc":92, "mslCurving":95, "mslLooping":83,
+				"boost":90, "drift":76, "consistency":73, "bkf":69, "strategy":75, 
+				"mslAcc":90, "mslCurving":80, "mslLooping":83,
 				"mgAcc":85, "mgRate":96
 			},
 			"lastUpdate":"2022/04/07",
