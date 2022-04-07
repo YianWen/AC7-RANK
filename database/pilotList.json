@@ -865,7 +865,7 @@
 			"unit":"--",
 			"mainPlane":"XFA-27",
 			"mainSpW":"MSTM",
-			"picture":"/images/xfa.jpg",
+			"picture":"/images/weasel.jpg",
 			"country":{
 				"name":"United States",
 				"code":"US"
@@ -1525,7 +1525,7 @@
 			"unit":"Nordennavic Royal Air Force Titan",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
-			"picture":"/images/mega.jpg",
+			"picture":"/images/viper.jpg",
 			"country":{
 				"name":"USA",
 				"code":"US"
