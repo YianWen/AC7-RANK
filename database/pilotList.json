@@ -190,7 +190,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":96, "consistency":98, "bkf":90, "strategy":80, 
+				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":80, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":80,
 				"mgAcc":97, "mgRate":97
 			},
