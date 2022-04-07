@@ -42,7 +42,7 @@
 			},
 			"lastUpdate":"2022/02/11",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":3,
@@ -850,7 +850,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":92, "drift":90,  "bkf":20, "strategy":94, "consistency": 96,
+				"boost":92, "drift":90,  "bkf":20, "strategy":94, "consistency": 94,
 				"mslAcc":94, "mslCurving":82, "mslLooping":90,
 				"mgAcc":95, "mgRate":90
 			},
@@ -1076,7 +1076,7 @@
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":50,
@@ -1098,7 +1098,7 @@
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":51,
@@ -1120,7 +1120,7 @@
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":52,
