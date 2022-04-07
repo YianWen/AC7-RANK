@@ -1539,6 +1539,50 @@
 			"lastUpdate":"2022/04/07",
 			"rankAverage":-1,
 			"active":true,
+			"hidden":true
+		},{
+			"id":71,
+			"name": "BB Arcadia",
+			"callsign":"Sonix",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37(1).jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":82, "drift":80, "consistency":78, "bkf":25, "strategy":75, 
+				"mslAcc":72, "mslCurving":65, "mslLooping":50,
+				"mgAcc":45, "mgRate":95
+			},
+			"lastUpdate":"2022/04/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":72,
+			"name": "Chwistie",
+			"callsign":"Blaze",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/Chwistie.jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":91, "drift":76, "consistency":73, "bkf":69, "strategy":75, 
+				"mslAcc":92, "mslCurving":95, "mslLooping":83,
+				"mgAcc":85, "mgRate":96
+			},
+			"lastUpdate":"2022/04/07",
+			"rankAverage":-1,
+			"active":true,
 			"hidden":false
 		}	
 
