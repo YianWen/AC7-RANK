@@ -1518,7 +1518,29 @@
 			"rankAverage":-1,
 			"active":false,
 			"hidden":false
-		}
+		},{
+			"id":70,
+			"name": "Flanker_Ace",
+			"callsign":"Viper",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/mega.jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":72, "drift":66, "consistency":74, "bkf":0, "strategy":94, 
+				"mslAcc":79, "mslCurving":50, "mslLooping":85,
+				"mgAcc":50, "mgRate":40
+			},
+			"lastUpdate":"2022/04/07",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		}	
 
 	]
 }
