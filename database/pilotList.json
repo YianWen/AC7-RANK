@@ -355,7 +355,7 @@
 		},{
 			"id": 17,
 			"name": "Giquo「ジクオ」",
-			"callsign": "Jazzman",
+			"callsign": "Vectrodroid",
 			"unit": "--",
 			"mainPlane": "Su-35s",
 			"mainSpW": "6AAM",
@@ -372,8 +372,8 @@
 			},
 			"lastUpdate":"2022/03/27",
 			"rankAverage":-1,
-			"active":false,
-			"hidden":true
+			"active":true,
+			"hidden":false
 		},{
 			"id":18,
 			"name": "NathanX42",
