@@ -1048,7 +1048,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":93, "drift":95, "consistency":84, "bkf":35, "strategy":87, 
+				"boost":93, "drift":95, "consistency":88, "bkf":50, "strategy":87, 
 				"mslAcc":94, "mslCurving":94, "mslLooping":70, 
 				"mgAcc":81, "mgRate":70
 			},
