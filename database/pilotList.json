@@ -279,7 +279,7 @@
 			"platforms": ["PC", "PSN"],
 			"statistics":{
 				"boost":96, "drift":96, "consistency":97, "bkf":98, "strategy":88, 
-				"mslAcc":95, "mslCurving":97, "mslLooping":84,
+				"mslAcc":98, "mslCurving":97, "mslLooping":84,
 				"mgAcc":96, "mgRate":88
 			},
 			"lastUpdate":"2022/02/07",
@@ -652,7 +652,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":97, "drift":98, "consistency":94, "bkf":82, "strategy":82, 
+				"boost":97, "drift":98, "consistency":96, "bkf":86, "strategy":82, 
 				"mslAcc":98, "mslCurving":96, "mslLooping":72, 
 				"mgAcc":97, "mgRate":92
 			},
