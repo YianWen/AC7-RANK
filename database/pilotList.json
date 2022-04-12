@@ -219,7 +219,7 @@
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":11,
 			"name": "Darkskryll",
