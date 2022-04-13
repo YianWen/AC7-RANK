@@ -15,6 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - check how to allow to enter from the /pilots page without getting error 404
 
 
+## [0.6.1] - 2022-04-13
+### Added
+- General rules about submissions.
+- Squadron Emblems.
+- Return of the average percentage value.
+- A detailed explanation about the average weights and the corresponding rank (apologies for the first implementation to this and it's misunderstandings)
+
 
 ## [0.5.2] - 2022-02-22
 ### Added
