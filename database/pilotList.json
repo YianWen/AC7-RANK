@@ -192,7 +192,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":80, 
+				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":84, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":80,
 				"mgAcc":97, "mgRate":97
 			},
@@ -283,7 +283,7 @@
 			"statistics":{
 				"boost":96, "drift":96, "consistency":98, "bkf":98, "strategy":88, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":84,
-				"mgAcc":96, "mgRate":88
+				"mgAcc":96, "mgRate":96
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
