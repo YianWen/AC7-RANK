@@ -591,7 +591,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":92, "drift":96, "consistency":86, "bkf":94, "strategy":88,
+				"boost":92, "drift":96, "consistency":93, "bkf":94, "strategy":88,
 				"mslAcc":96, "mslCurving":98, "mslLooping":90,
 				"mgAcc":92, "mgRate":90
 			},
@@ -636,7 +636,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":94, "drift":97, "consistency":95, "bkf":70, "strategy":90, 
+				"boost":93, "drift":97, "consistency":94, "bkf":70, "strategy":90, 
 				"mslAcc":84, "mslCurving":92, "mslLooping":70,
 				"mgAcc":98, "mgRate":100 
 			},
@@ -860,7 +860,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":95, "drift":92,  "bkf":20, "strategy":98, "consistency": 97,
+				"boost":95, "drift":92,  "bkf":20, "strategy":95, "consistency": 95,
 				"mslAcc":94, "mslCurving":92, "mslLooping":90,
 				"mgAcc":95, "mgRate":90
 			},
