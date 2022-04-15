@@ -371,8 +371,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":95, "drift":92, "consistency":69, "bkf":66, "strategy":77, 
-				"mslAcc":87, "mslCurving":85, "mslLooping":88,
+				"boost":95, "drift":92, "consistency":65, "bkf":70, "strategy":75, 
+				"mslAcc":92, "mslCurving":88, "mslLooping":88,
 				"mgAcc":66, "mgRate":80
 			},
 			"lastUpdate":"2022/03/27",
