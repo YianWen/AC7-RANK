@@ -44,7 +44,7 @@
 			"lastUpdate":"2022/02/11",
 			"rankAverage":-1,
 			"active":false,
-			"hidden":false
+			"hidden":true
 		},{
 			"id":3,
 			"name": "Talisman",
@@ -1051,7 +1051,7 @@
 			"id":48,
 			"name": "Sorasenkai",
 			"callsign":"Starblade 1",
-			"unit":"Starblade Squadron",
+			"unit":"14th Ind. Tactical Fighter Squadron Starblade",
 			"squadEmblem":"starblade.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
@@ -1074,7 +1074,7 @@
 			"id":49,
 			"name": "Kata",
 			"callsign":"--",
-			"unit":"Starblade Squadron",
+			"unit":"14th Ind. Tactical Fighter Squadron Starblade",
 			"squadEmblem":"starblade.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",

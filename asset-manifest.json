@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.a2fcedbf.chunk.css",
-    "main.js": "/static/js/main.568a0cd1.chunk.js",
-    "main.js.map": "/static/js/main.568a0cd1.chunk.js.map",
+    "main.css": "/static/css/main.24f90929.chunk.css",
+    "main.js": "/static/js/main.e39e3763.chunk.js",
+    "main.js.map": "/static/js/main.e39e3763.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.388b6d85.js",
     "runtime-main.js.map": "/static/js/runtime-main.388b6d85.js.map",
     "static/js/2.29de5647.chunk.js": "/static/js/2.29de5647.chunk.js",
@@ -12,7 +12,7 @@
     "static/js/4.27908c51.chunk.js": "/static/js/4.27908c51.chunk.js",
     "static/js/4.27908c51.chunk.js.map": "/static/js/4.27908c51.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a2fcedbf.chunk.css.map": "/static/css/main.a2fcedbf.chunk.css.map",
+    "static/css/main.24f90929.chunk.css.map": "/static/css/main.24f90929.chunk.css.map",
     "static/js/2.29de5647.chunk.js.LICENSE.txt": "/static/js/2.29de5647.chunk.js.LICENSE.txt",
     "static/js/3.550e7846.chunk.js.LICENSE.txt": "/static/js/3.550e7846.chunk.js.LICENSE.txt",
     "static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg": "/static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg",
@@ -65,7 +65,7 @@
     "static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg": "/static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg",
     "static/media/about-icon.fedacfe8.svg": "/static/media/about-icon.fedacfe8.svg",
     "static/media/cancel.454edab0.mp3": "/static/media/cancel.454edab0.mp3",
-    "static/media/changelog.060a5373.md": "/static/media/changelog.060a5373.md",
+    "static/media/changelog.073cd89d.md": "/static/media/changelog.073cd89d.md",
     "static/media/cog.765fcc82.svg": "/static/media/cog.765fcc82.svg",
     "static/media/load_complete.65de8f15.mp3": "/static/media/load_complete.65de8f15.mp3",
     "static/media/log.3c95a0cb.svg": "/static/media/log.3c95a0cb.svg",
@@ -78,7 +78,7 @@
   "entrypoints": [
     "static/js/runtime-main.388b6d85.js",
     "static/js/2.29de5647.chunk.js",
-    "static/css/main.a2fcedbf.chunk.css",
-    "static/js/main.568a0cd1.chunk.js"
+    "static/css/main.24f90929.chunk.css",
+    "static/js/main.e39e3763.chunk.js"
   ]
 }
