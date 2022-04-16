@@ -44,7 +44,7 @@
 			"lastUpdate":"2022/02/11",
 			"rankAverage":-1,
 			"active":false,
-			"hidden":false
+			"hidden":true
 		},{
 			"id":3,
 			"name": "Talisman",
