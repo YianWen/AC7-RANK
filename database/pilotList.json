@@ -14,7 +14,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":92, "drift":97, "consistency":75, "bkf":100, "strategy":95, 
+				"boost":92, "drift":97, "consistency":75, "bkf":100, "strategy":93, 
 				"mslAcc":85, "mslCurving":95, "mslLooping":100, 
 				"mgAcc":80, "mgRate":20
 			},
@@ -37,7 +37,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":97, "drift":92, "consistency":88, "bkf":50, "strategy":100, 
+				"boost":97, "drift":92, "consistency":88, "bkf":50, "strategy":96, 
 				"mslAcc":97, "mslCurving":96, "mslLooping":75, 
 				"mgAcc":86, "mgRate":90
 			},
@@ -126,7 +126,7 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":82, "drift":97, "consistency":74, "bkf":70, "strategy":90, 
+				"boost":82, "drift":97, "consistency":74, "bkf":70, "strategy":88, 
 				"mslAcc":90, "mslCurving":90, "mslLooping":55, 
 				"mgAcc":98, "mgRate":95 
 			},
@@ -192,7 +192,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":84, 
+				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":87, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":80,
 				"mgAcc":97, "mgRate":97
 			},
@@ -236,7 +236,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":98, "consistency":100, "bkf":100, "strategy":90, 
+				"boost":99, "drift":98, "consistency":100, "bkf":100, "strategy":96
+				, 
 				"mslAcc":100, "mslCurving":99, "mslLooping":100,
 				"mgAcc":97, "mgRate":96
 			},
@@ -281,7 +282,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":96, "drift":96, "consistency":98, "bkf":98, "strategy":88, 
+				"boost":96, "drift":96, "consistency":98, "bkf":98, "strategy":87, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":84,
 				"mgAcc":96, "mgRate":96
 			},
@@ -304,8 +305,8 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":0, "drift":0, "consistency":0, "bkf":0, "strategy":100, 
-				"mslAcc":88, "mslCurving":86, "mslLooping":94,
+				"boost":0, "drift":0, "consistency":0, "bkf":0, "strategy":94, 
+				"mslAcc":88, "mslCurving":86, "mslLooping":92,
 				"mgAcc":80, "mgRate":70
 			},
 			"lastUpdate":"2022/02/07",
@@ -571,7 +572,7 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":82, "drift":88, "consistency":77, "bkf":98, "strategy":84,
+				"boost":82, "drift":88, "consistency":77, "bkf":98, "strategy":89,
 				"mslAcc":88, "mslCurving":87, "mslLooping":89,
 				"mgAcc":90, "mgRate":70
 			},
@@ -593,7 +594,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":91, "drift":96, "consistency":90, "bkf":94, "strategy":84,
+				"boost":91, "drift":96, "consistency":90, "bkf":94, "strategy":80,
 				"mslAcc":96, "mslCurving":98, "mslLooping":90,
 				"mgAcc":92, "mgRate":90
 			},
@@ -615,7 +616,7 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":88, "drift":82, "consistency":40, "bkf":0, "strategy":80, 
+				"boost":88, "drift":82, "consistency":40, "bkf":0, "strategy":75, 
 				"mslAcc":75, "mslCurving":60, "mslLooping":0,
 				"mgAcc":92, "mgRate":90
 			},
@@ -638,7 +639,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":93, "drift":97, "consistency":94, "bkf":70, "strategy":90, 
+				"boost":93, "drift":97, "consistency":94, "bkf":70, "strategy":85, 
 				"mslAcc":84, "mslCurving":92, "mslLooping":70,
 				"mgAcc":98, "mgRate":100 
 			},
@@ -705,7 +706,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":90, "drift":82, "consistency":79, "bkf":0, "strategy":77, 
+				"boost":90, "drift":82, "consistency":79, "bkf":0, "strategy":84, 
 				"mslAcc":96, "mslCurving":70, "mslLooping":0,
 				"mgAcc":89, "mgRate":100
 			},
@@ -728,7 +729,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":60, "drift":75, "consistency":90, "bkf":10, "strategy":90, 
+				"boost":60, "drift":75, "consistency":90, "bkf":10, "strategy":85, 
 				"mslAcc":82, "mslCurving":55, "mslLooping":75,
 				"mgAcc":75, "mgRate":50
 			},
@@ -839,7 +840,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":70, "drift":75, "consistency":94, "bkf":10, "strategy":97, 
+				"boost":70, "drift":75, "consistency":94, "bkf":10, "strategy":86, 
 				"mslAcc":84, "mslCurving":65, "mslLooping":96,
 				"mgAcc":40, "mgRate":30
 			},
@@ -862,7 +863,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":95, "drift":92,  "bkf":20, "strategy":95, "consistency": 96,
+				"boost":95, "drift":92,  "bkf":20, "strategy":90, "consistency": 96,
 				"mslAcc":96, "mslCurving":92, "mslLooping":90,
 				"mgAcc":95, "mgRate":90
 			},
@@ -884,7 +885,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":55, "drift":70, "consistency":85, "bkf":0, "strategy":96, 
+				"boost":55, "drift":70, "consistency":85, "bkf":0, "strategy":85, 
 				"mslAcc":85, "mslCurving":40, "mslLooping":90,
 				"mgAcc":70, "mgRate":60
 			},
@@ -928,7 +929,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":100, "drift":100, "consistency":97, "bkf":90, "strategy":100, 
+				"boost":100, "drift":100, "consistency":97, "bkf":90, "strategy":98, 
 				"mslAcc":100, "mslCurving":94, "mslLooping":95, 
 				"mgAcc":97, "mgRate":90
 			},
@@ -1063,7 +1064,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":93, "drift":95, "consistency":88, "bkf":40, "strategy":90, 
+				"boost":93, "drift":95, "consistency":88, "bkf":40, "strategy":88, 
 				"mslAcc":94, "mslCurving":94, "mslLooping":70, 
 				"mgAcc":81, "mgRate":70
 			},
@@ -1240,7 +1241,7 @@
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":98, "drift":88, "consistency":86, "bkf":0, "strategy":92, 
+				"boost":98, "drift":88, "consistency":86, "bkf":0, "strategy":90, 
 				"mslAcc":97, "mslCurving":88, "mslLooping":50, 
 				"mgAcc":80, "mgRate":20
 			},
@@ -1554,7 +1555,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":96, 
+				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":84, 
 				"mslAcc":81, "mslCurving":50, "mslLooping":85,
 				"mgAcc":50, "mgRate":40
 			},
