@@ -225,8 +225,9 @@
 		},{
 			"id":11,
 			"name": "Darkskryll",
-			"callsign":"Floppa",
-			"unit":"--",
+			"callsign":"Promoted Pawn",
+			"unit":"15th Tactical Fighter Squadron Checkmate",
+			"squadEmblem":"checkmate.png",
 			"mainPlane":"Su-30SM",
 			"mainSpW":"6AAM",
 			"picture":"/images/dark.jpg",
