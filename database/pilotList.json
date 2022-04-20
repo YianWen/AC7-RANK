@@ -49,8 +49,8 @@
 			"id":3,
 			"name": "Talisman",
 			"callsign":"Spirit",
-			"unit":"Nordennavic Royal Air Force Titan",
-			"squadEmblem":"TITAN_Nordennavic_Royal_Air_Force_Emblem.png",
+			"unit":"28th Tactical Fighter Squadron Zeus",
+			"squadEmblem":"zeus.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
 			"picture":"/images/tali.jpg",
@@ -66,7 +66,7 @@
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":false,
+			"active":true,
 			"hidden":false
 		},{
 			"id":4,
