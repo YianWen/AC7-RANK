@@ -318,7 +318,7 @@
 		},{
 			"id":15,
 			"name": "Woodie",
-			"callsign":"--",
+			"callsign":"Ares",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
 			"mainPlane":"Su-57",
@@ -899,8 +899,8 @@
 			"hidden":false
 		},{
 			"id":41,
-			"name": "Aesir Iniquity",
-			"callsign":"Iniquity",
+			"name": "Iniquity",
+			"callsign":"--",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
 			"mainPlane":"ADF-01 Falken",
@@ -948,14 +948,14 @@
 			"callsign":"Aesir 1",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
-			"mainPlane":"Su-35s",
-			"mainSpW":"6AAM",
+			"mainPlane":"CFA-44",
+			"mainSpW":"EML",
 			"picture":"/images/azreal.jpg",
 			"country":{
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["XBOX"],
+			"platforms": ["PSN","XBOX"],
 			"statistics":{
 				"boost":80, "drift":70, "consistency":60, "bkf":0, "strategy":72, 
 				"mslAcc":75, "mslCurving":70, "mslLooping":60,
