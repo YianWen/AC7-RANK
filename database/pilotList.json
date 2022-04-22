@@ -411,6 +411,7 @@
 			"name": "Sullvant",
 			"callsign":"Soul",
 			"unit":"Squad 17",
+			"squadEmblem":"soul.png",
 			"mainPlane":"ADF-01 Falken",
 			"mainSpW":"6AAM",
 			"picture":"/images/sull.jpg",
