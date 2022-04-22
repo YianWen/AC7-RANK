@@ -49,8 +49,8 @@
 			"id":3,
 			"name": "Talisman",
 			"callsign":"Spirit",
-			"unit":"28th Tactical Fighter Squadron Zeus",
-			"squadEmblem":"zeus.png",
+			"unit":"Nordennavic Royal Air Force Titan",
+			"squadEmblem":"TITAN_Nordennavic_Royal_Air_Force_Emblem.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
 			"picture":"/images/tali.jpg",
@@ -60,13 +60,13 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":96, "drift":97, "consistency":93, "bkf":10, "strategy":85,
-				"mslAcc":98, "mslCurving":96, "mslLooping":50, 
-				"mgAcc":98, "mgRate":97
+				"boost":98, "drift":97, "consistency":95, "bkf":10, "strategy":85,
+				"mslAcc":98, "mslCurving":95, "mslLooping":50, 
+				"mgAcc":96, "mgRate":95
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":4,
@@ -126,7 +126,7 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":82, "drift":97, "consistency":74, "bkf":70, "strategy":88, 
+				"boost":82, "drift":96, "consistency":82, "bkf":70, "strategy":88, 
 				"mslAcc":90, "mslCurving":90, "mslLooping":55, 
 				"mgAcc":98, "mgRate":95 
 			},
@@ -183,7 +183,6 @@
 			"name": "Ali ACF",
 			"callsign":"Shiesty",
 			"unit":"Alect Squadron",
-			"squadEmblem":"alect.png",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
 			"picture":"/images/ali.webp",
@@ -193,7 +192,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":87, 
+				"boost":99, "drift":96, "consistency":98, "bkf":94, "strategy":88, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":80,
 				"mgAcc":97, "mgRate":97
 			},
@@ -227,8 +226,7 @@
 			"id":11,
 			"name": "Darkskryll",
 			"callsign":"Floppa",
-			"unit":"15th Tactical Fighter Squadron Checkmate",
-			"squadEmblem":"checkmate.png",
+			"unit":"--",
 			"mainPlane":"Su-30SM",
 			"mainSpW":"6AAM",
 			"picture":"/images/dark.jpg",
@@ -284,7 +282,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":96, "drift":96, "consistency":98, "bkf":98, "strategy":87, 
+				"boost":96, "drift":97, "consistency":98, "bkf":98, "strategy":87, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":84,
 				"mgAcc":96, "mgRate":96
 			},
@@ -318,9 +316,8 @@
 		},{
 			"id":15,
 			"name": "Woodie",
-			"callsign":"Ares",
-			"unit":"AESIR 182nd Task Force",
-			"squadEmblem":"aesir.png",
+			"callsign":"--",
+			"unit":"--",
 			"mainPlane":"Su-57",
 			"mainSpW":"PLSL",
 			"picture":"/images/su-57 plsl.jpg",
@@ -364,8 +361,8 @@
 			"id": 17,
 			"name": "Giquo「ジクオ」",
 			"callsign": "Vectrodroid",
-			"unit":"15th Tactical Fighter Squadron Checkmate",
-			"squadEmblem":"checkmate.png",
+			"unit":"47th Tactical Fighter Squadron Jazzman",
+			"squadEmblem":"jazzmanSqd.png",
 			"mainPlane": "Su-35s",
 			"mainSpW": "6AAM",
 			"picture": "/images/jazzman.jpg",
@@ -387,8 +384,7 @@
 			"id":18,
 			"name": "NathanX42",
 			"callsign":"Kot",
-			"unit":"AESIR 182nd Task Force",
-			"squadEmblem":"aesir.png",
+			"unit":"--",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
 			"picture":"/images/nathan.webp",
@@ -411,7 +407,6 @@
 			"name": "Sullvant",
 			"callsign":"Soul",
 			"unit":"Squad 17",
-			"squadEmblem":"soul.png",
 			"mainPlane":"ADF-01 Falken",
 			"mainSpW":"6AAM",
 			"picture":"/images/sull.jpg",
@@ -522,8 +517,8 @@
 			"id":24,
 			"name": "Caselas",
 			"callsign":"--",
-			"unit":"15th Tactical Fighter Squadron Checkmate",
-			"squadEmblem":"checkmate.png",
+			"unit":"47th Tactical Fighter Squadron Jazzman",
+			"squadEmblem":"jazzmanSqd.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
 			"picture":"/images/celestseal.webp",
@@ -823,7 +818,7 @@
 			"platforms": ["PC"],
 			"statistics":{
 				"boost":99, "drift":95, "consistency":85, "bkf":80, "strategy":92, 
-				"mslAcc":94, "mslCurving":92, "mslLooping":65, 
+				"mslAcc":94, "mslCurving":92, "mslLooping":90, 
 				"mgAcc":90, "mgRate":60
 			},
 			"lastUpdate":"2022/02/07",
@@ -845,8 +840,8 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":70, "drift":75, "consistency":94, "bkf":10, "strategy":86, 
-				"mslAcc":84, "mslCurving":65, "mslLooping":96,
+				"boost":70, "drift":75, "consistency":80, "bkf":10, "strategy":86, 
+				"mslAcc":84, "mslCurving":65, "mslLooping":80,
 				"mgAcc":40, "mgRate":30
 			},
 			"lastUpdate":"2022/02/07",
@@ -869,7 +864,7 @@
 			"platforms": ["PC", "PSN"],
 			"statistics":{
 				"boost":95, "drift":92,  "bkf":20, "strategy":90, "consistency": 96,
-				"mslAcc":96, "mslCurving":92, "mslLooping":90,
+				"mslAcc":96, "mslCurving":92, "mslLooping":80,
 				"mgAcc":95, "mgRate":90
 			},
 			"lastUpdate":"2022/04/09",
@@ -891,7 +886,7 @@
 			"platforms": ["XBOX"],
 			"statistics":{
 				"boost":55, "drift":70, "consistency":85, "bkf":0, "strategy":85, 
-				"mslAcc":85, "mslCurving":40, "mslLooping":90,
+				"mslAcc":85, "mslCurving":40, "mslLooping":80,
 				"mgAcc":70, "mgRate":60
 			},
 			"lastUpdate":"2022/02/07",
@@ -900,10 +895,9 @@
 			"hidden":false
 		},{
 			"id":41,
-			"name": "Iniquity",
-			"callsign":"--",
-			"unit":"AESIR 182nd Task Force",
-			"squadEmblem":"aesir.png",
+			"name": "Aesir Iniquity",
+			"callsign":"Iniquity",
+			"unit":"Aesir Squadron",
 			"mainPlane":"ADF-01 Falken",
 			"mainSpW":"EML",
 			"picture":"/images/falken.webp",
@@ -945,18 +939,17 @@
 			"hidden":false
 		},{
 			"id":43,
-			"name": "Azreal",
+			"name": "Heisenblack",
 			"callsign":"Aesir 1",
-			"unit":"AESIR 182nd Task Force",
-			"squadEmblem":"aesir.png",
-			"mainPlane":"CFA-44",
-			"mainSpW":"EML",
-			"picture":"/images/azreal.jpg",
+			"unit":"Aesir Squadron",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
 			"country":{
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PSN","XBOX"],
+			"platforms": ["XBOX"],
 			"statistics":{
 				"boost":80, "drift":70, "consistency":60, "bkf":0, "strategy":72, 
 				"mslAcc":75, "mslCurving":70, "mslLooping":60,
@@ -971,7 +964,6 @@
 			"name": "Kazutoki Kono",
 			"callsign":"Oka Nieba",
 			"unit":"BANDAI NAMCO ENTERTAINMENT",
-			"squadEmblem":"pa.png",
 			"mainPlane":"X-02 Strike Wyvern",
 			"mainSpW":"V2",
 			"picture":"/images/dog.jpg",
@@ -994,7 +986,6 @@
 			"name": "アンドレイ・マルコフ",
 			"callsign":"アクーラ 1",
 			"unit":"Russian Air Force Squadron AKULA",
-			"squadEmblem":"akula.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
 			"picture":"/images/akula1.jpg",
@@ -1017,7 +1008,6 @@
 			"name": "Shamiko_Peach",
 			"callsign":"SACS 3",
 			"unit":"Erusean Submarine Alicorn Carrier Squadron SACS",
-			"squadEmblem":"sacs.png",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
 			"picture":"/images/shamiko.jpg",
@@ -1072,13 +1062,13 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":93, "drift":95, "consistency":88, "bkf":40, "strategy":88, 
+				"boost":93, "drift":95, "consistency":95, "bkf":40, "strategy":88, 
 				"mslAcc":94, "mslCurving":94, "mslLooping":70, 
 				"mgAcc":81, "mgRate":70
 			},
 			"lastUpdate":"2022/04/09",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":49,
@@ -1564,7 +1554,7 @@
 			"platforms": ["PC"],
 			"statistics":{
 				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":84, 
-				"mslAcc":81, "mslCurving":50, "mslLooping":85,
+				"mslAcc":81, "mslCurving":50, "mslLooping":80,
 				"mgAcc":50, "mgRate":40
 			},
 			"lastUpdate":"2022/04/07",
