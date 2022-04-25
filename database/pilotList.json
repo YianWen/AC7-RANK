@@ -904,9 +904,9 @@
 			"callsign":"--",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
-			"mainPlane":"ADF-01 Falken",
-			"mainSpW":"EML",
-			"picture":"/images/falken.webp",
+			"mainPlane":"SU-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37(1).jpg",
 			"country":{
 				"name":"Guatemala",
 				"code":"GT"
