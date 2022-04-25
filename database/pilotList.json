@@ -958,14 +958,14 @@
 			},
 			"platforms": ["PSN","XBOX"],
 			"statistics":{
-				"boost":80, "drift":70, "consistency":60, "bkf":0, "strategy":72, 
-				"mslAcc":75, "mslCurving":70, "mslLooping":60,
-				"mgAcc":60, "mgRate":75
+				"boost":84, "drift":85, "consistency":79, "bkf":30, "strategy":90, 
+				"mslAcc":83, "mslCurving":60, "mslLooping":40,
+				"mgAcc":85, "mgRate":70
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":44,
 			"name": "Kazutoki Kono",
