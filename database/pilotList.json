@@ -1627,9 +1627,9 @@
 			"picture":"/images/30sm.webp",
 			"country":{
 				"name":"Japan",
-				"code":"BR"
+				"code":"JP"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PS4"],
 			"statistics":{
 				"boost":83, "drift":87, "consistency":86, "bkf":45, "strategy":78, 
 				"mslAcc":83, "mslCurving":77, "mslLooping":25,
