@@ -662,8 +662,8 @@
 			"mainSpW":"QAAM",
 			"picture":"/images/mobius-f22.jpeg",
 			"country":{
-				"name":"United States",
-				"code":"US"
+				"name":"Tibet",
+				"code":"TB"
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
@@ -1634,6 +1634,50 @@
 				"boost":83, "drift":87, "consistency":86, "bkf":45, "strategy":78, 
 				"mslAcc":83, "mslCurving":77, "mslLooping":25,
 				"mgAcc":65, "mgRate":50
+			},
+			"lastUpdate":"2022/04/25",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":74,
+			"name": "GEGE02",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35S",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (2).jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":62, "drift":43, "consistency":55, "bkf":0, "strategy":54, 
+				"mslAcc":53, "mslCurving":39, "mslLooping":0,
+				"mgAcc":60, "mgRate":80
+			},
+			"lastUpdate":"2022/04/25",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":75,
+			"name": "Tellus",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35S",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (5).jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":64, "drift":55, "consistency":54, "bkf":10, "strategy":49, 
+				"mslAcc":52, "mslCurving":39, "mslLooping":0,
+				"mgAcc":35, "mgRate":20
 			},
 			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
