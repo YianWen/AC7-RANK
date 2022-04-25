@@ -396,7 +396,7 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PC", "PSN"],
+			"platforms": ["PC", "PSN","XBOX"],
 			"statistics":{
 				"boost":90, "drift":72, "consistency":77, "bkf":60, "strategy":75, 
 				"mslAcc":98, "mslCurving":99, "mslLooping":60,
@@ -911,7 +911,7 @@
 				"name":"Guatemala",
 				"code":"GT"
 			},
-			"platforms": ["PSN"],
+			"platforms": ["XBOX","PC"],
 			"statistics":{
 				"boost":86, "drift":82, "consistency":81, "bkf":20, "strategy":80, 
 				"mslAcc":83, "mslCurving":75, "mslLooping":40,
@@ -1492,7 +1492,7 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PSN"],
+			"platforms": ["PSN,PC"],
 			"statistics":{
 				"boost":96, "drift":95, "consistency":90, "bkf":69, "strategy":86, 
 				"mslAcc":97, "mslCurving":92, "mslLooping":60,
@@ -1584,7 +1584,7 @@
 				"name":"USA",
 				"code":"US"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":85, "drift":82, "consistency":78, "bkf":25, "strategy":75, 
 				"mslAcc":72, "mslCurving":65, "mslLooping":50,
