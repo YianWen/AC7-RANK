@@ -913,7 +913,7 @@
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":86, "drift":82, "consistency":79, "bkf":20, "strategy":80, 
+				"boost":86, "drift":82, "consistency":81, "bkf":20, "strategy":80, 
 				"mslAcc":83, "mslCurving":75, "mslLooping":40,
 				"mgAcc":89, "mgRate":76
 			},
