@@ -913,11 +913,11 @@
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":82, "drift":80, "consistency":84, "bkf":30, "strategy":72, 
-				"mslAcc":80, "mslCurving":75, "mslLooping":80,
-				"mgAcc":70, "mgRate":80
+				"boost":86, "drift":82, "consistency":79, "bkf":20, "strategy":80, 
+				"mslAcc":83, "mslCurving":75, "mslLooping":40,
+				"mgAcc":89, "mgRate":76
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
