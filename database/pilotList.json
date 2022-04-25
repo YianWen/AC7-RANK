@@ -1561,7 +1561,7 @@
 				"name":"USA",
 				"code":"US"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":86, 
 				"mslAcc":81, "mslCurving":50, "mslLooping":79,
@@ -1629,7 +1629,7 @@
 				"name":"Japan",
 				"code":"JP"
 			},
-			"platforms": ["PS4"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":83, "drift":87, "consistency":86, "bkf":45, "strategy":78, 
 				"mslAcc":83, "mslCurving":77, "mslLooping":25,
