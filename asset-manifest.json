@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.24f90929.chunk.css",
-    "main.js": "/static/js/main.e39e3763.chunk.js",
-    "main.js.map": "/static/js/main.e39e3763.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.388b6d85.js",
-    "runtime-main.js.map": "/static/js/runtime-main.388b6d85.js.map",
-    "static/js/2.29de5647.chunk.js": "/static/js/2.29de5647.chunk.js",
-    "static/js/2.29de5647.chunk.js.map": "/static/js/2.29de5647.chunk.js.map",
-    "static/js/3.550e7846.chunk.js": "/static/js/3.550e7846.chunk.js",
-    "static/js/3.550e7846.chunk.js.map": "/static/js/3.550e7846.chunk.js.map",
-    "static/js/4.27908c51.chunk.js": "/static/js/4.27908c51.chunk.js",
-    "static/js/4.27908c51.chunk.js.map": "/static/js/4.27908c51.chunk.js.map",
+    "main.css": "/static/css/main.5b6615d8.chunk.css",
+    "main.js": "/static/js/main.3734b39f.chunk.js",
+    "main.js.map": "/static/js/main.3734b39f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db39cbc4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db39cbc4.js.map",
+    "static/js/2.7845251d.chunk.js": "/static/js/2.7845251d.chunk.js",
+    "static/js/2.7845251d.chunk.js.map": "/static/js/2.7845251d.chunk.js.map",
+    "static/js/3.e5beba30.chunk.js": "/static/js/3.e5beba30.chunk.js",
+    "static/js/3.e5beba30.chunk.js.map": "/static/js/3.e5beba30.chunk.js.map",
+    "static/js/4.a386726f.chunk.js": "/static/js/4.a386726f.chunk.js",
+    "static/js/4.a386726f.chunk.js.map": "/static/js/4.a386726f.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.24f90929.chunk.css.map": "/static/css/main.24f90929.chunk.css.map",
-    "static/js/2.29de5647.chunk.js.LICENSE.txt": "/static/js/2.29de5647.chunk.js.LICENSE.txt",
-    "static/js/3.550e7846.chunk.js.LICENSE.txt": "/static/js/3.550e7846.chunk.js.LICENSE.txt",
+    "static/css/main.5b6615d8.chunk.css.map": "/static/css/main.5b6615d8.chunk.css.map",
+    "static/js/2.7845251d.chunk.js.LICENSE.txt": "/static/js/2.7845251d.chunk.js.LICENSE.txt",
+    "static/js/3.e5beba30.chunk.js.LICENSE.txt": "/static/js/3.e5beba30.chunk.js.LICENSE.txt",
     "static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg": "/static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg",
     "static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg": "/static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg",
     "static/media/AC2-Hanger.54da9e35.ogg": "/static/media/AC2-Hanger.54da9e35.ogg",
@@ -76,9 +76,9 @@
     "static/media/select_load.3752672e.mp3": "/static/media/select_load.3752672e.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.388b6d85.js",
-    "static/js/2.29de5647.chunk.js",
-    "static/css/main.24f90929.chunk.css",
-    "static/js/main.e39e3763.chunk.js"
+    "static/js/runtime-main.db39cbc4.js",
+    "static/js/2.7845251d.chunk.js",
+    "static/css/main.5b6615d8.chunk.css",
+    "static/js/main.3734b39f.chunk.js"
   ]
 }
