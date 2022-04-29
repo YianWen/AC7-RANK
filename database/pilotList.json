@@ -1683,7 +1683,29 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":76,
+			"name": "A.R.Scarlet",
+			"callsign":"SACS 5",
+			"unit":"Erusean Submarine Alicorn Carrier Squadron SACS",
+			"squadEmblem":"sacs.png",
+			"mainPlane":"Rafale M",
+			"mainSpW":"EML",
+			"picture":"/images/scarlett.jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":77, "drift":91, "consistency":77, "bkf":80, "strategy":78, 
+				"mslAcc":75, "mslCurving":60, "mslLooping":80,
+				"mgAcc":55, "mgRate":10
+			},
+			"lastUpdate":"2022/04/29",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		}
-
 	]
 }
