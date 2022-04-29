@@ -60,11 +60,11 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":96, "drift":97, "consistency":92, "bkf":10, "strategy":85,
-				"mslAcc":98, "mslCurving":96, "mslLooping":50, 
+				"boost":97, "drift":97, "consistency":93, "bkf":30, "strategy":88,
+				"mslAcc":98, "mslCurving":97, "mslLooping":50, 
 				"mgAcc":98, "mgRate":97
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -215,7 +215,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":75, "drift":92, "consistency":70, "bkf":62, "strategy":77, 
+				"boost":75, "drift":92, "consistency":77, "bkf":62, "strategy":77, 
 				"mslAcc":84, "mslCurving":96, "mslLooping":60,
 				"mgAcc":25, "mgRate":100
 			},
@@ -307,9 +307,9 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":0, "drift":0, "consistency":0, "bkf":0, "strategy":94, 
-				"mslAcc":88, "mslCurving":86, "mslLooping":92,
-				"mgAcc":80, "mgRate":70
+				"boost":0, "drift":0, "consistency":0, "bkf":0, "strategy":100, 
+				"mslAcc":0, "mslCurving":0, "mslLooping":0,
+				"mgAcc":0, "mgRate":0
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
@@ -331,7 +331,7 @@
 			"platforms": ["PC", "PSN"],
 			"statistics":{
 				"boost":95, "drift":94, "consistency":86, "bkf":70, "strategy":85,
-				"mslAcc":94, "mslCurving":85, "mslLooping":70,
+				"mslAcc":94, "mslCurving":85, "mslLooping":60,
 				"mgAcc":82, "mgRate":70
 			},
 			"lastUpdate":"2022/02/07",
@@ -375,9 +375,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":95, "drift":92, "consistency":65, "bkf":70, "strategy":75, 
+				"boost":95, "drift":92, "consistency":71, "bkf":70, "strategy":75, 
 				"mslAcc":92, "mslCurving":88, "mslLooping":88,
-				"mgAcc":66, "mgRate":80
+				"mgAcc":74, "mgRate":80
 			},
 			"lastUpdate":"2022/03/27",
 			"rankAverage":-1,
@@ -396,7 +396,7 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PC", "PSN"],
+			"platforms": ["PC", "PSN","XBOX"],
 			"statistics":{
 				"boost":90, "drift":72, "consistency":77, "bkf":60, "strategy":75, 
 				"mslAcc":98, "mslCurving":99, "mslLooping":60,
@@ -411,6 +411,7 @@
 			"name": "Sullvant",
 			"callsign":"Soul",
 			"unit":"Squad 17",
+			"squadEmblem":"soul.png",
 			"mainPlane":"ADF-01 Falken",
 			"mainSpW":"6AAM",
 			"picture":"/images/sull.jpg",
@@ -421,7 +422,7 @@
 			"platforms": ["PC"],
 			"statistics":{
 				"boost":97, "drift":99, "consistency":96, "bkf":99, "strategy":75, 
-				"mslAcc":98, "mslCurving":97, "mslLooping":90,
+				"mslAcc":98, "mslCurving":97, "mslLooping":84,
 				"mgAcc":97, "mgRate":100 
 			},
 			"lastUpdate":"2022/02/07",
@@ -598,8 +599,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":91, "drift":96, "consistency":90, "bkf":94, "strategy":80,
-				"mslAcc":96, "mslCurving":98, "mslLooping":90,
+				"boost":90, "drift":96, "consistency":90, "bkf":91, "strategy":80,
+				"mslAcc":95, "mslCurving":98, "mslLooping":90,
 				"mgAcc":92, "mgRate":90
 			},
 			"lastUpdate":"2022/02/07",
@@ -643,8 +644,8 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":93, "drift":97, "consistency":94, "bkf":70, "strategy":85, 
-				"mslAcc":84, "mslCurving":92, "mslLooping":70,
+				"boost":92, "drift":97, "consistency":94, "bkf":70, "strategy":84, 
+				"mslAcc":84, "mslCurving":92, "mslLooping":50,
 				"mgAcc":98, "mgRate":100 
 			},
 			"lastUpdate":"2022/02/07",
@@ -845,7 +846,7 @@
 			"platforms": ["XBOX"],
 			"statistics":{
 				"boost":70, "drift":75, "consistency":94, "bkf":10, "strategy":86, 
-				"mslAcc":84, "mslCurving":65, "mslLooping":96,
+				"mslAcc":84, "mslCurving":65, "mslLooping":80,
 				"mgAcc":40, "mgRate":30
 			},
 			"lastUpdate":"2022/02/07",
@@ -867,8 +868,8 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":95, "drift":92,  "bkf":20, "strategy":90, "consistency": 96,
-				"mslAcc":96, "mslCurving":92, "mslLooping":90,
+				"boost":95, "drift":92,  "bkf":22, "strategy":91, "consistency": 96,
+				"mslAcc":96, "mslCurving":92, "mslLooping":80,
 				"mgAcc":95, "mgRate":90
 			},
 			"lastUpdate":"2022/04/09",
@@ -890,7 +891,7 @@
 			"platforms": ["XBOX"],
 			"statistics":{
 				"boost":55, "drift":70, "consistency":85, "bkf":0, "strategy":85, 
-				"mslAcc":85, "mslCurving":40, "mslLooping":90,
+				"mslAcc":85, "mslCurving":40, "mslLooping":77,
 				"mgAcc":70, "mgRate":60
 			},
 			"lastUpdate":"2022/02/07",
@@ -903,20 +904,20 @@
 			"callsign":"--",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
-			"mainPlane":"ADF-01 Falken",
-			"mainSpW":"EML",
-			"picture":"/images/falken.webp",
+			"mainPlane":"SU-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37 (1).jpg",
 			"country":{
 				"name":"Guatemala",
 				"code":"GT"
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":82, "drift":80, "consistency":84, "bkf":30, "strategy":72, 
-				"mslAcc":80, "mslCurving":75, "mslLooping":80,
-				"mgAcc":70, "mgRate":80
+				"boost":86, "drift":82, "consistency":81, "bkf":20, "strategy":80, 
+				"mslAcc":83, "mslCurving":75, "mslLooping":40,
+				"mgAcc":89, "mgRate":76
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -957,14 +958,14 @@
 			},
 			"platforms": ["PSN","XBOX"],
 			"statistics":{
-				"boost":80, "drift":70, "consistency":60, "bkf":0, "strategy":72, 
-				"mslAcc":75, "mslCurving":70, "mslLooping":60,
-				"mgAcc":60, "mgRate":75
+				"boost":84, "drift":85, "consistency":81, "bkf":30, "strategy":91, 
+				"mslAcc":83, "mslCurving":60, "mslLooping":40,
+				"mgAcc":85, "mgRate":70
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":44,
 			"name": "Kazutoki Kono",
@@ -1071,13 +1072,13 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":93, "drift":95, "consistency":88, "bkf":40, "strategy":88, 
-				"mslAcc":94, "mslCurving":94, "mslLooping":70, 
-				"mgAcc":81, "mgRate":70
+				"boost":93, "drift":95, "consistency":96, "bkf":49, "strategy":92, 
+				"mslAcc":96, "mslCurving":95, "mslLooping":70, 
+				"mgAcc":89, "mgRate":70
 			},
 			"lastUpdate":"2022/04/09",
 			"rankAverage":-1,
-			"active":false,
+			"active":true,
 			"hidden":false
 		},{
 			"id":49,
@@ -1117,7 +1118,7 @@
 			"platforms": ["PSN"],
 			"statistics":{
 				"boost":95, "drift":94, "consistency":89, "bkf":10, "strategy":78, 
-				"mslAcc":95, "mslCurving":90, "mslLooping":80, 
+				"mslAcc":95, "mslCurving":90, "mslLooping":60, 
 				"mgAcc":80, "mgRate":40 
 			},
 			"lastUpdate":"2022/02/07",
@@ -1161,7 +1162,7 @@
 			"platforms": ["PSN"],
 			"statistics":{
 				"boost":94, "drift":92, "consistency":75, "bkf":10, "strategy":85, 
-				"mslAcc":95, "mslCurving":90, "mslLooping":80, 
+				"mslAcc":95, "mslCurving":90, "mslLooping":60, 
 				"mgAcc":80, "mgRate":40 
 			},
 			"lastUpdate":"2022/03/27",
@@ -1491,13 +1492,13 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PSN"],
+			"platforms": ["PSN,PC"],
 			"statistics":{
-				"boost":96, "drift":94, "consistency":92, "bkf":55, "strategy":80, 
-				"mslAcc":97, "mslCurving":92, "mslLooping":80,
-				"mgAcc":95, "mgRate":98 
+				"boost":96, "drift":95, "consistency":90, "bkf":69, "strategy":86, 
+				"mslAcc":97, "mslCurving":92, "mslLooping":60,
+				"mgAcc":95, "mgRate":100 
 			},
-			"lastUpdate":"2022/03/14",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1560,10 +1561,10 @@
 				"name":"USA",
 				"code":"US"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
-				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":84, 
-				"mslAcc":81, "mslCurving":50, "mslLooping":85,
+				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":86, 
+				"mslAcc":81, "mslCurving":50, "mslLooping":79,
 				"mgAcc":50, "mgRate":40
 			},
 			"lastUpdate":"2022/04/07",
@@ -1583,7 +1584,7 @@
 				"name":"USA",
 				"code":"US"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":85, "drift":82, "consistency":78, "bkf":25, "strategy":75, 
 				"mslAcc":72, "mslCurving":65, "mslLooping":50,
@@ -1615,7 +1616,74 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
-		}	
+		},{
+			"id":73,
+			"name": "y_love2_n",
+			"callsign":"Starblade 7",
+			"unit":"14th Ind. Tactical Fighter Squadron Starblade",
+			"squadEmblem":"starblade.png",
+			"mainPlane":"Su-30SM",
+			"mainSpW":"6AAM",
+			"picture":"/images/30sm.webp",
+			"country":{
+				"name":"Japan",
+				"code":"JP"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":83, "drift":87, "consistency":86, "bkf":45, "strategy":78, 
+				"mslAcc":83, "mslCurving":77, "mslLooping":25,
+				"mgAcc":65, "mgRate":50
+			},
+			"lastUpdate":"2022/04/25",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":74,
+			"name": "GEGE02",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35S",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (2).jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":62, "drift":43, "consistency":55, "bkf":0, "strategy":54, 
+				"mslAcc":53, "mslCurving":39, "mslLooping":0,
+				"mgAcc":60, "mgRate":80
+			},
+			"lastUpdate":"2022/04/25",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":75,
+			"name": "Tellus",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35S",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (5).jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":64, "drift":55, "consistency":54, "bkf":10, "strategy":49, 
+				"mslAcc":52, "mslCurving":39, "mslLooping":0,
+				"mgAcc":35, "mgRate":20
+			},
+			"lastUpdate":"2022/04/25",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		}
 
 	]
 }
