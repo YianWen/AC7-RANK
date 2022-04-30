@@ -60,7 +60,7 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":97, "drift":97, "consistency":93, "bkf":10, "strategy":88,
+				"boost":97, "drift":97, "consistency":93, "bkf":30, "strategy":88,
 				"mslAcc":98, "mslCurving":97, "mslLooping":50, 
 				"mgAcc":98, "mgRate":97
 			},
@@ -375,9 +375,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":95, "drift":92, "consistency":65, "bkf":70, "strategy":75, 
+				"boost":95, "drift":92, "consistency":71, "bkf":70, "strategy":75, 
 				"mslAcc":92, "mslCurving":88, "mslLooping":88,
-				"mgAcc":66, "mgRate":80
+				"mgAcc":74, "mgRate":80
 			},
 			"lastUpdate":"2022/03/27",
 			"rankAverage":-1,
@@ -396,7 +396,7 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PC", "PSN"],
+			"platforms": ["PC", "PSN","XBOX"],
 			"statistics":{
 				"boost":90, "drift":72, "consistency":77, "bkf":60, "strategy":75, 
 				"mslAcc":98, "mslCurving":99, "mslLooping":60,
@@ -466,7 +466,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":87, "drift":82, "consistency":80, "meme":55, "strategy":89, 
+				"boost":87, "drift":82, "consistency":80, "bkf":50, "strategy":89, 
 				"mslAcc":87, "mslCurving":90, "mslLooping":40,
 				"mgAcc":80, "mgRate":50
 			},
@@ -599,7 +599,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":90, "drift":96, "consistency":90, "bkf":93, "strategy":80,
+				"boost":90, "drift":96, "consistency":90, "bkf":91, "strategy":80,
 				"mslAcc":95, "mslCurving":98, "mslLooping":90,
 				"mgAcc":92, "mgRate":90
 			},
@@ -662,8 +662,8 @@
 			"mainSpW":"QAAM",
 			"picture":"/images/mobius-f22.jpeg",
 			"country":{
-				"name":"Tibet",
-				"code":"TB"
+				"name":"United States",
+				"code":"US"
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
@@ -1492,13 +1492,19 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PSN"],
+			"platforms": ["PSN,PC"],
 			"statistics":{
+<<<<<<< HEAD
 				"boost":96, "drift":95, "consistency":94, "bkf":69, "strategy":88, 
 				"mslAcc":97, "mslCurving":94, "mslLooping":60,
 				"mgAcc":96, "mgRate":100 
+=======
+				"boost":96, "drift":95, "consistency":90, "bkf":69, "strategy":86, 
+				"mslAcc":97, "mslCurving":92, "mslLooping":60,
+				"mgAcc":95, "mgRate":100 
+>>>>>>> 88ae38e5b85b1aa37af3f6bdd3e346cfa6e3f523
 			},
-			"lastUpdate":"2022/03/14",
+			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1561,7 +1567,7 @@
 				"name":"USA",
 				"code":"US"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":75, "drift":69, "consistency":74, "bkf":0, "strategy":86, 
 				"mslAcc":81, "mslCurving":50, "mslLooping":79,
@@ -1584,7 +1590,7 @@
 				"name":"USA",
 				"code":"US"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":85, "drift":82, "consistency":78, "bkf":25, "strategy":75, 
 				"mslAcc":72, "mslCurving":65, "mslLooping":50,
@@ -1627,9 +1633,9 @@
 			"picture":"/images/30sm.webp",
 			"country":{
 				"name":"Japan",
-				"code":"BR"
+				"code":"JP"
 			},
-			"platforms": ["PC"],
+			"platforms": ["PSN"],
 			"statistics":{
 				"boost":83, "drift":87, "consistency":86, "bkf":45, "strategy":78, 
 				"mslAcc":83, "mslCurving":77, "mslLooping":25,
@@ -1683,7 +1689,29 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":76,
+			"name": "A.R.Scarlet",
+			"callsign":"SACS 5",
+			"unit":"Erusean Submarine Alicorn Carrier Squadron SACS",
+			"squadEmblem":"sacs.png",
+			"mainPlane":"Rafale M",
+			"mainSpW":"EML",
+			"picture":"/images/scarlett.jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":77, "drift":91, "consistency":77, "bkf":80, "strategy":78, 
+				"mslAcc":75, "mslCurving":50, "mslLooping":80,
+				"mgAcc":60, "mgRate":10
+			},
+			"lastUpdate":"2022/04/29",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		}
-
 	]
 }
