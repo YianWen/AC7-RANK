@@ -1492,17 +1492,11 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["PSN,PC"],
+			"platforms": ["PSN","PC"],
 			"statistics":{
-<<<<<<< HEAD
-				"boost":96, "drift":95, "consistency":94, "bkf":69, "strategy":88, 
-				"mslAcc":97, "mslCurving":94, "mslLooping":60,
-				"mgAcc":96, "mgRate":100 
-=======
 				"boost":96, "drift":95, "consistency":90, "bkf":69, "strategy":86, 
 				"mslAcc":97, "mslCurving":92, "mslLooping":60,
 				"mgAcc":95, "mgRate":100 
->>>>>>> 88ae38e5b85b1aa37af3f6bdd3e346cfa6e3f523
 			},
 			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
