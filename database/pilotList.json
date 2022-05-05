@@ -1722,8 +1722,8 @@
 			"platforms": ["PC"],
 			"statistics":{
 				"boost":93, "drift":94, "consistency":91, "bkf":89, "strategy":88, 
-				"mslAcc":92, "mslCurving":87, "mslLooping":85,
-				"mgAcc":92, "mgRate":87
+				"mslAcc":92, "mslCurving":92, "mslLooping":85,
+				"mgAcc":93, "mgRate":87
 			},
 			"lastUpdate":"2022/05/06",
 			"rankAverage":-1,
