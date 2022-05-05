@@ -510,11 +510,11 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":86, "drift":76, "consistency":84, "bkf":67, "strategy":78, "agressivity":48,
-				"mslAcc":82, "mslCurving":72, "mslLooping":41,
-				"mgAcc":62, "mgRate":63
+				"boost":94, "drift":91, "consistency":89, "bkf":20, "strategy":85,
+				"mslAcc":92, "mslCurving":94, "mslLooping":55,
+				"mgAcc":89, "mgRate":94
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/05/06",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1703,6 +1703,29 @@
 				"mgAcc":60, "mgRate":10
 			},
 			"lastUpdate":"2022/04/29",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":77,
+			"name": "チルノ",
+			"callsign":"KerryDF",
+			"unit":"--",
+			"squadEmblem":"--",
+			"mainPlane":"Su-35",
+			"mainSpW":"6AAMs",
+			"picture":"/images/Kerry DF.png",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":90, "drift":94, "consistency":91, "bkf":89, "strategy":88, 
+				"mslAcc":92, "mslCurving":65, "mslLooping":85,
+				"mgAcc":92, "mgRate":87
+			},
+			"lastUpdate":"2022/05/06",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
