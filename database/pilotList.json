@@ -466,11 +466,11 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":87, "drift":82, "consistency":80, "bkf":50, "strategy":89, 
-				"mslAcc":87, "mslCurving":90, "mslLooping":40,
-				"mgAcc":80, "mgRate":50
+				"boost":86, "drift":88, "consistency":77, "bkf":60, "strategy":88, 
+				"mslAcc":89, "mslCurving":85, "mslLooping":50,
+				"mgAcc":82, "mgRate":74
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/05/07",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
