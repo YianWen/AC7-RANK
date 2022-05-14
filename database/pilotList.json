@@ -1728,6 +1728,29 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":78,
+			"name": "USAGI",
+			"callsign":"Yellow 14",
+			"unit":"156th Tactical Fighter Wing",
+			"squadEmblem":"Yellow Squadron.png",
+			"mainPlane":"MIG-35D",
+			"mainSpW":"8AGM",
+			"picture":"/images/Dork.jpg",
+			"country":{
+				"name":"USA",
+				"code":"US"
+			},
+			"platforms": ["XBOX"],
+			"statistics":{
+				"boost":73, "drift":69, "consistency":85, "bkf":50, "strategy":72, 
+				"mslAcc":69, "mslCurving":48, "mslLooping":30,
+				"mgAcc":50, "mgRate":55
+			},
+			"lastUpdate":"2022/05/15",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		}
 	]
 }
