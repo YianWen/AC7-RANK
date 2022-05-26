@@ -14,6 +14,21 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API REST server to consume the data
 - check how to allow to enter from the /pilots page without getting error 404
 
+## [0.6.2] - 2022-05-25
+### Added
+- i18n implementation to allow translation into multiple languages.
+- Incomplete spanish translation.
+- 3 new fonts that matches cyrilic and japanese characters for further translations.
+- Badge to indicate the Squadron leader.
+- Leader and Legacy icons in the pilot list.
+
+### Changed
+- The phrase "LEGACY PROFILE" for an honor medal icon.
+- Players grouped by rank in the pilot list.
+
+### Removed 
+- Sorting options because seemed useless.
+
 
 ## [0.6.1] - 2022-04-13
 ### Added
