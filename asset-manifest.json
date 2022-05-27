@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.09b8eec3.chunk.css",
-    "main.js": "/static/js/main.f38f48a9.chunk.js",
-    "main.js.map": "/static/js/main.f38f48a9.chunk.js.map",
+    "main.css": "/static/css/main.f6dc959b.chunk.css",
+    "main.js": "/static/js/main.b167b5b3.chunk.js",
+    "main.js.map": "/static/js/main.b167b5b3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c688c5ca.js",
     "runtime-main.js.map": "/static/js/runtime-main.c688c5ca.js.map",
-    "static/js/2.d70a4443.chunk.js": "/static/js/2.d70a4443.chunk.js",
-    "static/js/2.d70a4443.chunk.js.map": "/static/js/2.d70a4443.chunk.js.map",
+    "static/js/2.602a9592.chunk.js": "/static/js/2.602a9592.chunk.js",
+    "static/js/2.602a9592.chunk.js.map": "/static/js/2.602a9592.chunk.js.map",
     "static/js/3.bd7c6a2e.chunk.js": "/static/js/3.bd7c6a2e.chunk.js",
     "static/js/3.bd7c6a2e.chunk.js.map": "/static/js/3.bd7c6a2e.chunk.js.map",
     "static/js/4.5187b4ef.chunk.js": "/static/js/4.5187b4ef.chunk.js",
     "static/js/4.5187b4ef.chunk.js.map": "/static/js/4.5187b4ef.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.09b8eec3.chunk.css.map": "/static/css/main.09b8eec3.chunk.css.map",
-    "static/js/2.d70a4443.chunk.js.LICENSE.txt": "/static/js/2.d70a4443.chunk.js.LICENSE.txt",
+    "static/css/main.f6dc959b.chunk.css.map": "/static/css/main.f6dc959b.chunk.css.map",
+    "static/js/2.602a9592.chunk.js.LICENSE.txt": "/static/js/2.602a9592.chunk.js.LICENSE.txt",
     "static/js/3.bd7c6a2e.chunk.js.LICENSE.txt": "/static/js/3.bd7c6a2e.chunk.js.LICENSE.txt",
     "static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg": "/static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg",
     "static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg": "/static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg",
@@ -65,7 +65,7 @@
     "static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg": "/static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg",
     "static/media/about-icon.fedacfe8.svg": "/static/media/about-icon.fedacfe8.svg",
     "static/media/cancel.454edab0.mp3": "/static/media/cancel.454edab0.mp3",
-    "static/media/changelog.105a33ba.md": "/static/media/changelog.105a33ba.md",
+    "static/media/changelog.169e32b0.md": "/static/media/changelog.169e32b0.md",
     "static/media/cog.765fcc82.svg": "/static/media/cog.765fcc82.svg",
     "static/media/load_complete.65de8f15.mp3": "/static/media/load_complete.65de8f15.mp3",
     "static/media/log.3c95a0cb.svg": "/static/media/log.3c95a0cb.svg",
@@ -77,8 +77,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c688c5ca.js",
-    "static/js/2.d70a4443.chunk.js",
-    "static/css/main.09b8eec3.chunk.css",
-    "static/js/main.f38f48a9.chunk.js"
+    "static/js/2.602a9592.chunk.js",
+    "static/css/main.f6dc959b.chunk.css",
+    "static/js/main.b167b5b3.chunk.js"
   ]
 }

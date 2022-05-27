@@ -21,6 +21,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Incomplete russian translation (thank you RussianShark).
 - Incomplete portuguese translation (thank you Darkskryll).
 - Incomplete italian translation.
+- Filter functionality to filter by any pilot attribute.
 
 
 ## [0.6.2] - 2022-05-25
