@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.8cc31cec.chunk.css",
-    "main.js": "/static/js/main.82433122.chunk.js",
-    "main.js.map": "/static/js/main.82433122.chunk.js.map",
+    "main.js": "/static/js/main.a0c3662b.chunk.js",
+    "main.js.map": "/static/js/main.a0c3662b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.74bd4e9e.js",
     "runtime-main.js.map": "/static/js/runtime-main.74bd4e9e.js.map",
     "static/js/2.6d35032b.chunk.js": "/static/js/2.6d35032b.chunk.js",
@@ -65,7 +65,7 @@
     "static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg": "/static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg",
     "static/media/about-icon.fedacfe8.svg": "/static/media/about-icon.fedacfe8.svg",
     "static/media/cancel.454edab0.mp3": "/static/media/cancel.454edab0.mp3",
-    "static/media/changelog.6c1959eb.md": "/static/media/changelog.6c1959eb.md",
+    "static/media/changelog.b335e70b.md": "/static/media/changelog.b335e70b.md",
     "static/media/cog.765fcc82.svg": "/static/media/cog.765fcc82.svg",
     "static/media/load_complete.65de8f15.mp3": "/static/media/load_complete.65de8f15.mp3",
     "static/media/log.3c95a0cb.svg": "/static/media/log.3c95a0cb.svg",
@@ -79,6 +79,6 @@
     "static/js/runtime-main.74bd4e9e.js",
     "static/js/2.6d35032b.chunk.js",
     "static/css/main.8cc31cec.chunk.css",
-    "static/js/main.82433122.chunk.js"
+    "static/js/main.a0c3662b.chunk.js"
   ]
 }

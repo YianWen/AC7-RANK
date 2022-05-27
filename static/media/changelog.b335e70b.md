@@ -14,6 +14,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - API REST server to consume the data
 - check how to allow to enter from the /pilots page without getting error 404
 
+## [0.6.3] - 2022-05-26
+### Added
+- Incomplete chinese translation.
+
+
 ## [0.6.2] - 2022-05-25
 ### Added
 - i18n implementation to allow translation into multiple languages.
