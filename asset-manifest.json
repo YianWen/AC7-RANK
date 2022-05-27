@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.8cc31cec.chunk.css",
-    "main.js": "/static/js/main.abf781e0.chunk.js",
-    "main.js.map": "/static/js/main.abf781e0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.74bd4e9e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.74bd4e9e.js.map",
-    "static/js/2.6d35032b.chunk.js": "/static/js/2.6d35032b.chunk.js",
-    "static/js/2.6d35032b.chunk.js.map": "/static/js/2.6d35032b.chunk.js.map",
-    "static/js/3.09c2cbd6.chunk.js": "/static/js/3.09c2cbd6.chunk.js",
-    "static/js/3.09c2cbd6.chunk.js.map": "/static/js/3.09c2cbd6.chunk.js.map",
-    "static/js/4.aee15852.chunk.js": "/static/js/4.aee15852.chunk.js",
-    "static/js/4.aee15852.chunk.js.map": "/static/js/4.aee15852.chunk.js.map",
+    "main.css": "/static/css/main.09b8eec3.chunk.css",
+    "main.js": "/static/js/main.f38f48a9.chunk.js",
+    "main.js.map": "/static/js/main.f38f48a9.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c688c5ca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c688c5ca.js.map",
+    "static/js/2.d70a4443.chunk.js": "/static/js/2.d70a4443.chunk.js",
+    "static/js/2.d70a4443.chunk.js.map": "/static/js/2.d70a4443.chunk.js.map",
+    "static/js/3.bd7c6a2e.chunk.js": "/static/js/3.bd7c6a2e.chunk.js",
+    "static/js/3.bd7c6a2e.chunk.js.map": "/static/js/3.bd7c6a2e.chunk.js.map",
+    "static/js/4.5187b4ef.chunk.js": "/static/js/4.5187b4ef.chunk.js",
+    "static/js/4.5187b4ef.chunk.js.map": "/static/js/4.5187b4ef.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.8cc31cec.chunk.css.map": "/static/css/main.8cc31cec.chunk.css.map",
-    "static/js/2.6d35032b.chunk.js.LICENSE.txt": "/static/js/2.6d35032b.chunk.js.LICENSE.txt",
-    "static/js/3.09c2cbd6.chunk.js.LICENSE.txt": "/static/js/3.09c2cbd6.chunk.js.LICENSE.txt",
+    "static/css/main.09b8eec3.chunk.css.map": "/static/css/main.09b8eec3.chunk.css.map",
+    "static/js/2.d70a4443.chunk.js.LICENSE.txt": "/static/js/2.d70a4443.chunk.js.LICENSE.txt",
+    "static/js/3.bd7c6a2e.chunk.js.LICENSE.txt": "/static/js/3.bd7c6a2e.chunk.js.LICENSE.txt",
     "static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg": "/static/media/'REBIRTH' from Sand Storm.f1e083f3.ogg",
     "static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg": "/static/media/444th Air Base Hangar - Ace Combat 7.a906c47b.ogg",
     "static/media/AC2-Hanger.54da9e35.ogg": "/static/media/AC2-Hanger.54da9e35.ogg",
@@ -65,7 +65,7 @@
     "static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg": "/static/media/White Devil - Ace Combat Assault Horizon.001b8a43.ogg",
     "static/media/about-icon.fedacfe8.svg": "/static/media/about-icon.fedacfe8.svg",
     "static/media/cancel.454edab0.mp3": "/static/media/cancel.454edab0.mp3",
-    "static/media/changelog.b335e70b.md": "/static/media/changelog.b335e70b.md",
+    "static/media/changelog.105a33ba.md": "/static/media/changelog.105a33ba.md",
     "static/media/cog.765fcc82.svg": "/static/media/cog.765fcc82.svg",
     "static/media/load_complete.65de8f15.mp3": "/static/media/load_complete.65de8f15.mp3",
     "static/media/log.3c95a0cb.svg": "/static/media/log.3c95a0cb.svg",
@@ -76,9 +76,9 @@
     "static/media/select_load.3752672e.mp3": "/static/media/select_load.3752672e.mp3"
   },
   "entrypoints": [
-    "static/js/runtime-main.74bd4e9e.js",
-    "static/js/2.6d35032b.chunk.js",
-    "static/css/main.8cc31cec.chunk.css",
-    "static/js/main.abf781e0.chunk.js"
+    "static/js/runtime-main.c688c5ca.js",
+    "static/js/2.d70a4443.chunk.js",
+    "static/css/main.09b8eec3.chunk.css",
+    "static/js/main.f38f48a9.chunk.js"
   ]
 }
