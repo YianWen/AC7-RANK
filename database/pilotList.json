@@ -906,7 +906,7 @@
 			"callsign":"--",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
-			"mainPlane":"SU-37",
+			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
 			"picture":"/images/su-37 (1).jpg",
 			"country":{
@@ -974,7 +974,7 @@
 			"callsign":"Oka Nieba",
 			"unit":"BANDAI NAMCO ENTERTAINMENT",
 			"squadEmblem":"pa.png",
-			"mainPlane":"X-02 Strike Wyvern",
+			"mainPlane":"X-02s Strike Wyvern",
 			"mainSpW":"V2",
 			"picture":"/images/dog.jpg",
 			"country":{
@@ -1512,7 +1512,7 @@
 			"callsign":"--",
 			"unit":"Venom Squadron",
 			"squadEmblem":"venom.png",
-			"mainPlane":"X-02s",
+			"mainPlane":"X-02s Strike Wyvern",
 			"mainSpW":"EML",
 			"picture":"/images/x02s.jpg",
 			"country":{
@@ -1648,7 +1648,7 @@
 			"name": "GEGE02",
 			"callsign":"--",
 			"unit":"--",
-			"mainPlane":"Su-35S",
+			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
 			"picture":"/images/su-35s (2).jpg",
 			"country":{
@@ -1670,7 +1670,7 @@
 			"name": "Tellus",
 			"callsign":"--",
 			"unit":"--",
-			"mainPlane":"Su-35S",
+			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
 			"picture":"/images/su-35s (5).jpg",
 			"country":{
@@ -1715,7 +1715,7 @@
 			"name": "チルノ",
 			"callsign":"KerryDF",
 			"unit":"--",
-			"mainPlane":"Su-35",
+			"mainPlane":"Su-35s",
 			"mainSpW":"6AAMs",
 			"picture":"/images/Kerry DF.png",
 			"country":{
