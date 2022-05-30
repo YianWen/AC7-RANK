@@ -289,7 +289,7 @@
 				"mslAcc":98, "mslCurving":97, "mslLooping":84,
 				"mgAcc":97, "mgRate":96
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/05/30",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -422,9 +422,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":97, "drift":98, "consistency":96, "bkf":99, "strategy":75, 
+				"boost":97, "drift":98, "consistency":96, "bkf":99, "strategy":82, 
 				"mslAcc":98, "mslCurving":97, "mslLooping":84,
-				"mgAcc":97, "mgRate":100 
+				"mgAcc":98, "mgRate":100 
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
