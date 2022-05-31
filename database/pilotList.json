@@ -1029,11 +1029,11 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":90, "drift":91, "consistency":82, "bkf":73, "strategy":88, 
-				"mslAcc":92, "mslCurving":90, "mslLooping":40, 
-				"mgAcc":80, "mgRate":75
+				"boost":97, "drift":96, "consistency":85, "bkf":68, "strategy":85, 
+				"mslAcc":94, "mslCurving":91, "mslLooping":60, 
+				"mgAcc":94, "mgRate":95
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/05/31",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
