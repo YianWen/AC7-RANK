@@ -890,7 +890,7 @@
 				"name":"United States",
 				"code":"US"
 			},
-			"platforms": ["XBOX"],
+			"platforms": ["XBOX", "PSN"],
 			"statistics":{
 				"boost":55, "drift":70, "consistency":85, "bkf":0, "strategy":85, 
 				"mslAcc":85, "mslCurving":40, "mslLooping":77,
