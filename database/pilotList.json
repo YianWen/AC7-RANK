@@ -289,7 +289,7 @@
 				"mslAcc":98, "mslCurving":97, "mslLooping":84,
 				"mgAcc":97, "mgRate":96
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/05/30",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -331,11 +331,11 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":97, "drift":97, "consistency":94, "bkf":92, "strategy":90,
+				"boost":97, "drift":97, "consistency":97, "bkf":92, "strategy":87,
 				"mslAcc":98, "mslCurving":92, "mslLooping":86,
 				"mgAcc":97, "mgRate":89
 			},
-			"lastUpdate":"2022/05/08",
+			"lastUpdate":"2022/05/30",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -668,8 +668,8 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":97, "drift":97, "consistency":96, "bkf":86, "strategy":87, 
-				"mslAcc":98, "mslCurving":97, "mslLooping":72, 
+				"boost":97, "drift":97, "consistency":94, "bkf":84, "strategy":84, 
+				"mslAcc":97, "mslCurving":97, "mslLooping":72, 
 				"mgAcc":97, "mgRate":92
 			},
 			"lastUpdate":"2022/05/08",
@@ -1029,11 +1029,11 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":90, "drift":91, "consistency":82, "bkf":73, "strategy":88, 
-				"mslAcc":92, "mslCurving":90, "mslLooping":40, 
-				"mgAcc":80, "mgRate":75
+				"boost":97, "drift":96, "consistency":85, "bkf":68, "strategy":85, 
+				"mslAcc":94, "mslCurving":91, "mslLooping":60, 
+				"mgAcc":94, "mgRate":95
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/05/31",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
