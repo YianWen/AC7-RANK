@@ -1264,21 +1264,21 @@
 			"id":57,
 			"name": "Vogel",
 			"callsign":"--",
-			"unit":"--",
+			"unit":"The Aircraft Mafia",
 			"mainPlane":"F-22A",
 			"mainSpW":"6AAM",
 			"picture":"/images/bliq.webp",
 			"country":{
-				"name":"NN", 
-				"code":"NN"
+				"name":"Germany", 
+				"code":"GER"
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":86, "drift":60, "consistency":40, "bkf":0, "strategy":50, 
-				"mslAcc":70, "mslCurving":55, "mslLooping":0,
-				"mgAcc":60, "mgRate":50
+				"boost":75, "drift":60, "consistency":75, "bkf":35, "strategy":60, 
+				"mslAcc":70, "mslCurving":55, "mslLooping":20,
+				"mgAcc":60, "mgRate":75
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/06/14",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
