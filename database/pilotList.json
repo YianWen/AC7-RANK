@@ -1755,6 +1755,29 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":79,
+			"name": "Sanya V. Litvyak",
+			"callsign":"Lilya",
+			"unit":"501st Joint Fighter Wing",
+			"squadEmblem":"strike-witches.png",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":95, "drift":98, "consistency":88, "bkf":70, "strategy":88, 
+                "mslAcc":86, "mslCurving":97, "mslLooping":55,
+                "mgAcc":98, "mgRate":70 
+			},
+			"lastUpdate":"2022/06/28",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		}
 	]
 }
