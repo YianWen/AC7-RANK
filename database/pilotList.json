@@ -1778,6 +1778,28 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":80,
+			"name": "Crimson 7",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":82, "drift":94, "consistency":72, "bkf":84, "strategy":80, 
+                "mslAcc":82, "mslCurving":90, "mslLooping":50,
+                "mgAcc":83, "mgRate":80 
+			},
+			"lastUpdate":"2022/06/28",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
 		}
 	]
 }
