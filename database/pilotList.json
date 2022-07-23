@@ -161,9 +161,10 @@
 			"name": "Megalith",
 			"callsign":"--",
 			"unit":"Tactical Squadron Zodiac",
+			"squadEmblem":"Zodiac.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
-			"picture":"/images/mega.jpg",
+			"picture":"/images/Megalith.jpg",
 			"country":{
 				"name":"Peru",
 				"code":"PE"
