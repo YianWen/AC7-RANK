@@ -827,10 +827,10 @@
 				"mslAcc":99, "mslCurving":97, "mslLooping":96, 
 				"mgAcc":96, "mgRate":80
 			},
-			"lastUpdate":"2022/07/26",
+			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":38,
 			"name": "Kage",
