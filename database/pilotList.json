@@ -1747,7 +1747,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":73, "drift":69, "consistency":85, "bkf":50, "strategy":72, 
+				"boost":73, "drift":69, "consistency":79, "bkf":50, "strategy":72, 
 				"mslAcc":69, "mslCurving":48, "mslLooping":30,
 				"mgAcc":50, "mgRate":55
 			},
