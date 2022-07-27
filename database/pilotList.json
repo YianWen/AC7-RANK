@@ -126,7 +126,7 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":82, "drift":96, "consistency":79, "bkf":70, "strategy":88, 
+				"boost":82, "drift":96, "consistency":84, "bkf":70, "strategy":88, 
 				"mslAcc":90, "mslCurving":79, "mslLooping":50, 
 				"mgAcc":98, "mgRate":95 
 			},
