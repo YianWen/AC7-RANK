@@ -130,7 +130,7 @@
 				"mslAcc":90, "mslCurving":79, "mslLooping":50, 
 				"mgAcc":98, "mgRate":95 
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/08/01",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -961,11 +961,11 @@
 			},
 			"platforms": ["PSN","XBOX"],
 			"statistics":{
-				"boost":84, "drift":85, "consistency":81, "bkf":30, "strategy":87, 
-				"mslAcc":83, "mslCurving":60, "mslLooping":40,
-				"mgAcc":85, "mgRate":70
+				"boost":91, "drift":89, "consistency":86, "bkf":20, "strategy":88, 
+				"mslAcc":90, "mslCurving":88, "mslLooping":40,
+				"mgAcc":86, "mgRate":90
 			},
-			"lastUpdate":"2022/05/18",
+			"lastUpdate":"2022/08/01",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
