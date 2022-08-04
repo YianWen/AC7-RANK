@@ -1491,8 +1491,8 @@
 			"unit":"Venom Squadron",
 			"squadEmblem":"venom.png",
 			"isSquadLeader":true,
-			"mainPlane":"Su-35s",
-			"mainSpW":"6AAM",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
 			"picture":"/images/snake.jpg",
 			"country":{
 				"name":"United States",
