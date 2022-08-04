@@ -1399,9 +1399,10 @@
 			"name": "InfinityUSEA",
 			"callsign":"Infinity",
 			"unit":"Infinity Squadron",
+			"squadEmblem":"Usea squad.png",
 			"mainPlane":"F-35C",
 			"mainSpW":"HPAA",
-			"picture":"/images/infinity.jpg",
+			"picture":"/images/usea.jpg",
 			"country":{
 				"name":"United States",
 				"code":"US"
@@ -1412,7 +1413,7 @@
 				"mslAcc":60, "mslCurving":40, "mslLooping":40,
 				"mgAcc":50, "mgRate":40
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/08/02",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
