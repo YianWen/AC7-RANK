@@ -1500,8 +1500,8 @@
 			},
 			"platforms": ["PSN","PC"],
 			"statistics":{
-				"boost":96, "drift":95, "consistency":88, "bkf":69, "strategy":84, 
-				"mslAcc":97, "mslCurving":94, "mslLooping":60,
+				"boost":97, "drift":95, "consistency":900, "bkf":82, "strategy":84, 
+				"mslAcc":97, "mslCurving":94, "mslLooping":76,
 				"mgAcc":95, "mgRate":100 
 			},
 			"lastUpdate":"2022/04/25",
