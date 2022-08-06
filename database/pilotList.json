@@ -184,9 +184,8 @@
 			"name": "Ali ACF",
 			"callsign":"Shiesty",
 			"unit":"--",
-			"squadEmblem":"--",
-			"mainPlane":"Su-37",
-			"mainSpW":"HPAA",
+            "mainPlane":"Su-37",
+            "mainSpW":"HPAA",
 			"picture":"/images/ali.webp",
 			"country":{
 				"name":"Kuwait",
