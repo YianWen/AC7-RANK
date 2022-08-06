@@ -126,11 +126,11 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":82, "drift":96, "consistency":79, "bkf":70, "strategy":88, 
+				"boost":82, "drift":96, "consistency":84, "bkf":70, "strategy":88, 
 				"mslAcc":90, "mslCurving":79, "mslLooping":50, 
 				"mgAcc":98, "mgRate":95 
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/08/01",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -148,8 +148,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":98, "drift":99, "consistency":96, "bkf":100, "strategy":88, "agressivity":93,
-				"mslAcc":96, "mslCurving":98, "mslLooping":90,
+				"boost":98, "drift":100, "consistency":98, "bkf":100, "strategy":90, "agressivity":93,
+				"mslAcc":97, "mslCurving":98, "mslLooping":89,
 				"mgAcc":100, "mgRate":100
 			},
 			"lastUpdate":"2022/02/07",
@@ -161,20 +161,21 @@
 			"name": "Megalith",
 			"callsign":"--",
 			"unit":"Tactical Squadron Zodiac",
+			"squadEmblem":"Zodiac.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
-			"picture":"/images/mega.jpg",
+			"picture":"/images/Megalith.jpg",
 			"country":{
 				"name":"Peru",
 				"code":"PE"
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":90, "drift":91, "consistency":70, "bkf":65, "strategy":72, 
+				"boost":91, "drift":90, "consistency":72, "bkf":65, "strategy":71, 
 				"mslAcc":84, "mslCurving":84, "mslLooping":50,
-				"mgAcc":40, "mgRate":20
+				"mgAcc":85, "mgRate":65
 			},
-			"lastUpdate":"2022/03/27",
+			"lastUpdate":"2022/07/29",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -193,8 +194,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":97, "consistency":97, "bkf":94, "strategy":87, 
-				"mslAcc":98, "mslCurving":98, "mslLooping":80,
+				"boost":99, "drift":97, "consistency":97, "bkf":97, "strategy":92, 
+				"mslAcc":99, "mslCurving":98, "mslLooping":80,
 				"mgAcc":98, "mgRate":97
 			},
 			"lastUpdate":"2022/02/07",
@@ -239,10 +240,10 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":99, "consistency":99, "bkf":100, "strategy":96
+				"boost":99, "drift":100, "consistency":99, "bkf":100, "strategy":97
 				, 
 				"mslAcc":99, "mslCurving":99, "mslLooping":100,
-				"mgAcc":99, "mgRate":96
+				"mgAcc":99, "mgRate":98
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
@@ -285,7 +286,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":95, "drift":97, "consistency":97, "bkf":98, "strategy":87, 
+				"boost":95, "drift":96, "consistency":95, "bkf":97, "strategy":87, 
 				"mslAcc":98, "mslCurving":97, "mslLooping":84,
 				"mgAcc":97, "mgRate":96
 			},
@@ -331,9 +332,9 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":97, "drift":97, "consistency":97, "bkf":92, "strategy":87,
+				"boost":97, "drift":97, "consistency":93, "bkf":92, "strategy":87,
 				"mslAcc":98, "mslCurving":92, "mslLooping":86,
-				"mgAcc":97, "mgRate":89
+				"mgAcc":98, "mgRate":89
 			},
 			"lastUpdate":"2022/05/30",
 			"rankAverage":-1,
@@ -422,8 +423,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":97, "drift":98, "consistency":96, "bkf":99, "strategy":82, 
-				"mslAcc":98, "mslCurving":97, "mslLooping":84,
+				"boost":97, "drift":98, "consistency":96, "bkf":98, "strategy":82, 
+				"mslAcc":98, "mslCurving":97, "mslLooping":80,
 				"mgAcc":98, "mgRate":100 
 			},
 			"lastUpdate":"2022/02/07",
@@ -622,7 +623,7 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":88, "drift":82, "consistency":40, "bkf":0, "strategy":75, 
+				"boost":90, "drift":88, "consistency":70, "bkf":0, "strategy":75, 
 				"mslAcc":75, "mslCurving":60, "mslLooping":0,
 				"mgAcc":92, "mgRate":90
 			},
@@ -668,9 +669,9 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":97, "drift":97, "consistency":96, "bkf":86, "strategy":87, 
-				"mslAcc":98, "mslCurving":97, "mslLooping":72, 
-				"mgAcc":97, "mgRate":92
+				"boost":98, "drift":98, "consistency":96, "bkf":86, "strategy":88, 
+				"mslAcc":98, "mslCurving":98, "mslLooping":72, 
+				"mgAcc":98, "mgRate":95
 			},
 			"lastUpdate":"2022/05/08",
 			"rankAverage":-1,
@@ -735,7 +736,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":60, "drift":75, "consistency":90, "bkf":10, "strategy":85, 
+				"boost":70, "drift":75, "consistency":90, "bkf":10, "strategy":86, 
 				"mslAcc":82, "mslCurving":55, "mslLooping":75,
 				"mgAcc":75, "mgRate":50
 			},
@@ -823,11 +824,11 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":95, "consistency":85, "bkf":80, "strategy":92, 
-				"mslAcc":94, "mslCurving":92, "mslLooping":65, 
-				"mgAcc":90, "mgRate":60
+				"boost":96, "drift":96, "consistency":96, "bkf":95, "strategy":95, 
+				"mslAcc":97, "mslCurving":97, "mslLooping":96, 
+				"mgAcc":97, "mgRate":78
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/08/02",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -850,7 +851,7 @@
 				"mslAcc":84, "mslCurving":65, "mslLooping":80,
 				"mgAcc":40, "mgRate":30
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/07/25",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -960,11 +961,11 @@
 			},
 			"platforms": ["PSN","XBOX"],
 			"statistics":{
-				"boost":84, "drift":85, "consistency":81, "bkf":30, "strategy":87, 
-				"mslAcc":83, "mslCurving":60, "mslLooping":40,
-				"mgAcc":85, "mgRate":70
+				"boost":91, "drift":89, "consistency":86, "bkf":20, "strategy":88, 
+				"mslAcc":90, "mslCurving":88, "mslLooping":40,
+				"mgAcc":86, "mgRate":90
 			},
-			"lastUpdate":"2022/05/18",
+			"lastUpdate":"2022/08/01",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1068,7 +1069,7 @@
 			"isSquadLeader":true,
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
-			"picture":"/images/sora.jpg",
+			"picture":"/images/Sora GTA.jpg",
 			"country":{
 				"name":"Japan",
 				"code":"JP"
@@ -1081,7 +1082,7 @@
 			},
 			"lastUpdate":"2022/04/09",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":49,
@@ -1264,21 +1265,21 @@
 			"id":57,
 			"name": "Vogel",
 			"callsign":"--",
-			"unit":"--",
+			"unit":"The Aircraft Mafia",
 			"mainPlane":"F-22A",
 			"mainSpW":"6AAM",
 			"picture":"/images/bliq.webp",
 			"country":{
-				"name":"NN", 
-				"code":"NN"
+				"name":"Germany", 
+				"code":"GER"
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":86, "drift":60, "consistency":40, "bkf":0, "strategy":50, 
-				"mslAcc":70, "mslCurving":55, "mslLooping":0,
-				"mgAcc":60, "mgRate":50
+				"boost":75, "drift":60, "consistency":75, "bkf":35, "strategy":60, 
+				"mslAcc":70, "mslCurving":55, "mslLooping":20,
+				"mgAcc":60, "mgRate":75
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/06/14",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1398,9 +1399,10 @@
 			"name": "InfinityUSEA",
 			"callsign":"Infinity",
 			"unit":"Infinity Squadron",
+			"squadEmblem":"Usea squad.png",
 			"mainPlane":"F-35C",
 			"mainSpW":"HPAA",
-			"picture":"/images/infinity.jpg",
+			"picture":"/images/usea.jpg",
 			"country":{
 				"name":"United States",
 				"code":"US"
@@ -1411,7 +1413,7 @@
 				"mslAcc":60, "mslCurving":40, "mslLooping":40,
 				"mgAcc":50, "mgRate":40
 			},
-			"lastUpdate":"2022/02/07",
+			"lastUpdate":"2022/08/02",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1474,9 +1476,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":88, "drift":75, "consistency":69, "bkf":40, "strategy":74, 
-				"mslAcc":86, "mslCurving":76, "mslLooping":40, 
-				"mgAcc":30, "mgRate":100
+				"boost":84, "drift":89, "consistency":79, "bkf":78, "strategy":76, 
+				"mslAcc":76, "mslCurving":72, "mslLooping":75, 
+				"mgAcc":30, "mgRate":67
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
@@ -1489,8 +1491,8 @@
 			"unit":"Venom Squadron",
 			"squadEmblem":"venom.png",
 			"isSquadLeader":true,
-			"mainPlane":"Su-35s",
-			"mainSpW":"6AAM",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
 			"picture":"/images/snake.jpg",
 			"country":{
 				"name":"United States",
@@ -1498,13 +1500,13 @@
 			},
 			"platforms": ["PSN","PC"],
 			"statistics":{
-				"boost":96, "drift":95, "consistency":88, "bkf":69, "strategy":84, 
-				"mslAcc":97, "mslCurving":94, "mslLooping":60,
+				"boost":97, "drift":95, "consistency":90, "bkf":82, "strategy":84, 
+				"mslAcc":97, "mslCurving":94, "mslLooping":76,
 				"mgAcc":95, "mgRate":100 
 			},
 			"lastUpdate":"2022/04/25",
 			"rankAverage":-1,
-			"active":false,
+			"active":true,
 			"hidden":false
 		},{
 			"id":68,
@@ -1747,11 +1749,56 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":73, "drift":69, "consistency":85, "bkf":50, "strategy":72, 
+				"boost":73, "drift":69, "consistency":79, "bkf":50, "strategy":72, 
 				"mslAcc":69, "mslCurving":48, "mslLooping":30,
 				"mgAcc":50, "mgRate":55
 			},
 			"lastUpdate":"2022/05/15",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":79,
+			"name": "Sanya V. Litvyak",
+			"callsign":"Lilya",
+			"unit":"501st Joint Fighter Wing",
+			"squadEmblem":"strike-witches.png",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":95, "drift":97, "consistency":92, "bkf":80, "strategy":89, 
+                "mslAcc":90, "mslCurving":97, "mslLooping":80,
+                "mgAcc":98, "mgRate":92 
+			},
+			"lastUpdate":"2022/06/28",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":false
+		},{
+			"id":80,
+			"name": "Crimson 7",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (4).jpg",
+			"country":{
+				"name":"China",
+				"code":"CN"
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":82, "drift":94, "consistency":72, "bkf":84, "strategy":80, 
+                "mslAcc":82, "mslCurving":90, "mslLooping":50,
+                "mgAcc":83, "mgRate":80 
+			},
+			"lastUpdate":"2022/06/28",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
