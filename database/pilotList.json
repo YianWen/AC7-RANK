@@ -183,7 +183,7 @@
 			"id":9,
 			"name": "Ali ACF",
 			"callsign":"Shiesty",
-			"unit":"Alect Squadron",
+			"unit":"--",
 			"squadEmblem":"alect.png",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
@@ -216,9 +216,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":75, "drift":92, "consistency":77, "bkf":62, "strategy":77, 
-				"mslAcc":84, "mslCurving":96, "mslLooping":60,
-				"mgAcc":25, "mgRate":100
+				"boost":75, "drift":92, "consistency":77, "bkf":62, "strategy":78, 
+				"mslAcc":85, "mslCurving":96, "mslLooping":60,
+				"mgAcc":28, "mgRate":100
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
@@ -1487,7 +1487,7 @@
 		},{
 			"id":67,
 			"name": "Snake",
-			"callsign":"--",
+			"callsign":"Scylla",
 			"unit":"Venom Squadron",
 			"squadEmblem":"venom.png",
 			"isSquadLeader":true,
