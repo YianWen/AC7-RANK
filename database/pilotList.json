@@ -60,7 +60,7 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":97, "drift":94, "consistency":94, "bkf":30, "strategy":88,
+				"boost":97, "drift":94, "consistency":90, "bkf":30, "strategy":88,
 				"mslAcc":96, "mslCurving":96, "mslLooping":65, 
 				"mgAcc":97, "mgRate":97
 			},
@@ -183,10 +183,9 @@
 			"id":9,
 			"name": "Ali ACF",
 			"callsign":"Shiesty",
-			"unit":"Alect Squadron",
-			"squadEmblem":"alect.png",
-			"mainPlane":"Su-37",
-			"mainSpW":"HPAA",
+			"unit":"--",
+            "mainPlane":"Su-37",
+            "mainSpW":"HPAA",
 			"picture":"/images/ali.webp",
 			"country":{
 				"name":"Kuwait",
@@ -194,7 +193,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":99, "drift":97, "consistency":97, "bkf":97, "strategy":92, 
+				"boost":100, "drift":97, "consistency":98, "bkf":97, "strategy":92, 
 				"mslAcc":99, "mslCurving":98, "mslLooping":80,
 				"mgAcc":98, "mgRate":97
 			},
@@ -216,9 +215,9 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":75, "drift":92, "consistency":77, "bkf":62, "strategy":77, 
-				"mslAcc":84, "mslCurving":96, "mslLooping":60,
-				"mgAcc":25, "mgRate":100
+				"boost":75, "drift":92, "consistency":77, "bkf":62, "strategy":78, 
+				"mslAcc":85, "mslCurving":96, "mslLooping":60,
+				"mgAcc":28, "mgRate":100
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
@@ -579,8 +578,8 @@
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
-				"boost":82, "drift":88, "consistency":77, "bkf":98, "strategy":89,
-				"mslAcc":88, "mslCurving":87, "mslLooping":89,
+				"boost":88, "drift":89, "consistency":89, "bkf":98, "strategy":89,
+				"mslAcc":88, "mslCurving":88, "mslLooping":89,
 				"mgAcc":90, "mgRate":70
 			},
 			"lastUpdate":"2022/02/07",
@@ -602,7 +601,7 @@
 			"platforms": ["PC"],
 			"statistics":{
 				"boost":90, "drift":96, "consistency":90, "bkf":90, "strategy":80,
-				"mslAcc":92, "mslCurving":97, "mslLooping":90,
+				"mslAcc":92, "mslCurving":97, "mslLooping":95,
 				"mgAcc":92, "mgRate":90
 			},
 			"lastUpdate":"2022/02/07",
@@ -1082,7 +1081,7 @@
 			},
 			"lastUpdate":"2022/04/09",
 			"rankAverage":-1,
-			"active":false,
+			"active":true,
 			"hidden":false
 		},{
 			"id":49,
@@ -1409,11 +1408,11 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":65, "drift":70, "consistency":62, "bkf":70, "strategy":60, 
-				"mslAcc":60, "mslCurving":40, "mslLooping":40,
-				"mgAcc":50, "mgRate":40
+				"boost":79, "drift":84, "consistency":69, "bkf":45, "strategy":79, 
+				"mslAcc":80, "mslCurving":60, "mslLooping":20,
+				"mgAcc":83, "mgRate":78
 			},
-			"lastUpdate":"2022/08/02",
+			"lastUpdate":"2022/08/09",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
@@ -1487,7 +1486,7 @@
 		},{
 			"id":67,
 			"name": "Snake",
-			"callsign":"--",
+			"callsign":"Scylla",
 			"unit":"Venom Squadron",
 			"squadEmblem":"venom.png",
 			"isSquadLeader":true,
