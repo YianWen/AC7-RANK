@@ -279,7 +279,7 @@
 			"squadEmblem":"venom.png",
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
-			"picture":"/images/ven-raptor.jpg",
+			"picture":"/images/raptor.jpg",
 			"country":{
 				"name":"India",
 				"code":"IN"
@@ -1069,7 +1069,7 @@
 			"isSquadLeader":true,
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
-			"picture":"/images/Sora GTA.jpg",
+			"picture":"/images/Sora.jpg",
 			"country":{
 				"name":"Japan",
 				"code":"JP"
@@ -1399,10 +1399,10 @@
 			"name": "InfinityUSEA",
 			"callsign":"Infinity",
 			"unit":"Infinity Squadron",
-			"squadEmblem":"Usea squad.png",
+			"squadEmblem":"infinity_squadron.png",
 			"mainPlane":"F-35C",
 			"mainSpW":"HPAA",
-			"picture":"/images/usea.jpg",
+			"picture":"/images/Usea.jpg",
 			"country":{
 				"name":"United States",
 				"code":"US"
