@@ -628,8 +628,8 @@
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":true,
-			"hidden":false
+			"active":false,
+			"hidden":true
 		},{
 			"id":29,
 			"name": "Federal Hamster",
