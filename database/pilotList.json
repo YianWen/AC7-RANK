@@ -1155,20 +1155,20 @@
 			"name": "Nyanpire",
 			"callsign":"--",
 			"unit":"--",
-			"mainPlane":"Su-35s",
-			"mainSpW":"6AAM",
-			"picture":"/images/su-35s (1).jpg",
+			"mainPlane":"Su-37",
+			"mainSpW":"MSL",
+			"picture":"/images/su-37 (1).jpg",
 			"country":{
 				"name":"Japan",
 				"code":"JP"
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":92, "drift":90, "consistency":75, "bkf":10, "strategy":80, 
-				"mslAcc":95, "mslCurving":90, "mslLooping":20, 
-				"mgAcc":80, "mgRate":40 
+				"boost":92, "drift":90, "consistency":83, "bkf":35, "strategy":80, 
+				"mslAcc":95, "mslCurving":92, "mslLooping":20, 
+				"mgAcc":83, "mgRate":80 
 			},
-			"lastUpdate":"2022/03/27",
+			"lastUpdate":"2022/08/11",
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
