@@ -690,7 +690,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":82, "drift":94, "consistency":77, "bkf":0, "strategy":90, 
+				"boost":82, "drift":94, "consistency":77, "bkf":0, "strategy":86, 
 				"mslAcc":85, "mslCurving":90, "mslLooping":20,
 				"mgAcc":90, "mgRate":80
 			},
@@ -757,7 +757,7 @@
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
-				"boost":88, "drift":89, "consistency":70, "bkf":0, "strategy":70, 
+				"boost":88, "drift":86, "consistency":70, "bkf":0, "strategy":80, 
 				"mslAcc":80, "mslCurving":90, "mslLooping":0,
 				"mgAcc":86, "mgRate":65
 			},
