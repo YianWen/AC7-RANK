@@ -1460,7 +1460,7 @@
 			},
 			"lastUpdate":"2022/02/07",
 			"rankAverage":-1,
-			"active":true,
+			"active":false,
 			"hidden":false
 		},{
 			"id":66,
@@ -1802,6 +1802,51 @@
 			"rankAverage":-1,
 			"active":true,
 			"hidden":false
+		},{
+			"id":81,
+			"name": "Kurdia",
+			"callsign":"--",
+			"unit":"--",
+			"mainPlane":"Su-37",
+			"mainSpW":"HPAA",
+			"picture":"/images/su-37 (2).jpg",
+			"country":{
+				"name":"",
+				"code":""
+			},
+			"platforms": ["PC"],
+			"statistics":{
+				"boost":82, "drift":94, "consistency":72, "bkf":84, "strategy":80, 
+                "mslAcc":82, "mslCurving":90, "mslLooping":50,
+                "mgAcc":83, "mgRate":80 
+			},
+			"lastUpdate":"2022/06/28",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":true
+		},{
+			"id":82,
+			"name": "AESIR Fenrir",
+			"callsign":"Fenrir",
+			"unit":"AESIR 182nd Task Force",
+			"squadEmblem":"aesir.png",
+			"mainPlane":"Su-35s",
+			"mainSpW":"6AAM",
+			"picture":"/images/su-35s (5).jpg",
+			"country":{
+				"name":"England",
+				"code":"UK"
+			},
+			"platforms": ["PSN"],
+			"statistics":{
+				"boost":89, "drift":86, "consistency":86, "bkf":25, "strategy":80, 
+                "mslAcc":84, "mslCurving":79, "mslLooping":20,
+                "mgAcc":88, "mgRate":90 
+			},
+			"lastUpdate":"2022/08/18",
+			"rankAverage":-1,
+			"active":true,
+			"hidden":true
 		}
 	]
 }
