@@ -422,8 +422,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":98, "drift":98, "consistency":97, "bkf":98, "strategy":82, 
-				"mslAcc":98, "mslCurving":97, "mslLooping":80,
+				"boost":98, "drift":98, "consistency":97, "bkf":98, "strategy":84, 
+				"mslAcc":98, "mslCurving":97, "mslLooping":86,
 				"mgAcc":98, "mgRate":100 
 			},
 			"lastUpdate":"2022/02/07",
@@ -823,7 +823,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":96, "drift":96, "consistency":95, "bkf":95, "strategy":94, 
+				"boost":96, "drift":96, "consistency":94, "bkf":95, "strategy":94, 
 				"mslAcc":98, "mslCurving":96, "mslLooping":96, 
 				"mgAcc":97, "mgRate":78
 			},
