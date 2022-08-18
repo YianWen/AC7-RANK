@@ -670,7 +670,7 @@
 			"statistics":{
 				"boost":98, "drift":98, "consistency":94, "bkf":86, "strategy":88, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":72, 
-				"mgAcc":97, "mgRate":92
+				"mgAcc":98, "mgRate":92
 			},
 			"lastUpdate":"2022/05/08",
 			"rankAverage":-1,
