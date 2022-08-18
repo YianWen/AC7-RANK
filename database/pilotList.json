@@ -1839,14 +1839,14 @@
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":89, "drift":86, "consistency":86, "bkf":25, "strategy":80, 
-                "mslAcc":84, "mslCurving":79, "mslLooping":20,
-                "mgAcc":88, "mgRate":90 
+				"boost":89, "drift":86, "consistency":82, "bkf":25, "strategy":85, 
+                "mslAcc":84, "mslCurving":80, "mslLooping":22,
+                "mgAcc":85, "mgRate":75 
 			},
 			"lastUpdate":"2022/08/18",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		}
 	]
 }
