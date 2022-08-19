@@ -60,7 +60,7 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":97, "drift":94, "consistency":94, "bkf":30, "strategy":88,
+				"boost":97, "drift":94, "consistency":90, "bkf":30, "strategy":88,
 				"mslAcc":96, "mslCurving":96, "mslLooping":65, 
 				"mgAcc":97, "mgRate":97
 			},
@@ -193,8 +193,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":100, "drift":97, "consistency":98, "bkf":96, "strategy":92, 
-				"mslAcc":99, "mslCurving":98, "mslLooping":80,
+				"boost":100, "drift":97, "consistency":98, "bkf":97, "strategy":92, 
+				"mslAcc":99, "mslCurving":99, "mslLooping":80,
 				"mgAcc":98, "mgRate":97
 			},
 			"lastUpdate":"2022/02/07",
@@ -591,7 +591,7 @@
 			"name": "Russian Shark",
 			"callsign":"Akula",
 			"unit":"Zhaba Squadron",
-			"mainPlane":"MiG-35D",
+			"mainPlane":"Su-30SM",
 			"mainSpW":"6AAM",
 			"picture":"/images/rusShark.jpg",
 			"country":{
@@ -600,8 +600,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":90, "drift":96, "consistency":90, "bkf":90, "strategy":80,
-				"mslAcc":92, "mslCurving":97, "mslLooping":95,
+				"boost":92, "drift":96, "consistency":89, "bkf":93, "strategy":80,
+				"mslAcc":94, "mslCurving":97, "mslLooping":95,
 				"mgAcc":92, "mgRate":90
 			},
 			"lastUpdate":"2022/02/07",
@@ -1029,8 +1029,8 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":97, "drift":96, "consistency":85, "bkf":68, "strategy":85, 
-				"mslAcc":94, "mslCurving":91, "mslLooping":60, 
+				"boost":97, "drift":96, "consistency":92, "bkf":68, "strategy":85, 
+				"mslAcc":95, "mslCurving":94, "mslLooping":60, 
 				"mgAcc":94, "mgRate":95
 			},
 			"lastUpdate":"2022/05/31",
@@ -1826,8 +1826,8 @@
 			"hidden":true
 		},{
 			"id":82,
-			"name": "AESIR Fenrir",
-			"callsign":"Fenrir",
+			"name": "Fenrir",
+			"callsign":"--",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
 			"mainPlane":"Su-35s",
