@@ -668,7 +668,7 @@
 			},
 			"platforms": ["PC", "PSN"],
 			"statistics":{
-				"boost":98, "drift":98, "consistency":95, "bkf":86, "strategy":88, 
+				"boost":98, "drift":98, "consistency":94, "bkf":86, "strategy":88, 
 				"mslAcc":98, "mslCurving":98, "mslLooping":72, 
 				"mgAcc":98, "mgRate":92
 			},
@@ -1068,7 +1068,7 @@
 			"isSquadLeader":true,
 			"mainPlane":"Su-35s",
 			"mainSpW":"6AAM",
-			"picture":"/images/Sora.jpg",
+			"picture":"/images/sora.jpg",
 			"country":{
 				"name":"Japan",
 				"code":"JP"
@@ -1839,14 +1839,14 @@
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":89, "drift":86, "consistency":86, "bkf":25, "strategy":80, 
-                "mslAcc":84, "mslCurving":79, "mslLooping":20,
-                "mgAcc":88, "mgRate":90 
+				"boost":89, "drift":86, "consistency":82, "bkf":25, "strategy":85, 
+                "mslAcc":84, "mslCurving":80, "mslLooping":22,
+                "mgAcc":85, "mgRate":75 
 			},
 			"lastUpdate":"2022/08/18",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		}
 	]
 }
