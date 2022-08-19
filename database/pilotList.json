@@ -1809,44 +1809,44 @@
 			"unit":"--",
 			"mainPlane":"Su-37",
 			"mainSpW":"HPAA",
-			"picture":"/images/su-37 (2).jpg",
+			"picture":"/images/Kurdia.jpg",
 			"country":{
 				"name":"Kurdistan",
-				"code":"KN"
+				"code":"--"
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":82, "drift":94, "consistency":72, "bkf":84, "strategy":80, 
+				"boost":82, "drift":88, "consistency":75, "bkf":84, "strategy":80, 
                 "mslAcc":82, "mslCurving":90, "mslLooping":50,
                 "mgAcc":83, "mgRate":80 
 			},
-			"lastUpdate":"2022/06/28",
+			"lastUpdate":"2022/08/18",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		},{
 			"id":82,
 			"name": "Fenrir",
 			"callsign":"--",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
-			"mainPlane":"Su-35s",
-			"mainSpW":"6AAM",
-			"picture":"/images/su-35s (5).jpg",
+			"mainPlane":"F-22A",
+			"mainSpW":"QAAM",
+			"picture":"/images/mobi.jpg",
 			"country":{
-				"name":"England",
+				"name":"United Kingdom",
 				"code":"UK"
 			},
 			"platforms": ["PSN"],
 			"statistics":{
-				"boost":89, "drift":86, "consistency":86, "bkf":25, "strategy":80, 
-                "mslAcc":84, "mslCurving":79, "mslLooping":20,
-                "mgAcc":88, "mgRate":90 
+				"boost":89, "drift":86, "consistency":82, "bkf":25, "strategy":85, 
+                "mslAcc":84, "mslCurving":80, "mslLooping":22,
+                "mgAcc":85, "mgRate":75 
 			},
 			"lastUpdate":"2022/08/18",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":true
+			"hidden":false
 		}
 	]
 }
