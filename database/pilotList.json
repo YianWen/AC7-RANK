@@ -1816,7 +1816,7 @@
 			},
 			"platforms": ["PC"],
 			"statistics":{
-				"boost":82, "drift":85, "consistency":75, "bkf":84, "strategy":80, 
+				"boost":82, "drift":88, "consistency":75, "bkf":84, "strategy":80, 
                 "mslAcc":82, "mslCurving":90, "mslLooping":50,
                 "mgAcc":83, "mgRate":80 
 			},
@@ -1830,11 +1830,11 @@
 			"callsign":"Fenrir",
 			"unit":"AESIR 182nd Task Force",
 			"squadEmblem":"aesir.png",
-			"mainPlane":"Su-35s",
-			"mainSpW":"6AAM",
-			"picture":"/images/su-35s (5).jpg",
+			"mainPlane":"F-22A",
+			"mainSpW":"QAAM",
+			"picture":"/images/mobi.jpg",
 			"country":{
-				"name":"England",
+				"name":"United Kingdom",
 				"code":"UK"
 			},
 			"platforms": ["PSN"],
