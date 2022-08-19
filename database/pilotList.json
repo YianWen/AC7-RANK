@@ -1812,7 +1812,7 @@
 			"picture":"/images/Kurdia.jpg",
 			"country":{
 				"name":"Kurdistan",
-				"code":"KN"
+				"code":"--"
 			},
 			"platforms": ["PC"],
 			"statistics":{
