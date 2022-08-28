@@ -308,14 +308,14 @@
 			},
 			"platforms": ["PC", "PSN", "XBOX"],
 			"statistics":{
-				"boost":0, "drift":0, "consistency":0, "bkf":0, "strategy":91, 
+				"boost":0, "drift":0, "consistency":0, "bkf":0, "strategy":100, 
 				"mslAcc":0, "mslCurving":0, "mslLooping":0,
 				"mgAcc":0, "mgRate":0
 			},
 			"lastUpdate":"2022/05/06",
 			"rankAverage":-1,
 			"active":true,
-			"hidden":false
+			"hidden":true
 		},{
 			"id":15,
 			"name": "Woodie",
