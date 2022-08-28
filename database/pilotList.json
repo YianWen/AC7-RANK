@@ -610,14 +610,14 @@
 			"hidden":false
 		},{
 			"id":28,
-			"name": "Mihaly",
-			"callsign":"Mister X",
+			"name": "",
+			"callsign":"",
 			"unit":"--",
-			"mainPlane":"Su-30SM",
-			"mainSpW":"6AAM",
+			"mainPlane":"",
+			"mainSpW":"",
 			"picture":"/images/30sm.webp",
 			"country":{
-				"name":"United States",
+				"name":"",
 				"code":"US"
 			},
 			"platforms": ["PC", "XBOX"],
@@ -678,14 +678,14 @@
 			"hidden":false
 		},{
 			"id":31,
-			"name": "The Apex Raptor",
+			"name": "",
 			"callsign":"--",
 			"unit":"--",
-			"mainPlane":"Su-37",
-			"mainSpW":"HPAA",
+			"mainPlane":"",
+			"mainSpW":"",
 			"picture":"/images/su-37 (3).jpg",
 			"country":{
-				"name":"United States",
+				"name":"",
 				"code":"US"
 			},
 			"platforms": ["XBOX"],
@@ -700,14 +700,14 @@
 			"hidden":true
 		},{
 			"id":32,
-			"name": "Groffman",
-			"callsign":"Varcolac 1",
-			"unit":"Varcolac Squadron",
-			"mainPlane":"Su-37",
-			"mainSpW":"HPAA",
+			"name": "",
+			"callsign":"",
+			"unit":"",
+			"mainPlane":"",
+			"mainSpW":"",
 			"picture":"/images/varcolac.webp",
 			"country":{
-				"name":"United States",
+				"name":"",
 				"code":"US"
 			},
 			"platforms": ["XBOX"],
@@ -767,17 +767,17 @@
 			"hidden":false
 		},{
 			"id":35,
-			"name": "Lich",
-			"callsign":"Ofnir 1",
-			"unit":"Ofnir Squadron",
+			"name":"" ,
+			"callsign":"",
+			"unit":"",
 			"mainPlane":"Su-37",
-			"mainSpW":"HPAA",
+			"mainSpW":"",
 			"picture":"/images/ofnir.jpg",
 			"country":{
-				"name":"United States",
-				"code":"US"
+				"name":"",
+				"code":""
 			},
-			"platforms": ["XBOX"],
+			"platforms": [""],
 			"statistics":{
 				"boost":80, "drift":92, "consistency":60, "bkf":30, "strategy":69, 
 				"mslAcc":91, "mslCurving":82, "mslLooping":0,
