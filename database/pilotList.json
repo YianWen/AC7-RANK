@@ -618,7 +618,7 @@
 			"picture":"/images/30sm.webp",
 			"country":{
 				"name":"",
-				"code":"US"
+				"code":""
 			},
 			"platforms": ["PC", "XBOX"],
 			"statistics":{
@@ -686,7 +686,7 @@
 			"picture":"/images/su-37 (3).jpg",
 			"country":{
 				"name":"",
-				"code":"US"
+				"code":""
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
@@ -708,7 +708,7 @@
 			"picture":"/images/varcolac.webp",
 			"country":{
 				"name":"",
-				"code":"US"
+				"code":""
 			},
 			"platforms": ["XBOX"],
 			"statistics":{
